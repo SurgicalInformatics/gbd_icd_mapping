@@ -1,5 +1,5 @@
 library(tidyverse)
-library(modelr)
+
 
 mapping_raw = read_csv("data/IHME_GBD_2016_ICD_CAUSE_MAP_CAUSES_OF_DEATH_Y2017M09D14.csv", skip = 1) %>% 
   select(cause_name = Cause, icd10 = ICD10)
