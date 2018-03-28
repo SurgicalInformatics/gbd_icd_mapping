@@ -1,0 +1,29 @@
+"Lymphatic filariasis" = "B74"
+"Onchocerciasis" = "B73"
+"Trachoma" = "A71"
+"Food-borne trematodiases" = "B66"
+"Guinea worm disease" = E72
+"Vitamin A deficiency" = E50
+"Migraine" = G43
+"Tension-type headache" = G44.2
+"Schizophrenia" = "F20"
+"Depressive disorders "= c("F32", "F43")
+"Bipolar disorder" = "F31"
+"Anxiety disorders" = c("F40", "F41")
+"Autistic spectrum disorders" = "F84"
+"Attention-deficit/hyperactivity disorder "= F90
+"Conduct disorder" = F91
+"Idiopathic developmental intellectual disability" = F70 to F79
+"Other mental and substance use disorders" = F10 to F90
+"Osteoarthritis" = M15 - M19
+"Low back and neck pain" = M54
+"Gout" = "M10"
+"Sense organ diseases" = H00 to H59, H60 to H85
+"Oral disorders" = K00 to K14
+
+
+
+
+
+
+
