@@ -4,6 +4,11 @@ library(tidyverse)
 mapping_raw = read_csv("data/IHME_GBD_2016_ICD_CAUSE_MAP_CAUSES_OF_DEATH_Y2017M09D14.csv", skip = 1) %>% 
   select(cause_name = Cause, icd10 = ICD10)
 
+mapping_missing = read_csv("data/GBD_map_missing_surginf_17042018.csv", skip = 1) %>% 
+  select(cause_name = Cause, icd10 = ICD10)
+
+mapping_raw = bind_rows(mapping_raw, mapping_missing)
+
 cause_hierarchy = read_csv("data/IHME_GBD_2016_CAUSE_HIERARCHY_Y2017M10D02.csv") %>% 
   select(-cause_outline, -sort_order) # the outline looks confusingly/coincidentally similar to ICD but it's not
 
@@ -20,7 +25,7 @@ level4 = alldata %>%
   filter(level == 4)
 
 
-# checking if the missing level3s have information in thei child 4s (no they don't)
+# checking if the missing level3s have information in their child 4s (no they don't)
 # level3_missing = level3%>% 
 #   filter(is.na(icd10))
 # level4 %>% 
