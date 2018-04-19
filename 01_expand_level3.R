@@ -1,5 +1,6 @@
 library(tidyverse)
 
+icd10_lookup = read_csv("icd10_lookup.csv")
 
 mapping_raw = read_csv("data/IHME_GBD_2016_ICD_CAUSE_MAP_CAUSES_OF_DEATH_Y2017M09D14.csv", skip = 1) %>% 
   select(cause_name = Cause, icd10 = ICD10)
@@ -7,7 +8,8 @@ mapping_raw = read_csv("data/IHME_GBD_2016_ICD_CAUSE_MAP_CAUSES_OF_DEATH_Y2017M0
 mapping_missing = read_csv("data/GBD_map_missing_surginf_17042018.csv", skip = 1) %>% 
   select(cause_name = Cause, icd10 = ICD10)
 
-mapping_raw = bind_rows(mapping_raw, mapping_missing)
+mapping_raw = bind_rows(mapping_raw, mapping_missing) %>% 
+  na.omit()
 
 cause_hierarchy = read_csv("data/IHME_GBD_2016_CAUSE_HIERARCHY_Y2017M10D02.csv") %>% 
   select(-cause_outline, -sort_order) # the outline looks confusingly/coincidentally similar to ICD but it's not
@@ -32,9 +34,11 @@ level4 = alldata %>%
 #   filter(parent_id %in% level3_missing$cause_id)
 
 
+
 # testing that ranges are one letter only
 # mutate(icd10_letter_both = str_extract_all(icd10, "[A-Z]")) %>% 
 expand = level3 %>% 
+  mutate(icd10 = str_replace(icd10, "X85-Y08.9", "X85-X99, Y00-Y08.9")) %>% # split a two-letter range
   select(cause_id, icd10) %>% 
   na.omit() %>% 
   #mutate(icd10_original = icd10) %>% 
@@ -45,7 +49,6 @@ expand = level3 %>%
   select(-group) %>% 
   na.omit() %>% 
   mutate(icd10 = ifelse(icd10 == "C47-C4A", "C47-C48", icd10)) %>% # typo in the lookup, 4A -> 48
-  filter(! icd10  %in% c("X85-Y08.9", "Y87.1")) %>% 
   mutate(icd10_letter1 = str_extract(icd10, "[A-Z]")) %>% 
   mutate(icd_range = str_replace(icd10, "[A-Z]", "")) %>% 
   mutate(icd10_letter2 = str_extract(icd_range, "[A-Z]")) %>% 
@@ -57,8 +60,6 @@ expand = level3 %>%
   mutate(start_numeric = as.numeric(start), end_numeric = as.numeric(end_decimal))
 
 
-# TODO check weird range: J05-J05.0
-
 # if this is zero all ranges only cover one letter
 expand %>% 
   filter(icd10_letter1 != icd10_letter2)
@@ -66,6 +67,7 @@ expand %>%
 # this needs to be empty (end can't be before start)
 expand %>% 
   filter(end_numeric < start_numeric)
+
 
 seq.vectorized = Vectorize(seq.default, vectorize.args = c("from", "to"))
 
@@ -80,8 +82,17 @@ gather_range = expand_range %>%
   separate(range, into = paste0("code-", 1:1500), ",") %>% 
   gather(number, value, -cause_id, -icd10, -icd10_letter1) %>% 
   na.omit() %>% 
-  mutate(value_formatted = format(value %>% as.numeric(), nsmall = 1) %>% str_pad(4, side = "left", pad = "0")) %>% 
-  mutate(icd10_expanded = paste0(icd10_letter1, value_formatted))
+  ungroup() %>% 
+  mutate(value_formatted = format(value %>% as.numeric(), nsmall = 1, trim = TRUE) %>% str_pad(4, side = "left", pad = "0")) %>% 
+  mutate(icd10_expanded = paste0(icd10_letter1, value_formatted)) %>% 
+  ungroup() %>% 
+  filter(icd10_expanded %in% icd10_lookup$icd10)
+
+gather_range %>% 
+  select(cause_id, icd10 = icd10_expanded) %>% 
+  left_join(icd10_lookup) %>% 
+  arrange(icd10_name, icd10) %>% 
+  write_csv("gbd_icd10_lookup_level3_long.csv")
 
 for_checking = gather_range %>% 
   group_by(icd10, cause_id) %>% 
@@ -92,7 +103,7 @@ for_checking = gather_range %>%
   full_join(level3) %>% 
   select(cause_id, cause_name, icd10_lookup_provided = icd10, icd10_ranges_expanded = expanded)
 
-write_csv(for_checking, "gbd_ocd10_lookup_expanded.csv")
+write_csv(for_checking, "gbd_icd10_lookup_level3_for_checking.csv")
 
 
 

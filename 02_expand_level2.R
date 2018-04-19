@@ -1,6 +1,8 @@
 library(tidyverse)
 
 
+icd10_lookup = read_csv("icd10_lookup.csv")
+
 mapping_raw = read_csv("data/IHME_GBD_2016_ICD_CAUSE_MAP_CAUSES_OF_DEATH_Y2017M09D14.csv", skip = 1) %>% 
   select(cause_name = Cause, icd10 = ICD10)
 
@@ -61,7 +63,8 @@ gather_range = expand_range %>%
   na.omit() %>% 
   mutate(value_formatted = format(value %>% as.numeric(), nsmall = 1, trim = TRUE) %>% str_pad(4, side = "left", pad = "0")) %>% 
   mutate(icd10_expanded = paste0(icd10_letter1, value_formatted)) %>% 
-  ungroup()
+  ungroup() %>% 
+  filter(icd10_expanded %in% icd10_lookup$icd10)
 
 gather_range %>% 
   select(cause_id, icd10 = icd10_expanded) %>% 

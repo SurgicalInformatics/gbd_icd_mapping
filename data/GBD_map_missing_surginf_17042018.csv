@@ -1,4 +1,4 @@
-﻿List of International Classification of Diseases (ICD) codes mapped to the Global Burden of Disease cause list for causes of death,
+List of International Classification of Diseases (ICD) codes mapped to the Global Burden of Disease cause list for causes of death,
 Cause,ICD10
 Lymphatic filariasis , B74
 Onchocerciasis , B73
@@ -19,6 +19,11 @@ Idiopathic developmental intellectual disability , F70-F79
 Other mental and substance use disorders , F10-F90
 Osteoarthritis , M15-M19
 Low back and neck pain , M54
-Gout , M10
-Sense organ diseases ,"H00-H59,H60-H85"
-Oral disorders , K00-K14
+Gout, M10
+Sense organ diseases,"H00-H59,H60-H85"
+Oral disorders, K00-K14
+Cirrhosis and other chronic liver diseases due to hepatitis B, B18.0-B18.1
+Cirrhosis and other chronic liver diseases due to hepatitis C, B18.2
+Cirrhosis and other chronic liver diseases due to alcohol use, K70
+Cirrhosis and other chronic liver diseases due to other causes," B18.8, B18.9,  I85-I85.9,  I98.2,  K71-K77"
+Maternal deaths aggravated by HIV/AIDS, O98.7
