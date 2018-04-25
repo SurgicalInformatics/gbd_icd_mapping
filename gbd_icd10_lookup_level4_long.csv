@@ -1,0 +1,2074 @@
+cause_id,icd10,icd10_name
+648,Q99.1,"46, XX true hermaphrodite"
+612,N75.1,Abscess of Bartholin's gland
+602,N45.4,Abscess of epididymis or testis
+602,N41.2,Abscess of prostate
+612,N76.4,Abscess of vulva
+652,Q10.4,Absence and agenesis of lacrimal apparatus
+650,Q55.0,Absence and aplasia of testis
+652,Q16.2,Absence of eustachian tube
+652,Q13.1,Absence of iris
+652,Q83.2,Absent nipple
+668,L11.9,"Acantholytic disorder, unspecified"
+652,Q17.0,Accessory auricle
+652,Q83.1,Accessory breast
+649,Q69.0,Accessory finger(s)
+650,Q63.0,Accessory kidney
+652,Q33.1,Accessory lobe of lung
+652,Q83.3,Accessory nipple
+649,Q69.1,Accessory thumb(s)
+649,Q69.2,Accessory toe(s)
+707,W50.3,Accidental bite by another person
+705,W34.0,Accidental discharge from other and unsp firearms and guns
+705,W32.0,Accidental handgun discharge
+705,W32.1,Accidental handgun malfunction
+707,W50.0,Accidental hit or strike by another person
+707,W50.1,Accidental kick by another person
+705,W34.1,Accidental malfunction from other and unsp firearms and guns
+705,W33.0,"Accidental rifle, shotgun and larger firearm discharge"
+705,W33.1,"Accidental rifle, shotgun and larger firearm malfunction"
+707,W50.4,Accidental scratch by another person
+707,W50.2,Accidental twist by another person
+649,Q77.0,Achondrogenesis
+649,Q77.4,Achondroplasia
+612,N83.3,Acquired atrophy of ovary and fallopian tube
+668,L12.3,Acquired epidermolysis bullosa
+668,L11.0,Acquired keratosis follicularis
+618,D60.9,"Acquired pure red cell aplasia, unspecified"
+595,N30.0,Acute cystitis
+402,B17.0,Acute delta-(super) infection of hepatitis B carrier
+847,C94.0,Acute erythroid leukemia
+402,B16.0,Acute hepatitis B with delta-agent with hepatic coma
+402,B16.1,Acute hepatitis B with delta-agent without hepatic coma
+402,B16.2,Acute hepatitis B without delta-agent with hepatic coma
+402,B16.9,Acute hepatitis B w/o delta-agent and without hepatic coma
+403,B17.1,Acute hepatitis C
+404,B17.2,Acute hepatitis E
+943,C95.0,Acute leukemia of unspecified cell type
+657,L04.0,"Acute lymphadenitis of face, head and neck"
+657,L04.3,Acute lymphadenitis of lower limb
+657,L04.8,Acute lymphadenitis of other sites
+657,L04.1,Acute lymphadenitis of trunk
+657,L04.2,Acute lymphadenitis of upper limb
+657,L04.9,"Acute lymphadenitis, unspecified"
+845,C91.0,Acute lymphoblastic leukemia [ALL]
+847,C94.2,Acute megakaryoblastic leukemia
+335,A39.2,Acute meningococcemia
+934,A19.0,Acute miliary tuberculosis of a single specified site
+934,A19.1,Acute miliary tuberculosis of multiple sites
+934,A19.2,"Acute miliary tuberculosis, unspecified"
+847,C93.0,Acute monoblastic/monocytic leukemia
+847,C92.0,Acute myeloblastic leukemia
+847,C92.6,Acute myeloid leukemia with 11q23-abnormality
+847,C92.5,Acute myelomonocytic leukemia
+942,I40.9,"Acute myocarditis, unspecified"
+847,C94.4,Acute panmyelosis with myelofibrosis
+847,C92.4,Acute promyelocytic leukemia
+602,N41.0,Acute prostatitis
+612,N76.0,Acute vaginitis
+612,N76.2,Acute vulvitis
+336,A87.1,Adenoviral meningitis
+943,C91.5,Adult T-cell lymphoma/leukemia (HTLV-1-associated)
+650,Q51.5,Agenesis and aplasia of cervix
+650,Q51.0,Agenesis and aplasia of uterus
+652,Q30.1,Agenesis and underdevelopment of nose
+651,Q44.0,"Agenesis, aplasia and hypoplasia of gallbladder"
+651,Q45.0,"Agenesis, aplasia and hypoplasia of pancreas"
+652,Q33.3,Agenesis of lung
+593,Q62.4,Agenesis of ureter
+938,I42.6,Alcoholic cardiomyopathy
+614,D56.0,Alpha thalassemia
+514,J63.0,Aluminosis (of lung)
+495,G45.3,Amaurosis fugax
+652,Q06.0,Amyelia
+616,D55.2,Anemia due to disorders of glycolytic enzymes
+618,D55.3,Anemia due to disorders of nucleotide metabolism
+618,D55.9,"Anemia due to enzyme disorder, unspecified"
+616,D55.0,Anemia due to glucose-6-phosphate dehydrogenase deficiency
+616,D55.1,Anemia due to other disorders of glutathione metabolism
+642,Q00.0,Anencephaly
+694,V80.4,Animl rider/occ injured collision hvy veh
+694,V80.0,Animl-rider/occ injured fall from same w/o collision
+694,V80.9,Animl rider/occ injured oth transp acc
+694,V80.5,Animl-ridr or occ of anml-drn vehicle inj in clsn w mtr veh
+694,V80.1,Animl-ridr or occ of anml-drn vehicle inj in clsn w ped/anml
+694,V80.2,Animl-ridr or occ of anml-drn vehicle inj in clsn w pedl cyc
+694,V80.3,Animl-ridr or occ of anml-drn veh inj in clsn w 2/3-whl mv
+694,V80.7,Animl-ridr or occ of anml-drn veh inj in clsn w nonmtr veh
+694,V80.6,Animl-ridr or occ of anml-drn veh inj in clsn w rail trn/veh
+694,V80.8,Animl-ridr or occ of anml-drn veh inj in clsn w statnry obj
+651,Q38.1,Ankyloglossia
+651,Q45.1,Annular pancreas
+399,A63.0,Anogenital (venereal) warts
+643,Q26.5,Anomalous portal venous connection
+643,Q26.4,"Anomalous pulmonary venous connection, unspecified"
+652,Q34.0,Anomaly of pleura
+652,Q84.3,Anonychia
+573,F50.0,Anorexia nervosa
+495,G46.1,Anterior cerebral artery syndrome
+643,Q21.4,Aortopulmonary septal defect
+618,D61.2,Aplastic anemia due to other external agents
+618,D61.9,"Aplastic anemia, unspecified"
+652,Q04.1,Arhinencephaly
+652,Q07.0,Arnold-Chiari syndrome
+643,Q28.2,Arteriovenous malformation of cerebral vessels
+643,Q28.0,Arteriovenous malformation of precerebral vessels
+643,Q27.3,Arteriovenous malformation (peripheral)
+649,Q74.3,Arthrogryposis multiplex congenita
+361,B77.9,"Ascariasis, unspecified"
+361,B77.0,Ascariasis with intestinal complications
+361,B77.8,Ascariasis with other complications
+727,X96.0,Assault by antipersonnel bomb
+727,Y03.0,Assault by being hit or run over by motor vehicle
+727,X92.2,Assault by drown after push into swimming pool
+727,X92.3,Assault by drowning and submersion in natural water
+727,X92.9,"Assault by drowning and submersion, unspecified"
+727,X92.0,Assault by drowning and submersion while in bathtub
+727,X92.1,Assault by drowning and submersion while in swimming pool
+727,X96.3,Assault by fertilizer bomb
+725,X95.0,"Assault by gas, air or spring-operated guns"
+727,X96.1,Assault by gasoline bomb
+727,X98.2,Assault by hot fluids
+727,X98.3,Assault by hot household appliances
+727,X98.1,Assault by hot tap water
+727,Y04.1,Assault by human bite
+725,X94.1,Assault by hunting rifle
+726,X99.1,Assault by knife
+727,X96.2,Assault by letter bomb
+725,X94.2,Assault by machine gun
+727,Y04.8,Assault by other bodily force
+725,X95.8,Assault by other firearm discharge
+727,X98.8,Assault by other hot objects
+725,X94.8,Assault by other larger firearm discharge
+726,X99.8,Assault by other sharp object
+727,X96.8,Assault by other specified explosive
+727,Y08.8,Assault by other specified means
+727,X96.4,Assault by pipe bomb
+727,Y02.0,Assault by push/place victim in front of motor vehicle
+727,Y02.8,Assault by push/place victim in front of moving object
+727,Y02.1,Assault by push/place victim in front of (subway) train
+726,X99.0,Assault by sharp glass
+725,X94.0,Assault by shotgun
+727,X98.0,Assault by steam or hot vapors
+727,Y04.2,Assault by strike against or bumped into by another person
+727,Y08.0,Assault by strike by sport equipment
+726,X99.2,Assault by sword or dagger
+727,Y04.0,Assault by unarmed brawl or fight
+727,X96.9,Assault by unspecified explosive
+725,X95.9,Assault by unspecified firearm discharge
+727,X98.9,Assault by unspecified hot objects
+725,X94.9,Assault by unspecified larger firearm discharge
+726,X99.9,Assault by unspecified sharp object
+394,A52.2,Asymptomatic neurosyphilis
+643,Q25.2,Atresia of aorta
+651,Q44.2,Atresia of bile ducts
+651,Q39.0,Atresia of esophagus without fistula
+651,Q39.1,Atresia of esophagus with tracheo-esophageal fistula
+652,Q03.1,Atresia of foramina of Magendie and Luschka
+643,Q25.5,Atresia of pulmonary artery
+650,Q55.3,Atresia of vas deferens
+643,Q21.1,Atrial septal defect
+643,Q21.2,Atrioventricular septal defect
+602,N26.1,Atrophy of kidney (terminal)
+943,C92.2,"Atypical chronic myeloid leukemia, BCR/ABL-negative"
+648,Q95.2,Balanced autosomal rearrangement in abnormal individual
+648,Q95.9,"Balanced rearrangement and structural marker, unspecified"
+648,Q95.3,Balanced sex/autosomal rearrangement in abnormal individual
+648,Q95.0,Balanced translocation and insertion in normal individual
+321,A07.0,Balantidiasis
+595,N15.0,Balkan nephropathy
+593,N15.0,Balkan nephropathy
+514,J63.1,Bauxite fibrosis (of lung)
+604,D28.2,Benign neoplasm of uterine tubes and ligaments
+336,G03.2,Benign recurrent meningitis [Mollaret]
+514,J63.2,Berylliosis
+614,D56.1,Beta thalassemia
+650,Q51.3,Bicornate uterus
+711,W54.0,Bitten by dog
+602,N32.0,Bladder-neck obstruction
+652,Q13.5,Blue sclera
+657,A66.6,Bone and joint lesions of yaws
+495,G46.3,Brain stem stroke syndrome
+668,L10.3,Brazilian pemphigus [fogo selvagem]
+574,F50.2,Bulimia nervosa
+668,L13.9,"Bullous disorder, unspecified"
+668,L12.0,Bullous pemphigoid
+693,V79.8,Bus occupant (driver) injured in oth transport accidents
+693,V79.3,Bus occupant (driver) (passenger) injured in unsp nontraf
+693,V79.9,Bus occupant (driver) (passenger) injured in unsp traf
+849,D04.2,Ca in situ skin of ear and external auricular canal
+596,N21.0,Calculus in bladder
+596,N21.1,Calculus in urethra
+596,N20.0,Calculus of kidney
+596,N20.2,Calculus of kidney with calculus of ureter
+596,N21.9,"Calculus of lower urinary tract, unspecified"
+596,N20.1,Calculus of ureter
+849,D04.1,"Carcinoma in situ of skin of eyelid, including canthus"
+849,D04.0,Carcinoma in situ of skin of lip
+849,D04.7,"Carcinoma in situ of skin of lower limb, including hip"
+849,D04.3,Carcinoma in situ of skin of other and unsp parts of face
+849,D04.8,Carcinoma in situ of skin of other sites
+849,D04.4,Carcinoma in situ of skin of scalp and neck
+849,D04.5,Carcinoma in situ of skin of trunk
+849,D04.6,"Carcinoma in situ of skin of upper limb, including shoulder"
+849,D04.9,"Carcinoma in situ of skin, unspecified"
+944,I42.7,Cardiomyopathy due to drug and external agent
+394,A52.0,Cardiovascular and cerebrovascular syphilis
+693,V42.5,Car driver injured in collision w 2/3-whl mv in traf
+693,V42.0,Car driver injured in collision w 2/3-whl mv nontraf
+693,V44.5,Car driver injured in collision w hv veh in traffic accident
+693,V44.0,Car driver injured in collision w hv veh nontraf
+693,V46.5,Car driver injured in collision w nonmtr vehicle in traf
+693,V46.0,Car driver injured in collision w nonmtr vehicle nontraf
+693,V41.5,Car driver injured in collision w pedal cycle in traf
+693,V41.0,Car driver injured in collision w pedal cycle nontraf
+693,V40.5,Car driver injured in collision w ped/anml in traf
+693,V40.0,Car driver injured in collision w ped/anml nontraf
+693,V45.5,Car driver injured in collision w rail trn/veh in traf
+693,V45.0,Car driver injured in collision w rail trn/veh nontraf
+693,V47.5,Car driver injured in collision w statnry object in traf
+693,V47.0,Car driver injured in collision w statnry object nontraf
+693,V48.5,Car driver injured in nonclsn transport accident in traf
+693,V48.0,Car driver injured in nonclsn transport accident nontraf
+693,V43.5,"Car driver injured pick-up truck, pk-up/van in traf"
+693,V43.0,"Car driver injured pick-up truck, pk-up/van nontraf"
+693,V49.8,Car occupant (driver) injured in oth transport accidents
+693,V49.3,Car occupant (driver) (passenger) injured in unsp nontraf
+693,V49.9,Car occupant (driver) (passenger) injured in unsp traf
+495,G45.1,Carotid artery syndrome (hemispheric)
+693,V42.6,Car passenger injured in collision w 2/3-whl mv in traf
+693,V42.1,Car passenger injured in collision w 2/3-whl mv nontraf
+693,V44.6,Car passenger injured in collision w hv veh in traf
+693,V44.1,Car passenger injured in collision w hv veh nontraf
+693,V46.6,Car passenger injured in collision w nonmtr vehicle in traf
+693,V46.1,Car passenger injured in collision w nonmtr vehicle nontraf
+693,V41.6,Car passenger injured in collision w pedal cycle in traf
+693,V41.1,Car passenger injured in collision w pedal cycle nontraf
+693,V40.6,Car passenger injured in collision w ped/anml in traf
+693,V40.1,Car passenger injured in collision w ped/anml nontraf
+693,V45.6,Car passenger injured in collision w rail trn/veh in traf
+693,V45.1,Car passenger injured in collision w rail trn/veh nontraf
+693,V47.6,Car passenger injured in collision w statnry object in traf
+693,V47.1,Car passenger injured in collision w statnry object nontraf
+693,V48.6,Car passenger injured in nonclsn transport accident in traf
+693,V48.1,Car passenger injured in nonclsn transport accident nontraf
+693,V43.6,"Car passenger injured pick-up truck, pk-up/van in traf"
+693,V43.1,"Car passenger injured pick-up truck, pk-up/van nontraf"
+707,W23.0,"Caught, crushed, jammed, or pinched between moving objects"
+707,W23.1,"Caught, crushed, jammed, or pinched betw stationary objects"
+656,L03.2,Cellulitis and acute lymphangitis of face and neck
+656,L03.0,Cellulitis and acute lymphangitis of finger and toe
+656,L03.1,Cellulitis and acute lymphangitis of other parts of limb
+656,L03.8,Cellulitis and acute lymphangitis of other sites
+656,L03.3,Cellulitis and acute lymphangitis of trunk
+656,L03.9,"Cellulitis and acute lymphangitis, unspecified"
+495,G46.4,Cerebellar stroke syndrome
+496,I67.1,"Cerebral aneurysm, nonruptured"
+496,I68.2,Cerebral arteritis in other diseases classified elsewhere
+495,I67.2,Cerebral atherosclerosis
+495,I63.4,Cerebral infarction due to embolism of cerebral arteries
+495,I63.1,Cerebral infarction due to embolism of precerebral arteries
+495,I63.3,Cerebral infarction due to thrombosis of cerebral arteries
+495,I63.0,Cerebral infarction due to thrombosis of precerb arteries
+495,I63.9,"Cerebral infarction, unspecified"
+495,I63.6,"Cerebral infrc due to cerebral venous thombos, nonpyogenic"
+495,I63.5,Cerebral infrc due to unsp occls or stenosis of cerebral art
+495,I63.2,Cerebral infrc due to unsp occls or stenosis of precerb art
+649,Q76.5,Cervical rib
+642,Q05.0,Cervical spina bifida with hydrocephalus
+642,Q05.5,Cervical spina bifida without hydrocephalus
+648,Q99.0,"Chimera 46, XX/46, XY"
+395,A56.3,Chlamydial infection of anus and rectum
+395,A56.2,"Chlamydial infection of genitourinary tract, unspecified"
+395,A56.0,Chlamydial infection of lower genitourinary tract
+395,A56.1,Chlamydial infection of pelviperitoneum and oth GU organs
+395,A56.4,Chlamydial infection of pharynx
+652,Q30.0,Choanal atresia
+651,Q44.4,Choledochal cyst
+649,Q77.3,Chondrodysplasia punctata
+649,Q77.6,Chondroectodermal dysplasia
+648,Q95.1,Chromosome inversion in normal individual
+648,Q93.2,"Chromosome replaced with ring, dicentric or isochromosome"
+618,D60.0,Chronic acquired pure red cell aplasia
+668,L12.2,Chronic bullous disease of childhood
+943,C95.1,Chronic leukemia of unspecified cell type
+846,C91.1,Chronic lymphocytic leukemia of B-cell type
+336,G03.1,Chronic meningitis
+335,A39.3,Chronic meningococcemia
+848,C92.1,"Chronic myeloid leukemia, BCR/ABL-positive"
+943,C93.1,Chronic myelomonocytic leukemia
+592,N03.7,Chronic nephritic syndrome w diffuse crescentic glomrlneph
+592,N03.2,Chronic nephritic syndrome w diffuse membranous glomrlneph
+592,N03.5,Chronic nephritic syndrome w diffuse mesangiocap glomrlneph
+592,N03.6,Chronic nephritic syndrome with dense deposit disease
+592,N03.0,Chronic nephritic syndrome with minor glomerular abnormality
+592,N03.8,Chronic nephritic syndrome with other morphologic changes
+592,N03.9,Chronic nephritic syndrome with unsp morphologic changes
+592,N03.4,Chronic neph syndrome w diffuse endocaplry prolif glomrlneph
+592,N03.3,Chronic neph syndrome w diffuse mesangial prolif glomrlneph
+592,N03.1,Chronic neph syndrome w focal and seg glomerular lesions
+595,N11.1,Chronic obstructive pyelonephritis
+602,N41.1,Chronic prostatitis
+595,N11.9,"Chronic tubulo-interstitial nephritis, unspecified"
+668,L12.1,Cicatricial pemphigoid
+644,Q37.4,Cleft hard and soft palate with bilateral cleft lip
+644,Q37.5,Cleft hard and soft palate with unilateral cleft lip
+644,Q35.1,Cleft hard palate
+644,Q37.0,Cleft hard palate with bilateral cleft lip
+644,Q35.5,Cleft hard palate with cleft soft palate
+644,Q37.1,Cleft hard palate with unilateral cleft lip
+644,Q36.0,"Cleft lip, bilateral"
+644,Q36.1,"Cleft lip, median"
+644,Q36.9,"Cleft lip, unilateral"
+644,Q35.9,"Cleft palate, unspecified"
+644,Q35.3,Cleft soft palate
+644,Q37.2,Cleft soft palate with bilateral cleft lip
+644,Q37.3,Cleft soft palate with unilateral cleft lip
+644,Q35.7,Cleft uvula
+643,Q25.1,Coarctation of aorta
+563,F14.1,Cocaine abuse
+563,F14.2,Cocaine dependence
+563,F14.9,"Cocaine use, unspecified"
+652,Q13.0,Coloboma of iris
+652,Q12.2,Coloboma of lens
+643,Q20.0,Common arterial trunk
+608,N81.3,Complete uterovaginal prolapse
+651,Q42.9,"Congen absence, atresia and stenosis of lg int, part unsp"
+651,Q42.1,"Congen absence, atresia and stenosis of rectum w/o fistula"
+651,Q41.9,"Congen absence, atresia and stenosis of sm int, part unsp"
+650,Q51.7,Congen fistulae betw uterus and digestive and urinary tracts
+650,Q55.5,Congenital absence and aplasia of penis
+643,Q27.0,Congenital absence and hypoplasia of umbilical artery
+652,Q89.0,Congenital absence and malformations of spleen
+651,Q42.2,"Congenital absence, atresia and stenosis of anus w fistula"
+651,Q42.3,"Congenital absence, atresia and stenosis of anus w/o fistula"
+651,Q41.0,"Congenital absence, atresia and stenosis of duodenum"
+651,Q41.2,"Congenital absence, atresia and stenosis of ileum"
+651,Q41.1,"Congenital absence, atresia and stenosis of jejunum"
+651,Q42.8,"Congenital absence, atresia and stenosis of prt lg int"
+651,Q41.8,"Congenital absence, atresia and stenosis of prt sm int"
+651,Q42.0,"Congenital absence, atresia and stenosis of rectum w fistula"
+652,Q16.1,"Congenital absence, atresia and stricture of auditory canal"
+650,Q64.5,Congenital absence of bladder and urethra
+649,Q71.2,Congenital absence of both forearm and hand
+649,Q72.2,Congenital absence of both lower leg and foot
+652,Q83.0,Congenital absence of breast with absent nipple
+652,Q16.0,Congenital absence of (ear) auricle
+649,Q72.3,Congenital absence of foot and toe(s)
+649,Q71.3,Congenital absence of hand and finger
+650,Q50.0,Congenital absence of ovary
+649,Q72.1,Congenital absence of thigh and lower leg with foot present
+649,Q73.0,Congenital absence of unspecified limb(s)
+649,Q71.1,Congenital absence of upper arm and forearm w hand present
+650,Q52.0,Congenital absence of vagina
+652,Q84.0,Congenital alopecia
+652,Q12.3,Congenital aphakia
+649,Q68.3,Congenital bowing of femur
+649,Q68.5,"Congenital bowing of long bones of leg, unspecified"
+649,Q68.4,Congenital bowing of tibia and fibula
+652,Q33.4,Congenital bronchiectasis
+652,Q32.2,Congenital bronchomalacia
+652,Q80.3,Congenital bullous ichthyosiform erythroderma
+652,Q12.0,Congenital cataract
+652,Q04.6,Congenital cerebral cysts
+650,Q54.4,Congenital chordee
+649,Q72.0,Congenital complete absence of lower limb
+649,Q71.0,Congenital complete absence of upper limb
+649,Q67.1,Congenital compression facies
+652,Q13.3,Congenital corneal opacity
+652,Q33.0,Congenital cystic lung
+652,Q34.1,Congenital cyst of mediastinum
+649,Q66.9,"Congenital deformity of feet, unspecified"
+649,Q68.1,Congenital deformity of finger(s) and hand
+649,Q65.9,"Congenital deformity of hip, unspecified"
+649,Q68.2,Congenital deformity of knee
+649,Q67.5,Congenital deformity of spine
+649,Q68.0,Congenital deformity of sternocleidomastoid muscle
+651,Q79.0,Congenital diaphragmatic hernia
+649,Q79.0,Congenital diaphragmatic hernia
+651,Q39.5,Congenital dilatation of esophagus
+649,Q65.1,"Congenital dislocation of hip, bilateral"
+649,Q65.0,"Congenital dislocation of hip, unilateral"
+649,Q65.2,"Congenital dislocation of hip, unspecified"
+652,Q12.1,Congenital displaced lens
+650,Q64.6,Congenital diverticulum of bladder
+651,Q39.6,Congenital diverticulum of esophagus
+618,D64.4,Congenital dyserythropoietic anemia
+649,Q67.0,Congenital facial asymmetry
+651,Q43.6,Congenital fistula of rectum and anus
+652,Q15.0,Congenital glaucoma
+643,Q24.6,Congenital heart block
+651,Q40.1,Congenital hiatus hernia
+652,Q03.9,"Congenital hydrocephalus, unspecified"
+593,Q62.0,Congenital hydronephrosis
+651,Q40.0,Congenital hypertrophic pyloric stenosis
+652,Q33.6,Congenital hypoplasia and dysplasia of lung
+652,Q80.9,"Congenital ichthyosis, unspecified"
+643,Q23.1,Congenital insufficiency of aortic valve
+652,Q31.5,Congenital laryngomalacia
+652,Q12.9,"Congenital lens malformation, unspecified"
+652,Q84.4,Congenital leukonychia
+652,Q13.9,"Congenital malformation of anterior segment of eye, unsp"
+643,Q23.9,"Congenital malformation of aortic and mitral valves, unsp"
+649,Q76.9,"Congenital malformation of bony thorax, unspecified"
+652,Q04.9,"Congenital malformation of brain, unspecified"
+652,Q83.9,"Congenital malformation of breast, unspecified"
+643,Q21.9,"Congenital malformation of cardiac septum, unspecified"
+652,Q14.3,Congenital malformation of choroid
+643,Q28.9,"Congenital malformation of circulatory system, unspecified"
+650,Q52.6,Congenital malformation of clitoris
+651,Q45.9,"Congenital malformation of digestive system, unspecified"
+652,Q16.3,Congenital malformation of ear ossicles
+652,Q17.9,"Congenital malformation of ear, unspecified"
+651,Q39.9,"Congenital malformation of esophagus, unspecified"
+652,Q15.9,"Congenital malformation of eye, unspecified"
+652,Q18.9,"Congenital malformation of face and neck, unspecified"
+650,Q52.9,"Congenital malformation of female genitalia, unspecified"
+643,Q25.9,"Congenital malformation of great arteries, unspecified"
+643,Q26.9,"Congenital malformation of great vein, unspecified"
+643,Q24.9,"Congenital malformation of heart, unspecified"
+652,Q16.5,Congenital malformation of inner ear
+652,Q84.9,"Congenital malformation of integument, unspecified"
+651,Q43.9,"Congenital malformation of intestine, unspecified"
+650,Q63.9,"Congenital malformation of kidney, unspecified"
+649,Q74.1,Congenital malformation of knee
+652,Q31.9,"Congenital malformation of larynx, unspecified"
+652,Q33.9,"Congenital malformation of lung, unspecified"
+650,Q55.9,"Congenital malformation of male genital organ, unspecified"
+649,Q79.9,"Congenital malformation of musculoskeletal system, unsp"
+652,Q07.9,"Congenital malformation of nervous system, unspecified"
+652,Q30.9,"Congenital malformation of nose, unspecified"
+652,Q14.2,Congenital malformation of optic disc
+652,Q10.7,Congenital malformation of orbit
+643,Q27.9,"Congenital malformation of peripheral vascular system, unsp"
+652,Q14.9,"Congenital malformation of posterior segment of eye, unsp"
+652,Q34.9,"Congenital malformation of respiratory system, unspecified"
+652,Q14.1,Congenital malformation of retina
+652,Q82.9,"Congenital malformation of skin, unspecified"
+649,Q75.9,"Congenital malformation of skull and face bones, unspecified"
+652,Q06.9,"Congenital malformation of spinal cord, unspecified"
+649,Q76.7,Congenital malformation of sternum
+651,Q40.3,"Congenital malformation of stomach, unspecified"
+643,Q22.9,"Congenital malformation of tricuspid valve, unspecified"
+651,Q40.9,"Congenital malformation of upper alimentary tract, unsp"
+650,Q64.9,"Congenital malformation of urinary system, unspecified"
+650,Q51.9,"Congenital malformation of uterus and cervix, unspecified"
+652,Q14.0,Congenital malformation of vitreous humor
+652,Q89.1,Congenital malformations of adrenal gland
+652,Q04.0,Congenital malformations of corpus callosum
+651,Q43.3,Congenital malformations of intestinal fixation
+651,Q38.0,"Congenital malformations of lips, not elsewhere classified"
+652,Q89.2,Congenital malformations of other endocrine glands
+651,Q38.5,"Congenital malformations of palate, not elsewhere classified"
+651,Q38.4,Congenital malformations of salivary glands and ducts
+648,Q87.3,Congenital malformation syndromes involving early overgrowth
+648,Q87.2,Congenital malformation syndromes predom involving limbs
+643,Q20.9,"Congenital malform of cardiac chambers and connections, unsp"
+648,Q87.1,Congenital malform syndromes predom assoc w short stature
+593,Q62.2,Congenital megaureter
+649,Q66.2,Congenital metatarsus (primus) varus
+643,Q23.3,Congenital mitral insufficiency
+643,Q23.2,Congenital mitral stenosis
+652,Q84.1,"Congenital morphological disturbances of hair, NEC"
+652,Q82.5,Congenital non-neoplastic nevus
+593,Q62.1,Congenital occlusion of ureter
+651,Q45.2,Congenital pancreatic cyst
+649,Q65.4,"Congenital partial dislocation of hip, bilateral"
+649,Q65.3,"Congenital partial dislocation of hip, unilateral"
+649,Q65.5,"Congenital partial dislocation of hip, unspecified"
+652,Q30.3,Congenital perforated nasal septum
+649,Q66.7,Congenital pes cavus
+649,Q66.5,Congenital pes planus
+651,Q38.7,Congenital pharyngeal pouch
+643,Q27.4,Congenital phlebectasia
+650,Q64.2,Congenital posterior urethral valves
+643,Q22.2,Congenital pulmonary valve insufficiency
+643,Q22.1,Congenital pulmonary valve stenosis
+650,Q52.2,Congenital rectovaginal fistula
+643,Q27.1,Congenital renal artery stenosis
+593,Q61.0,Congenital renal cyst
+650,P96.0,Congenital renal failure
+649,Q76.3,Congenital scoliosis due to congenital bony malformation
+649,Q76.2,Congenital spondylolisthesis
+651,Q44.3,Congenital stenosis and stricture of bile ducts
+651,Q39.3,Congenital stenosis and stricture of esophagus
+652,Q10.5,Congenital stenosis and stricture of lacrimal duct
+643,Q23.0,Congenital stenosis of aortic valve
+652,Q32.3,Congenital stenosis of bronchus
+643,Q26.0,Congenital stenosis of vena cava
+643,Q24.4,Congenital subaortic stenosis
+652,Q31.1,Congenital subglottic stenosis
+394,A50.9,"Congenital syphilis, unspecified"
+649,Q66.4,Congenital talipes calcaneovalgus
+649,Q66.1,Congenital talipes calcaneovarus
+649,Q66.0,Congenital talipes equinovarus
+650,Q50.2,Congenital torsion of ovary
+651,Q39.2,Congenital tracheo-esophageal fistula without atresia
+652,Q32.0,Congenital tracheomalacia
+643,Q22.4,Congenital tricuspid stenosis
+934,P37.0,Congenital tuberculosis
+649,Q65.6,Congenital unstable hip
+650,Q55.7,Congenital vasocutaneous fistula
+593,Q62.7,Congenital vesico-uretero-renal reflux
+402,P35.3,Congenital viral hepatitis
+652,Q16.9,"Congen malform of ear causing impairment of hearing, unsp"
+648,Q87.0,Congen malform syndromes predom affecting facial appearance
+652,Q89.4,Conjoined twins
+618,D61.0,Constitutional aplastic anemia
+711,W58.0,Contact with alligator
+711,W55.0,Contact with cat
+711,W61.3,Contact with chicken
+707,W30.0,Contact with combine harvester
+707,W46.1,Contact with contaminated hypodermic needle
+711,W55.2,Contact with cow
+711,W58.1,Contact with crocodile
+711,W56.0,Contact with dolphin
+711,W61.6,Contact with duck
+707,W29.1,Contact with electric knife
+707,W27.1,Contact with garden tool
+711,W61.5,Contact with goose
+707,W30.3,Contact with grain storage elevator
+707,W30.2,Contact with hay derrick
+711,W55.1,Contact with horse
+707,W46.0,Contact with hypodermic needle
+707,W27.4,Contact with kitchen utensil
+707,W26.0,Contact with knife
+707,W24.0,"Contact with lifting devices, not elsewhere classified"
+711,W61.1,Contact with macaw
+707,W31.1,Contact with metalworking machines
+707,W31.0,Contact with mining and earth-drilling machinery
+711,W53.0,Contact with mouse
+707,W29.4,Contact with nail gun
+707,W27.3,Contact with needle (sewing)
+711,W62.0,Contact with nonvenomous frogs
+711,W59.0,Contact with nonvenomous lizards
+711,W59.1,Contact with nonvenomous snakes
+711,W62.1,Contact with nonvenomous toads
+711,W56.2,Contact with orca
+711,W61.9,Contact with other birds
+711,W56.5,Contact with other fish
+711,W55.3,Contact with other hoof stock
+711,W55.8,Contact with other mammals
+711,W56.3,Contact with other marine mammals
+707,W27.8,Contact with other nonpowered hand tool
+711,W62.9,Contact with other nonvenomous amphibians
+711,W56.8,Contact with other nonvenomous marine animals
+711,W59.8,Contact with other nonvenomous reptiles
+707,W29.2,Contact with other powered household machinery
+711,W61.2,Contact with other psittacines
+711,W53.8,Contact with other rodent
+707,W30.8,Contact with other specified agricultural machinery
+707,W31.8,Contact with other specified machinery
+707,W27.5,Contact with paper-cutter
+711,W61.0,Contact with parrot
+711,W55.4,Contact with pig
+707,W29.0,Contact with powered kitchen appliance
+707,W31.2,Contact with powered woodworking and forming machines
+707,W30.1,Contact with power take-off devices (PTO)
+707,W31.3,Contact with prime movers
+711,W55.5,Contact with raccoon
+711,W53.1,Contact with rat
+707,W27.2,Contact with scissors
+711,W56.1,Contact with sea lion
+711,W56.4,Contact with shark
+711,W53.2,Contact with squirrel
+707,W26.1,Contact with sword or dagger
+707,W24.1,"Contact with transmission devices, not elsewhere classified"
+711,W61.4,Contact with turkey
+711,W59.2,Contact with turtles
+707,W30.9,Contact with unspecified agricultural machinery
+707,W31.9,Contact with unspecified machinery
+707,W27.0,Contact with workbench tool
+707,W29.8,Contact w oth powered powered hand tools and household mach
+707,W29.3,Contact w powered garden and outdoor hand tools and mach
+612,N83.1,Corpus luteum cyst
+643,Q24.2,Cor triatriatum
+649,Q75.1,Craniofacial dysostosis
+642,Q00.1,Craniorachischisis
+649,Q75.0,Craniosynostosis
+657,L02.3,"Cutaneous abscess, furuncle and carbuncle of buttock"
+657,L02.0,"Cutaneous abscess, furuncle and carbuncle of face"
+657,L02.6,"Cutaneous abscess, furuncle and carbuncle of foot"
+657,L02.5,"Cutaneous abscess, furuncle and carbuncle of hand"
+657,L02.4,"Cutaneous abscess, furuncle and carbuncle of limb"
+657,L02.1,"Cutaneous abscess, furuncle and carbuncle of neck"
+657,L02.8,"Cutaneous abscess, furuncle and carbuncle of other sites"
+657,L02.2,"Cutaneous abscess, furuncle and carbuncle of trunk"
+657,L02.9,"Cutaneous abscess, furuncle and carbuncle, unspecified"
+651,Q44.6,Cystic disease of liver
+652,Q11.0,Cystic eyeball
+593,Q61.9,"Cystic kidney disease, unspecified"
+595,N30.9,"Cystitis, unspecified"
+608,N81.1,Cystocele
+612,N75.0,Cyst of Bartholin's gland
+602,N28.1,"Cyst of kidney, acquired"
+648,Q93.9,"Deletion from autosomes, unspecified"
+648,Q93.3,Deletion of short arm of chromosome 4
+648,Q93.4,Deletion of short arm of chromosome 5
+648,Q93.7,Deletions with other complex rearrangements
+614,D56.2,Delta-beta thalassemia
+668,L13.0,Dermatitis herpetiformis
+650,Q50.1,Developmental ovarian cyst
+643,Q24.0,Dextrocardia
+652,Q06.2,Diastematomyelia
+649,Q77.5,Diastrophic dysplasia
+649,Q68.6,Discoid meniscus
+643,Q20.5,Discordant atrioventricular connection
+643,Q20.3,Discordant ventriculoarterial connection
+612,N75.9,"Disease of Bartholin's gland, unspecified"
+602,N39.9,"Disorder of urinary system, unspecified"
+602,N25.9,"Disorder rslt from impaired renal tubular function, unsp"
+496,I67.0,"Dissection of cerebral arteries, nonruptured"
+602,N32.3,Diverticulum of bladder
+649,Q67.2,Dolichocephaly
+643,Q20.4,Double inlet ventricle
+643,Q20.2,Double outlet left ventricle
+643,Q20.1,Double outlet right ventricle
+650,Q51.1,Doubling of uterus with doubling of cervix and vagina
+650,Q52.1,Doubling of vagina
+645,Q90.9,"Down syndrome, unspecified"
+693,V49.4,Driver injured in collision w oth and unsp mv in traf
+693,V49.0,Driver injured in collision w oth and unsp mv nontraf
+693,V36.5,Driver of 3-whl mv injured in clsn w nonmtr vehicle in traf
+693,V36.0,Driver of 3-whl mv injured in clsn w nonmtr vehicle nontraf
+693,V39.4,Driver of 3-whl mv injured in clsn w oth and unsp mv in traf
+693,V39.0,Driver of 3-whl mv injured in clsn w oth and unsp mv nontraf
+693,V35.5,Driver of 3-whl mv injured in clsn w rail trn/veh in traf
+693,V35.0,Driver of 3-whl mv injured in clsn w rail trn/veh nontraf
+693,V37.5,Driver of 3-whl mv injured in clsn w statnry object in traf
+693,V37.0,Driver of 3-whl mv injured in clsn w statnry object nontraf
+693,V32.5,Driver of 3-whl mv injured in collision w 2/3-whl mv in traf
+693,V32.0,Driver of 3-whl mv injured in collision w 2/3-whl mv nontraf
+693,V34.5,Driver of 3-whl mv injured in collision w hv veh in traf
+693,V34.0,Driver of 3-whl mv injured in collision w hv veh nontraf
+693,V30.5,Driver of 3-whl mv injured in collision w ped/anml in traf
+693,V30.0,Driver of 3-whl mv injured in collision w ped/anml nontraf
+693,V31.5,Driver of 3-whl mv injured in collision w pedl cyc in traf
+693,V31.0,Driver of 3-whl mv injured in collision w pedl cyc nontraf
+693,V38.5,Driver of 3-whl mv injured in nonclsn trnsp accident in traf
+693,V38.0,Driver of 3-whl mv injured in nonclsn trnsp accident nontraf
+693,V33.5,"Driver of 3-whl mv injured pick-up truck, pk-up/van in traf"
+693,V33.0,"Driver of 3-whl mv injured pick-up truck, pk-up/van nontraf"
+693,V72.5,Driver of bus injured in collision w 2/3-whl mv in traf
+693,V72.0,Driver of bus injured in collision w 2/3-whl mv nontraf
+693,V74.5,Driver of bus injured in collision w hv veh in traf
+693,V74.0,Driver of bus injured in collision w hv veh nontraf
+693,V76.5,Driver of bus injured in collision w nonmtr vehicle in traf
+693,V76.0,Driver of bus injured in collision w nonmtr vehicle nontraf
+693,V79.4,Driver of bus injured in collision w oth and unsp mv in traf
+693,V79.0,Driver of bus injured in collision w oth and unsp mv nontraf
+693,V71.5,Driver of bus injured in collision w pedal cycle in traf
+693,V71.0,Driver of bus injured in collision w pedal cycle nontraf
+693,V70.5,Driver of bus injured in collision w ped/anml in traf
+693,V70.0,Driver of bus injured in collision w ped/anml nontraf
+693,V75.5,Driver of bus injured in collision w rail trn/veh in traf
+693,V75.0,Driver of bus injured in collision w rail trn/veh nontraf
+693,V77.5,Driver of bus injured in collision w statnry object in traf
+693,V77.0,Driver of bus injured in collision w statnry object nontraf
+693,V78.5,Driver of bus injured in nonclsn transport accident in traf
+693,V78.0,Driver of bus injured in nonclsn transport accident nontraf
+693,V73.5,"Driver of bus injured pick-up truck, pk-up/van in traf"
+693,V73.0,"Driver of bus injured pick-up truck, pk-up/van nontraf"
+693,V66.5,Driver of hv veh injured in clsn w nonmtr vehicle in traf
+693,V66.0,Driver of hv veh injured in clsn w nonmtr vehicle nontraf
+693,V69.4,Driver of hv veh injured in clsn w oth and unsp mv in traf
+693,V69.0,Driver of hv veh injured in clsn w oth and unsp mv nontraf
+693,V67.5,Driver of hv veh injured in clsn w statnry object in traf
+693,V67.0,Driver of hv veh injured in clsn w statnry object nontraf
+693,V62.5,Driver of hv veh injured in collision w 2/3-whl mv in traf
+693,V62.0,Driver of hv veh injured in collision w 2/3-whl mv nontraf
+693,V64.5,Driver of hv veh injured in collision w hv veh in traf
+693,V64.0,Driver of hv veh injured in collision w hv veh nontraf
+693,V61.5,Driver of hv veh injured in collision w pedal cycle in traf
+693,V61.0,Driver of hv veh injured in collision w pedal cycle nontraf
+693,V60.5,Driver of hv veh injured in collision w ped/anml in traf
+693,V60.0,Driver of hv veh injured in collision w ped/anml nontraf
+693,V65.5,Driver of hv veh injured in collision w rail trn/veh in traf
+693,V65.0,Driver of hv veh injured in collision w rail trn/veh nontraf
+693,V68.5,Driver of hv veh injured in nonclsn trnsp accident in traf
+693,V68.0,Driver of hv veh injured in nonclsn trnsp accident nontraf
+693,V63.5,"Driver of hv veh injured pick-up truck, pk-up/van in traf"
+693,V63.0,"Driver of hv veh injured pick-up truck, pk-up/van nontraf"
+693,V59.4,Driver of pk-up/van inj in clsn w oth and unsp mv in traf
+693,V59.0,Driver of pk-up/van inj in clsn w oth and unsp mv nontraf
+693,V52.5,Driver of pk-up/van injured in clsn w 2/3-whl mv in traf
+693,V52.0,Driver of pk-up/van injured in clsn w 2/3-whl mv nontraf
+693,V56.5,Driver of pk-up/van injured in clsn w nonmtr vehicle in traf
+693,V56.0,Driver of pk-up/van injured in clsn w nonmtr vehicle nontraf
+693,V55.5,Driver of pk-up/van injured in clsn w rail trn/veh in traf
+693,V55.0,Driver of pk-up/van injured in clsn w rail trn/veh nontraf
+693,V57.5,Driver of pk-up/van injured in clsn w statnry object in traf
+693,V57.0,Driver of pk-up/van injured in clsn w statnry object nontraf
+693,V54.5,Driver of pk-up/van injured in collision w hv veh in traf
+693,V54.0,Driver of pk-up/van injured in collision w hv veh nontraf
+693,V50.5,Driver of pk-up/van injured in collision w ped/anml in traf
+693,V50.0,Driver of pk-up/van injured in collision w ped/anml nontraf
+693,V51.5,Driver of pk-up/van injured in collision w pedl cyc in traf
+693,V51.0,Driver of pk-up/van injured in collision w pedl cyc nontraf
+693,V58.5,Driver of pk-up/van injured in nonclsn trnsp acc in traf
+693,V58.0,Driver of pk-up/van injured in nonclsn trnsp acc nontraf
+693,V53.5,"Driver of pk-up/van injured pick-up truck, pk-up/van in traf"
+693,V53.0,"Driver of pk-up/van injured pick-up truck, pk-up/van nontraf"
+618,D61.1,Drug-induced aplastic anemia
+668,L10.5,Drug-induced pemphigus
+651,Q43.4,Duplication of intestine
+593,Q62.5,Duplication of ureter
+648,Q92.5,Duplications with other complex rearrangements
+652,Q86.2,Dysmorphism due to warfarin
+394,A50.1,"Early congenital syphilis, latent"
+394,A50.0,"Early congenital syphilis, symptomatic"
+394,A50.2,"Early congenital syphilis, unspecified"
+394,A51.5,"Early syphilis, latent"
+394,A51.9,"Early syphilis, unspecified"
+643,Q22.5,Ebstein's anomaly
+652,Q82.4,Ectodermal dysplasia (anhidrotic)
+651,Q43.5,Ectopic anus
+650,Q63.2,Ectopic kidney
+650,Q53.0,Ectopic testis
+652,Q33.5,Ectopic tissue in lung
+649,Q79.6,Ehlers-Danlos syndrome
+650,Q50.5,Embryonic cyst of broad ligament
+650,Q51.6,Embryonic cyst of cervix
+650,Q50.4,Embryonic cyst of fallopian tube
+642,Q01.8,Encephalocele of other sites
+642,Q01.9,"Encephalocele, unspecified"
+649,Q78.4,Enchondromatosis
+944,I42.4,Endocardial fibroelastosis
+607,N80.6,Endometriosis in cutaneous scar
+607,N80.2,Endometriosis of fallopian tube
+607,N80.5,Endometriosis of intestine
+607,N80.1,Endometriosis of ovary
+607,N80.3,Endometriosis of pelvic peritoneum
+607,N80.4,Endometriosis of rectovaginal septum and vagina
+607,N80.0,Endometriosis of uterus
+607,N80.9,"Endometriosis, unspecified"
+944,I42.3,Endomyocardial (eosinophilic) disease
+652,Q84.5,Enlarged and hypertrophic nails
+321,A04.2,Enteroinvasive Escherichia coli infection
+336,A87.0,Enteroviral meningitis
+657,L98.3,Eosinophilic cellulitis [Wells]
+652,Q81.2,Epidermolysis bullosa dystrophica
+652,Q81.1,Epidermolysis bullosa letalis
+652,Q81.0,Epidermolysis bullosa simplex
+652,Q81.9,"Epidermolysis bullosa, unspecified"
+602,N45.1,Epididymitis
+602,N45.3,Epididymo-orchitis
+650,Q64.0,Epispadias
+668,L51.9,"Erythema multiforme, unspecified"
+657,L08.1,Erythrasma
+651,Q39.4,Esophageal web
+651,Q79.2,Exomphalos
+649,Q79.2,Exomphalos
+707,W36.1,Explosion and rupture of aerosol can
+707,W36.2,Explosion and rupture of air tank
+707,W36.8,Explosion and rupture of other gas cylinder
+707,W37.8,"Explosion and rupture of oth pressurized tire, pipe or hose"
+707,W36.3,Explosion and rupture of pressurized-gas tank
+707,W36.9,Explosion and rupture of unspecified gas cylinder
+707,W37.0,Explosion of bicycle tire
+707,W40.0,Explosion of blasting material
+707,W40.1,Explosion of explosive gases
+707,W40.8,Explosion of other specified explosive materials
+707,W40.9,Explosion of unspecified explosive materials
+707,W49.9,Exposure to other inanimate mechanical forces
+707,W42.9,Exposure to other noise
+707,W42.0,Exposure to supersonic waves
+650,Q64.1,Exstrophy of urinary bladder
+657,L98.1,Factitial dermatitis
+657,L98.2,Febrile neutrophilic dermatosis [Sweet]
+608,N81.9,"Female genital prolapse, unspecified"
+650,Q56.2,"Female pseudohermaphroditism, not elsewhere classified"
+648,Q97.3,"Female with 46, XY karyotype"
+648,Q97.1,Female with more than three X chromosomes
+652,Q86.0,Fetal alcohol syndrome (dysmorphic)
+652,Q86.1,Fetal hydantoin syndrome
+563,R78.2,Finding of cocaine in blood
+566,R78.3,Finding of hallucinogen in blood
+562,R78.1,Finding of opiate drug in blood
+566,R78.4,Finding of other drugs of addictive potential in blood
+566,R78.5,Finding of other psychotropic drug in blood
+652,Q30.2,"Fissured, notched and cleft nose"
+602,N31.2,"Flaccid neuropathic bladder, not elsewhere classified"
+612,N83.0,Follicular cyst of ovary
+602,N49.3,Fournier gangrene
+648,Q99.2,Fragile X chromosome
+642,Q01.0,Frontal encephalocele
+649,Q70.0,Fused fingers
+649,Q70.2,Fused toes
+650,Q52.5,Fusion of labia
+657,A66.5,Gangosa
+651,Q79.3,Gastroschisis
+649,Q79.3,Gastroschisis
+321,A07.1,Giardiasis [lambliasis]
+396,A54.1,Gonocl infct of lower GU tract w periureth and acc glnd abcs
+396,A54.0,Gonocl infct of low GU tract w/o periureth or acc glnd abcs
+396,A54.6,Gonococcal infection of anus and rectum
+396,A54.3,Gonococcal infection of eye
+396,A54.4,Gonococcal infection of musculoskeletal system
+396,A54.9,"Gonococcal infection, unspecified"
+396,A54.2,Gonococcal pelviperitonitis and oth gonococcal GU infection
+396,A54.5,Gonococcal pharyngitis
+602,N41.4,Granulomatous prostatitis
+514,J63.3,Graphite fibrosis (of lung)
+657,A66.4,Gummata and ulcers of yaws
+943,C91.4,Hairy cell leukemia
+566,F16.1,Hallucinogen abuse
+566,F16.2,Hallucinogen dependence
+566,F16.9,"Hallucinogen use, unspecified"
+652,Q80.4,Harlequin fetus
+615,D57.0,Hb-SS disease with crisis
+612,N83.7,Hematoma of broad ligament
+612,N83.6,Hematosalpinx
+614,D56.5,Hemoglobin E-beta thalassemia
+618,D59.3,Hemolytic-uremic syndrome
+334,G00.0,Hemophilus meningitis
+401,B15.0,Hepatitis A with hepatic coma
+401,B15.9,Hepatitis A without hepatic coma
+618,D58.1,Hereditary elliptocytosis
+618,D58.9,"Hereditary hemolytic anemia, unspecified"
+652,Q82.0,Hereditary lymphedema
+593,N07.6,"Hereditary nephropathy, NEC w dense deposit disease"
+593,N07.7,"Hereditary nephropathy, NEC w diffuse crescentic glomrlneph"
+593,N07.2,"Hereditary nephropathy, NEC w diffuse membranous glomrlneph"
+593,N07.5,"Hereditary nephropathy, NEC w diffuse mesangiocap glomrlneph"
+593,N07.0,"Hereditary nephropathy, NEC w minor glomerular abnormality"
+593,N07.8,"Hereditary nephropathy, NEC w oth morphologic lesions"
+593,N07.9,"Hereditary nephropathy, NEC w unsp morphologic lesions"
+614,D56.4,Hereditary persistence of fetal hemoglobin [HPFH]
+618,D64.0,Hereditary sideroblastic anemia
+618,D58.0,Hereditary spherocytosis
+593,N07.3,"Heredit neuropath, NEC w diffuse mesangial prolif glomrlneph"
+593,N07.4,"Heredit neuropath, NEC w diffus endocaplry prolif glomrlneph"
+593,N07.1,"Heredit neuropath, NEC w focal and seg glomerular lesions"
+650,Q56.0,"Hermaphroditism, not elsewhere classified"
+651,Q43.1,Hirschsprung's disease
+652,Q04.2,Holoprosencephaly
+652,Q06.4,Hydromyelia
+591,I12.0,Hyp chr kidney disease w stage 5 chr kidney disease or ESRD
+657,A66.3,Hyperkeratosis of yaws
+650,Q63.3,Hyperplastic and giant kidney
+649,Q75.2,Hypertelorism
+591,I12.9,Hypertensive chronic kidney disease w stg 1-4/unsp chr kdny
+591,I13.1,Hypertensive heart and chronic kidney disease w/o hrt fail
+591,I13.0,Hyp hrt & chr kdny dis w hrt fail and stg 1-4/unsp chr kdny
+591,I13.2,Hyp hrt & chr kdny dis w hrt fail and w stg 5 chr kdny/ESRD
+652,Q06.1,Hypoplasia and dysplasia of spinal cord
+650,Q55.1,Hypoplasia of testis and scrotum
+643,Q23.4,Hypoplastic left heart syndrome
+643,Q22.6,Hypoplastic right heart syndrome
+650,Q54.0,"Hypospadias, balanic"
+650,Q54.1,"Hypospadias, penile"
+650,Q54.2,"Hypospadias, penoscrotal"
+650,Q54.3,"Hypospadias, perineal"
+650,Q54.9,"Hypospadias, unspecified"
+652,Q80.0,Ichthyosis vulgaris
+618,D61.3,Idiopathic aplastic anemia
+650,Q52.3,Imperforate hymen
+657,L01.1,Impetiginization of other dermatoses
+657,L01.0,Impetigo
+608,N81.2,Incomplete uterovaginal prolapse
+652,Q82.3,Incontinentia pigmenti
+650,Q56.4,"Indeterminate sex, unspecified"
+648,Q95.5,Individual with autosomal fragile site
+942,I40.0,Infective myocarditis
+602,N49.1,"Inflam disorders of sperm cord, tunica vaginalis and vas def"
+602,N41.9,"Inflammatory disease of prostate, unspecified"
+602,N49.9,Inflammatory disorder of unspecified male genital organ
+602,N49.8,Inflammatory disorders of oth male genital organs
+602,N49.2,Inflammatory disorders of scrotum
+602,N49.0,Inflammatory disorders of seminal vesicle
+566,F18.1,Inhalant abuse
+566,F18.2,Inhalant dependence
+566,F18.9,"Inhalant use, unspecified"
+642,Q00.2,Iniencephaly
+657,A66.0,Initial lesions of yaws
+723,X82.1,Intentional collision of motor vehicle with train
+723,X82.2,Intentional collision of motor vehicle with tree
+723,X82.0,Intentional collision of motor vehicle w oth motor vehicle
+723,X83.0,Intentional self-harm by crashing of aircraft
+723,X71.2,Intentional self-harm by drown after jump into swimming pool
+723,X71.9,"Intentional self-harm by drowning and submersion, unsp"
+723,X71.3,Intentional self-harm by drown in natural water
+723,X71.0,Intentional self-harm by drown while in bathtub
+723,X71.1,Intentional self-harm by drown while in swimming pool
+723,X83.1,Intentional self-harm by electrocution
+723,X83.2,Intentional self-harm by exposure to extremes of cold
+721,X74.0,"Intentional self-harm by gas, air or spring-operated guns"
+723,X77.3,Intentional self-harm by hot household appliances
+723,X77.1,Intentional self-harm by hot tap water
+721,X73.1,Intentional self-harm by hunting rifle discharge
+723,X78.1,Intentional self-harm by knife
+721,X73.2,Intentional self-harm by machine gun discharge
+721,X74.8,Intentional self-harm by other firearm discharge
+723,X77.2,Intentional self-harm by other hot fluids
+723,X77.8,Intentional self-harm by other hot objects
+721,X73.8,Intentional self-harm by other larger firearm discharge
+723,X78.8,Intentional self-harm by other sharp object
+723,X83.8,Intentional self-harm by other specified means
+723,X78.0,Intentional self-harm by sharp glass
+721,X73.0,Intentional self-harm by shotgun discharge
+723,X77.0,Intentional self-harm by steam or hot vapors
+723,X78.2,Intentional self-harm by sword or dagger
+721,X74.9,Intentional self-harm by unspecified firearm discharge
+723,X77.9,Intentional self-harm by unspecified hot objects
+723,X78.9,Intentional self-harm by unspecified sharp object
+721,X73.9,Intentional self-harm by unsp larger firearm discharge
+657,A67.1,Intermediate lesions of pinta
+595,N30.1,Interstitial cystitis (chronic)
+604,D25.1,Intramural leiomyoma of uterus
+595,N30.4,Irradiation cystitis
+602,N28.0,Ischemia and infarction of kidney
+942,I40.1,Isolated myocarditis
+592,N06.7,Isolated proteinuria w diffuse crescentic glomerulonephritis
+592,N06.4,Isolated proteinuria w diffuse endocaplry prolif glomrlneph
+592,N06.2,Isolated proteinuria w diffuse membranous glomerulonephritis
+592,N06.3,Isolated proteinuria w diffuse mesangial prolif glomrlneph
+592,N06.5,Isolated proteinuria w diffuse mesangiocapillary glomrlneph
+592,N06.6,Isolated proteinuria with dense deposit disease
+592,N06.0,Isolated proteinuria with minor glomerular abnormality
+592,N06.8,Isolated proteinuria with other morphologic lesion
+592,N06.9,Isolated proteinuria with unspecified morphologic lesion
+592,N06.1,Isolated protein w focal and segmental glomerular lesions
+643,Q20.6,Isomerism of atrial appendages
+707,W49.0,Item causing external constriction
+943,C93.3,Juvenile myelomonocytic leukemia
+648,Q97.0,"Karyotype 47, XXX"
+649,Q76.1,Klippel-Feil syndrome
+652,Q80.2,Lamellar ichthyosis
+652,Q31.2,Laryngeal hypoplasia
+652,Q31.3,Laryngocele
+394,A50.4,Late congenital neurosyphilis [juvenile neurosyphilis]
+394,A50.6,"Late congenital syphilis, latent"
+394,A50.7,"Late congenital syphilis, unspecified"
+394,A50.3,Late congenital syphilitic oculopathy
+657,A67.2,Late lesions of pinta
+394,A53.0,"Latent syphilis, unspecified as early or late"
+657,A66.8,Latent yaws
+394,A52.8,"Late syphilis, latent"
+394,A52.9,"Late syphilis, unspecified"
+604,D25.9,"Leiomyoma of uterus, unspecified"
+943,C95.9,"Leukemia, unspecified"
+643,Q24.1,Levocardia
+707,W45.2,Lid of can entering through skin
+715,W45.2,Lid of can entering through skin
+649,Q71.6,Lobster-claw hand
+650,Q63.1,"Lobulated, fused and horseshoe kidney"
+657,L08.9,"Local infection of the skin and subcutaneous tissue, unsp"
+649,Q72.4,Longitudinal reduction defect of femur
+649,Q72.6,Longitudinal reduction defect of fibula
+649,Q71.4,Longitudinal reduction defect of radius
+649,Q72.5,Longitudinal reduction defect of tibia
+649,Q71.5,Longitudinal reduction defect of ulna
+642,Q05.2,Lumbar spina bifida with hydrocephalus
+642,Q05.7,Lumbar spina bifida without hydrocephalus
+657,I89.1,Lymphangitis
+336,A87.2,Lymphocytic choriomeningitis
+943,C91.9,"Lymphoid leukemia, unspecified"
+649,Q75.3,Macrocephaly
+652,Q18.6,Macrocheilia
+651,Q38.2,Macroglossia
+652,Q11.3,Macrophthalmos
+652,Q18.4,Macrostomia
+652,Q17.1,Macrotia
+650,Q56.1,"Male pseudohermaphroditism, not elsewhere classified"
+643,Q24.5,Malformation of coronary vessels
+650,Q64.4,Malformation of urachus
+652,Q03.0,Malformations of aqueduct of Sylvius
+488,C49.6,"Malignant neoplasm of conn and soft tissue of trunk, unsp"
+488,C49.4,Malignant neoplasm of connective and soft tissue of abdomen
+488,C49.5,Malignant neoplasm of connective and soft tissue of pelvis
+488,C49.3,Malignant neoplasm of connective and soft tissue of thorax
+488,C49.9,"Malignant neoplasm of connective and soft tissue, unsp"
+488,C49.8,Malignant neoplasm of ovrlp sites of conn and soft tissue
+488,C49.1,"Malig neoplm of conn and soft tiss of upper limb, inc shldr"
+488,C49.0,"Malig neoplm of conn and soft tissue of head, face and neck"
+488,C49.2,"Malig neoplm of conn and soft tissue of lower limb, inc hip"
+593,Q62.6,Malposition of ureter
+649,Q75.4,Mandibulofacial dysostosis
+648,Q87.4,Marfan's syndrome
+648,Q92.6,Marker chromosomes
+943,C94.3,Mast cell leukemia
+652,Q82.2,Mastocytosis
+651,Q43.0,Meckel's diverticulum (displaced) (hypertrophic)
+593,Q61.5,Medullary cystic kidney
+652,Q04.5,Megalencephaly
+934,A17.1,Meningeal tuberculoma
+336,G03.8,Meningitis due to other specified causes
+335,A39.5,Meningococcal heart disease
+335,A39.9,"Meningococcal infection, unspecified"
+335,A39.0,Meningococcal meningitis
+335,A39.4,"Meningococcemia, unspecified"
+649,Q78.5,Metaphyseal dysplasia
+652,Q18.7,Microcheilia
+652,Q11.2,Microphthalmos
+652,Q18.5,Microstomia
+652,Q17.2,Microtia
+495,G46.0,Middle cerebral artery syndrome
+934,A19.9,"Miliary tuberculosis, unspecified"
+652,Q17.4,Misplaced ear
+657,A67.3,Mixed lesions of pinta
+943,C93.9,"Monocytic leukemia, unspecified"
+648,Q97.2,"Mosaicism, lines with various numbers of X chromosomes"
+692,V22.4,Motorcycle driver injured in collision w 2/3-whl mv in traf
+692,V22.0,Motorcycle driver injured in collision w 2/3-whl mv nontraf
+692,V24.4,Motorcycle driver injured in collision w hv veh in traf
+692,V24.0,Motorcycle driver injured in collision w hv veh nontraf
+692,V21.4,Motorcycle driver injured in collision w pedal cycle in traf
+692,V21.0,Motorcycle driver injured in collision w pedal cycle nontraf
+692,V20.4,Motorcycle driver injured in collision w ped/anml in traf
+692,V20.0,Motorcycle driver injured in collision w ped/anml nontraf
+692,V23.4,"Motorcycle driver injured pick-up truck, pk-up/van in traf"
+692,V23.0,"Motorcycle driver injured pick-up truck, pk-up/van nontraf"
+692,V24.5,Motorcycle passenger injured in collision w hv veh in traf
+692,V24.1,Motorcycle passenger injured in collision w hv veh nontraf
+692,V20.5,Motorcycle passenger injured in collision w ped/anml in traf
+692,V20.1,Motorcycle passenger injured in collision w ped/anml nontraf
+692,V21.5,Motorcycle passenger injured in collision w pedl cyc in traf
+692,V21.1,Motorcycle passenger injured in collision w pedl cyc nontraf
+692,V29.8,Motorcycle rider (driver) injured in oth transport accidents
+692,V29.3,Motorcycle rider (driver) injured in unsp nontraf
+692,V29.9,Motorcycle rider (driver) (passenger) injured in unsp traf
+495,I67.5,Moyamoya disease
+692,V26.4,Mtrcy driver injured in collision w nonmtr vehicle in traf
+692,V26.0,Mtrcy driver injured in collision w nonmtr vehicle nontraf
+692,V29.4,Mtrcy driver injured in collision w oth and unsp mv in traf
+692,V29.0,Mtrcy driver injured in collision w oth and unsp mv nontraf
+692,V25.4,Mtrcy driver injured in collision w rail trn/veh in traf
+692,V25.0,Mtrcy driver injured in collision w rail trn/veh nontraf
+692,V27.4,Mtrcy driver injured in collision w statnry object in traf
+692,V27.0,Mtrcy driver injured in collision w statnry object nontraf
+692,V28.4,Mtrcy driver injured in nonclsn transport accident in traf
+692,V28.0,Mtrcy driver injured in nonclsn transport accident nontraf
+692,V28.5,Mtrcy pasngr injured in nonclsn transport accident in traf
+692,V28.1,Mtrcy pasngr injured in nonclsn transport accident nontraf
+692,V26.5,Mtrcy passenger injured in clsn w nonmtr vehicle in traf
+692,V26.1,Mtrcy passenger injured in clsn w nonmtr vehicle nontraf
+692,V29.5,Mtrcy passenger injured in clsn w oth and unsp mv in traf
+692,V29.1,Mtrcy passenger injured in clsn w oth and unsp mv nontraf
+692,V27.5,Mtrcy passenger injured in clsn w statnry object in traf
+692,V27.1,Mtrcy passenger injured in clsn w statnry object nontraf
+692,V22.5,Mtrcy passenger injured in collision w 2/3-whl mv in traf
+692,V22.1,Mtrcy passenger injured in collision w 2/3-whl mv nontraf
+692,V25.5,Mtrcy passenger injured in collision w rail trn/veh in traf
+692,V25.1,Mtrcy passenger injured in collision w rail trn/veh nontraf
+692,V23.5,"Mtrcy passenger injured pick-up truck, pk-up/van in traf"
+692,V23.1,"Mtrcy passenger injured pick-up truck, pk-up/van nontraf"
+495,G45.2,Multiple and bilateral precerebral artery syndromes
+649,Q78.6,Multiple congenital exostoses
+652,Q89.7,"Multiple congenital malformations, not elsewhere classified"
+657,A66.1,Multiple papillomata and wet crab yaws
+943,C94.6,"Myelodysplastic disease, not classified"
+943,C92.9,"Myeloid leukemia, unspecified"
+847,C92.3,Myeloid sarcoma
+942,I51.4,"Myocarditis, unspecified"
+707,W45.0,Nail entering through skin
+715,W45.0,Nail entering through skin
+642,Q01.1,Nasofrontal encephalocele
+656,M72.6,Necrotizing fasciitis
+562,P96.1,Neonatal w/drawal symp from matern use of drugs of addiction
+849,D49.2,"Neoplasm of unsp behavior of bone, soft tissue, and skin"
+602,N25.1,Nephrogenic diabetes insipidus
+592,N04.7,Nephrotic syndrome w diffuse crescentic glomerulonephritis
+592,N04.4,Nephrotic syndrome w diffuse endocaplry prolif glomrlneph
+592,N04.2,Nephrotic syndrome w diffuse membranous glomerulonephritis
+592,N04.3,Nephrotic syndrome w diffuse mesangial prolif glomrlneph
+592,N04.5,Nephrotic syndrome w diffuse mesangiocapillary glomrlneph
+592,N04.1,Nephrotic syndrome w focal and segmental glomerular lesions
+592,N04.6,Nephrotic syndrome with dense deposit disease
+592,N04.0,Nephrotic syndrome with minor glomerular abnormality
+592,N04.8,Nephrotic syndrome with other morphologic changes
+592,N04.9,Nephrotic syndrome with unspecified morphologic changes
+652,Q85.0,Neurofibromatosis (nonmalignant)
+602,N31.9,"Neuromuscular dysfunction of bladder, unspecified"
+394,A52.3,"Neurosyphilis, unspecified"
+668,L51.0,Nonbullous erythema multiforme
+727,Y07.5,"Non-family member, perpetrator of maltreatment and neglect"
+612,N83.9,"Noninflammatory disord of ovary, fallop & broad ligmt, unsp"
+595,N11.0,Nonobstructive reflux-associated chronic pyelonephritis
+657,L97.3,Non-pressure chronic ulcer of ankle
+657,L97.2,Non-pressure chronic ulcer of calf
+657,L97.4,Non-pressure chronic ulcer of heel and midfoot
+657,L97.5,Non-pressure chronic ulcer of other part of foot
+657,L97.8,Non-pressure chronic ulcer of other part of lower leg
+657,L98.4,"Non-pressure chronic ulcer of skin, not elsewhere classified"
+657,L97.1,Non-pressure chronic ulcer of thigh
+657,L97.9,Non-pressure chronic ulcer of unspecified part of lower leg
+336,G03.0,Nonpyogenic meningitis
+495,I67.6,Nonpyogenic thrombosis of intracranial venous system
+595,N34.1,Nonspecific urethritis
+496,I62.1,Nontraumatic extradural hemorrhage
+496,I61.1,"Nontraumatic intcrbl hemorrhage in hemisphere, cortical"
+496,I61.0,"Nontraumatic intcrbl hemorrhage in hemisphere, subcortical"
+496,I61.3,Nontraumatic intracerebral hemorrhage in brain stem
+496,I61.4,Nontraumatic intracerebral hemorrhage in cerebellum
+496,I61.2,"Nontraumatic intracerebral hemorrhage in hemisphere, unsp"
+496,I61.5,"Nontraumatic intracerebral hemorrhage, intraventricular"
+496,I61.6,"Nontraumatic intracerebral hemorrhage, multiple localized"
+496,I61.9,"Nontraumatic intracerebral hemorrhage, unspecified"
+496,I62.9,"Nontraumatic intracranial hemorrhage, unspecified"
+496,I60.4,Nontraumatic subarachnoid hemorrhage from basilar artery
+496,I60.6,Nontraumatic subarachnoid hemorrhage from oth intracran art
+496,I60.7,Nontraumatic subarachnoid hemorrhage from unsp intracran art
+496,I60.5,Nontraumatic subarachnoid hemorrhage from vertebral artery
+496,I60.9,"Nontraumatic subarachnoid hemorrhage, unspecified"
+496,I62.0,Nontraumatic subdural hemorrhage
+496,I60.2,Ntrm subarach hemorrhage from anterior communicating artery
+496,I60.0,Ntrm subarach hemorrhage from carotid siphon and bifurcation
+496,I60.3,Ntrm subarach hemorrhage from posterior communicating artery
+496,I60.1,Ntrm subarachnoid hemorrhage from middle cerebral artery
+944,I42.1,Obstructive hypertrophic cardiomyopathy
+642,Q01.2,Occipital encephalocele
+495,I66.1,Occlusion and stenosis of anterior cerebral artery
+495,I65.1,Occlusion and stenosis of basilar artery
+495,I65.2,Occlusion and stenosis of carotid artery
+495,I66.3,Occlusion and stenosis of cerebellar arteries
+495,I66.0,Occlusion and stenosis of middle cerebral artery
+495,I66.8,Occlusion and stenosis of other cerebral arteries
+495,I65.8,Occlusion and stenosis of other precerebral arteries
+495,I66.2,Occlusion and stenosis of posterior cerebral artery
+495,I66.9,Occlusion and stenosis of unspecified cerebral artery
+495,I65.9,Occlusion and stenosis of unspecified precerebral artery
+495,I65.0,Occlusion and stenosis of vertebral artery
+693,V39.8,Occupant (driver) of 3-whl mv injured in oth transport acc
+693,V39.3,Occupant (driver) of 3-whl mv injured in unsp nontraf
+693,V39.9,Occupant (driver) of 3-whl mv injured in unsp traf
+693,V69.8,Occupant (driver) of hv veh injured in oth transport acc
+693,V69.3,Occupant (driver) of hv veh injured in unsp nontraf
+693,V59.8,Occupant (driver) of pk-up/van injured in oth transport acc
+693,V59.3,Occupant (driver) of pk-up/van injured in unsp nontraf
+693,V59.9,Occupant (driver) of pk-up/van injured in unsp traf
+693,V69.9,Occupant (driver) (passenger) of hv veh injured in unsp traf
+694,V82.6,Occupant of streetcar injured by fall from streetcar
+694,V82.5,Occupant of streetcar injured by fall in streetcar
+694,V82.3,Occupant of streetcar injured in collision with other object
+694,V82.1,Occupant of streetcar injured in collision w mtr veh in traf
+694,V82.0,Occupant of streetcar injured in collision w mtr veh nontraf
+694,V82.2,Occupant of streetcar injured in collisn/hit by roll stok
+694,V82.7,Occupant of streetcar injured in derail w/o antecedent clsn
+694,V82.8,Occupant of streetcar injured in oth transport accidents
+694,V82.9,Occupant of streetcar injured in unsp traffic accident
+693,V36.9,Occup of 3-whl mv injured in clsn w nonmtr vehicle in traf
+693,V36.3,Occup of 3-whl mv injured in clsn w nonmtr vehicle nontraf
+693,V39.6,Occup of 3-whl mv injured in clsn w oth and unsp mv in traf
+693,V39.2,Occup of 3-whl mv injured in clsn w oth and unsp mv nontraf
+693,V35.9,Occup of 3-whl mv injured in clsn w rail trn/veh in traf
+693,V35.3,Occup of 3-whl mv injured in clsn w rail trn/veh nontraf
+693,V37.9,Occup of 3-whl mv injured in clsn w statnry object in traf
+693,V37.3,Occup of 3-whl mv injured in clsn w statnry object nontraf
+693,V32.9,Occup of 3-whl mv injured in collision w 2/3-whl mv in traf
+693,V32.3,Occup of 3-whl mv injured in collision w 2/3-whl mv nontraf
+693,V34.9,Occup of 3-whl mv injured in collision w hv veh in traf
+693,V34.3,Occup of 3-whl mv injured in collision w hv veh nontraf
+693,V31.9,Occup of 3-whl mv injured in collision w pedal cycle in traf
+693,V31.3,Occup of 3-whl mv injured in collision w pedal cycle nontraf
+693,V30.9,Occup of 3-whl mv injured in collision w ped/anml in traf
+693,V30.3,Occup of 3-whl mv injured in collision w ped/anml nontraf
+693,V38.9,Occup of 3-whl mv injured in nonclsn trnsp accident in traf
+693,V38.3,Occup of 3-whl mv injured in nonclsn trnsp accident nontraf
+693,V33.9,"Occup of 3-whl mv injured pick-up truck, pk-up/van in traf"
+693,V33.3,"Occup of 3-whl mv injured pick-up truck, pk-up/van nontraf"
+693,V72.9,Occup of bus injured in collision w 2/3-whl mv in traf
+693,V72.3,Occup of bus injured in collision w 2/3-whl mv nontraf
+693,V74.9,Occup of bus injured in collision w hv veh in traf
+693,V74.3,Occup of bus injured in collision w hv veh nontraf
+693,V76.9,Occup of bus injured in collision w nonmtr vehicle in traf
+693,V76.3,Occup of bus injured in collision w nonmtr vehicle nontraf
+693,V71.9,Occup of bus injured in collision w pedal cycle in traf
+693,V71.3,Occup of bus injured in collision w pedal cycle nontraf
+693,V70.9,Occup of bus injured in collision w ped/anml in traf
+693,V70.3,Occup of bus injured in collision w ped/anml nontraf
+693,V75.9,Occup of bus injured in collision w rail trn/veh in traf
+693,V75.3,Occup of bus injured in collision w rail trn/veh nontraf
+693,V77.9,Occup of bus injured in collision w statnry object in traf
+693,V77.3,Occup of bus injured in collision w statnry object nontraf
+693,V78.9,Occup of bus injured in nonclsn transport accident in traf
+693,V78.3,Occup of bus injured in nonclsn transport accident nontraf
+693,V73.9,"Occup of bus injured pick-up truck, pk-up/van in traf"
+693,V73.3,"Occup of bus injured pick-up truck, pk-up/van nontraf"
+693,V66.9,Occup of hv veh injured in clsn w nonmtr vehicle in traf
+693,V66.3,Occup of hv veh injured in clsn w nonmtr vehicle nontraf
+693,V69.6,Occup of hv veh injured in clsn w oth and unsp mv in traf
+693,V69.2,Occup of hv veh injured in clsn w oth and unsp mv nontraf
+693,V67.9,Occup of hv veh injured in clsn w statnry object in traf
+693,V67.3,Occup of hv veh injured in clsn w statnry object nontraf
+693,V62.9,Occup of hv veh injured in collision w 2/3-whl mv in traf
+693,V62.3,Occup of hv veh injured in collision w 2/3-whl mv nontraf
+693,V64.9,Occup of hv veh injured in collision w hv veh in traf
+693,V64.3,Occup of hv veh injured in collision w hv veh nontraf
+693,V61.9,Occup of hv veh injured in collision w pedal cycle in traf
+693,V61.3,Occup of hv veh injured in collision w pedal cycle nontraf
+693,V60.9,Occup of hv veh injured in collision w ped/anml in traf
+693,V60.3,Occup of hv veh injured in collision w ped/anml nontraf
+693,V65.9,Occup of hv veh injured in collision w rail trn/veh in traf
+693,V65.3,Occup of hv veh injured in collision w rail trn/veh nontraf
+693,V68.9,Occup of hv veh injured in nonclsn trnsp accident in traf
+693,V68.3,Occup of hv veh injured in nonclsn trnsp accident nontraf
+693,V63.9,"Occup of hv veh injured pick-up truck, pk-up/van in traf"
+693,V63.3,"Occup of hv veh injured pick-up truck, pk-up/van nontraf"
+693,V56.9,Occup of pk-up/van injured in clsn w nonmtr vehicle in traf
+693,V56.3,Occup of pk-up/van injured in clsn w nonmtr vehicle nontraf
+693,V59.6,Occup of pk-up/van injured in clsn w oth and unsp mv in traf
+693,V59.2,Occup of pk-up/van injured in clsn w oth and unsp mv nontraf
+693,V55.9,Occup of pk-up/van injured in clsn w rail trn/veh in traf
+693,V55.3,Occup of pk-up/van injured in clsn w rail trn/veh nontraf
+693,V57.9,Occup of pk-up/van injured in clsn w statnry object in traf
+693,V57.3,Occup of pk-up/van injured in clsn w statnry object nontraf
+693,V52.9,Occup of pk-up/van injured in collision w 2/3-whl mv in traf
+693,V52.3,Occup of pk-up/van injured in collision w 2/3-whl mv nontraf
+693,V54.9,Occup of pk-up/van injured in collision w hv veh in traf
+693,V54.3,Occup of pk-up/van injured in collision w hv veh nontraf
+693,V50.9,Occup of pk-up/van injured in collision w ped/anml in traf
+693,V50.3,Occup of pk-up/van injured in collision w ped/anml nontraf
+693,V51.9,Occup of pk-up/van injured in collision w pedl cyc in traf
+693,V51.3,Occup of pk-up/van injured in collision w pedl cyc nontraf
+693,V58.9,Occup of pk-up/van injured in nonclsn trnsp accident in traf
+693,V58.3,Occup of pk-up/van injured in nonclsn trnsp accident nontraf
+693,V53.9,"Occup of pk-up/van injured pick-up truck, pk-up/van in traf"
+693,V53.3,"Occup of pk-up/van injured pick-up truck, pk-up/van nontraf"
+649,Q75.5,Oculomandibular dysostosis
+562,F11.1,Opioid abuse
+562,F11.2,Opioid dependence
+562,F11.9,"Opioid use, unspecified"
+602,N45.2,Orchitis
+649,Q77.9,"Osteochndrdys w defct of grth of tublr bones and spine, unsp"
+649,Q78.9,"Osteochondrodysplasia, unspecified"
+649,Q78.0,Osteogenesis imperfecta
+649,Q78.2,Osteopetrosis
+650,Q64.7,Oth and unsp congenital malformations of bladder and urethra
+650,Q55.2,Oth and unsp congenital malformations of testis and scrotum
+849,C44.8,Oth and unsp malignant neoplasm of overlapping sites of skin
+849,C44.3,Oth and unsp malignant neoplasm skin/ and unsp parts of face
+849,C44.1,"Oth and unsp malignant neoplasm skin/ eyelid, inc canthus"
+849,C44.7,"Oth and unsp malignant neoplasm skin/ lower limb, inc hip"
+849,C44.2,Oth and unsp malig neoplasm skin/ ear and extrn auric canal
+849,C44.6,"Oth and unsp malig neoplasm skin/ upper limb, inc shoulder"
+618,D61.8,Oth aplastic anemias and other bone marrow failure syndromes
+643,Q28.8,Oth congenital malformations of circulatory system
+650,Q50.6,Oth congenital malformations of fallop and broad ligament
+650,Q55.8,Oth congenital malformations of male genital organs
+651,Q45.3,Oth congenital malformations of pancreas and pancreatic duct
+643,Q27.8,Oth congenital malformations of peripheral vascular system
+652,Q34.8,Oth congenital malformations of respiratory system
+649,Q75.8,Oth congenital malformations of skull and face bones
+651,Q40.8,Oth congenital malformations of upper alimentary tract
+648,Q87.8,"Oth congenital malformation syndromes, NEC"
+648,Q87.5,Oth congenital malformation syndromes w oth skeletal changes
+643,Q20.8,Oth congenital malform of cardiac chambers and connections
+649,Q76.4,"Oth congenital malform of spine, not associated w scoliosis"
+649,Q74.2,"Oth congen malform of lower limb(s), including pelvic girdle"
+649,Q74.0,"Oth congen malform of upper limb(s), inc shoulder girdle"
+650,Q55.4,"Oth congen malform of vas def,epidid, semnl vescl & prostate"
+652,Q86.8,Oth congen malform syndromes due to known exogenous causes
+602,N25.8,Oth disorders resulting from impaired renal tubular function
+618,D60.8,Other acquired pure red cell aplasias
+942,I40.8,Other acute myocarditis
+650,Q52.7,Other and unspecified congenital malformations of vulva
+849,C44.0,Other and unspecified malignant neoplasm of skin of lip
+849,C44.5,Other and unspecified malignant neoplasm of skin of trunk
+612,N83.2,Other and unspecified ovarian cysts
+849,C44.4,Other and unsp malignant neoplasm of skin of scalp and neck
+849,C44.9,"Other and unsp malignant neoplasm of skin, unspecified"
+618,D55.8,Other anemias due to enzyme disorders
+652,Q11.1,Other anophthalmos
+727,Y03.8,Other assault by crashing of motor vehicle
+727,X92.8,Other assault by drowning and submersion
+650,Q64.3,Other atresia and stenosis of urethra and bladder neck
+618,D59.1,Other autoimmune hemolytic anemias
+336,G00.8,Other bacterial meningitis
+648,Q95.8,Other balanced rearrangements and structural markers
+604,D26.0,Other benign neoplasm of cervix uteri
+604,D26.1,Other benign neoplasm of corpus uteri
+604,D26.7,Other benign neoplasm of other parts of uterus
+604,D26.9,"Other benign neoplasm of uterus, unspecified"
+652,Q18.2,Other branchial cleft malformations
+944,I42.8,Other cardiomyopathies
+707,W20.8,"Other cause of strike by thrown, projected or falling object"
+495,I63.8,Other cerebral infarction
+595,N30.2,Other chronic cystitis
+595,N11.8,Other chronic tubulo-interstitial nephritis
+652,Q06.3,Other congenital cauda equina malformations
+652,Q13.4,Other congenital corneal malformations
+649,Q67.8,Other congenital deformities of chest
+649,Q66.8,Other congenital deformities of feet
+649,Q65.8,Other congenital deformities of hip
+649,Q67.4,"Other congenital deformities of skull, face and jaw"
+651,Q43.2,Other congenital functional disorders of colon
+652,Q03.8,Other congenital hydrocephalus
+652,Q80.8,Other congenital ichthyosis
+652,Q12.8,Other congenital lens malformations
+651,Q79.5,Other congenital malformations of abdominal wall
+649,Q79.5,Other congenital malformations of abdominal wall
+652,Q13.8,Other congenital malformations of anterior segment of eye
+643,Q25.4,Other congenital malformations of aorta
+643,Q23.8,Other congenital malformations of aortic and mitral valves
+651,Q44.5,Other congenital malformations of bile ducts
+649,Q76.8,Other congenital malformations of bony thorax
+652,Q83.8,Other congenital malformations of breast
+652,Q32.4,Other congenital malformations of bronchus
+643,Q21.8,Other congenital malformations of cardiac septa
+651,Q79.1,Other congenital malformations of diaphragm
+649,Q79.1,Other congenital malformations of diaphragm
+651,Q39.8,Other congenital malformations of esophagus
+651,Q44.1,Other congenital malformations of gallbladder
+643,Q26.8,Other congenital malformations of great veins
+652,Q84.2,Other congenital malformations of hair
+652,Q13.2,Other congenital malformations of iris
+652,Q10.6,Other congenital malformations of lacrimal apparatus
+652,Q31.8,Other congenital malformations of larynx
+651,Q44.7,Other congenital malformations of liver
+652,Q33.8,Other congenital malformations of lung
+652,Q16.4,Other congenital malformations of middle ear
+651,Q38.6,Other congenital malformations of mouth
+649,Q79.8,Other congenital malformations of musculoskeletal system
+652,Q84.6,Other congenital malformations of nails
+652,Q30.8,Other congenital malformations of nose
+643,Q25.8,Other congenital malformations of other great arteries
+650,Q50.3,Other congenital malformations of ovary
+650,Q55.6,Other congenital malformations of penis
+651,Q38.8,Other congenital malformations of pharynx
+652,Q14.8,Other congenital malformations of posterior segment of eye
+643,Q25.7,Other congenital malformations of pulmonary artery
+643,Q22.3,Other congenital malformations of pulmonary valve
+643,Q27.2,Other congenital malformations of renal artery
+649,Q76.6,Other congenital malformations of ribs
+651,Q38.3,Other congenital malformations of tongue
+652,Q32.1,Other congenital malformations of trachea
+643,Q22.8,Other congenital malformations of tricuspid valve
+593,Q62.8,Other congenital malformations of ureter
+650,Q51.8,Other congenital malformations of uterus and cervix
+650,Q52.4,Other congenital malformations of vagina
+649,Q66.6,Other congenital valgus deformities of feet
+649,Q66.3,Other congenital varus deformities of feet
+711,W54.8,Other contact with dog
+593,Q61.8,Other cystic kidney diseases
+595,N30.8,Other cystitis
+648,Q93.8,Other deletions from the autosomes
+648,Q93.5,Other deletions of part of a chromosome
+612,N75.8,Other diseases of Bartholin's gland
+650,Q51.2,Other doubling of uterus
+657,A66.2,Other early skin lesions of yaws
+607,N80.8,Other endometriosis
+652,Q81.8,Other epidermolysis bullosa
+668,L51.8,Other erythema multiforme
+727,Y07.4,"Other family member, perpetrator of maltreatment and neglect"
+608,N81.8,Other female genital prolapse
+715,W45.8,Other foreign body or object entering through skin
+396,A54.8,Other gonococcal infections
+618,D58.2,Other hemoglobinopathies
+944,I42.2,Other hypertrophic cardiomyopathy
+650,Q54.8,Other hypospadias
+602,N41.8,Other inflammatory diseases of prostate
+723,X82.8,Other intentional self-harm by crashing of motor vehicle
+723,X71.8,Other intentional self-harm by drowning and submersion
+321,A04.4,Other intestinal Escherichia coli infections
+495,G46.7,Other lacunar syndromes
+394,A50.5,"Other late congenital syphilis, symptomatic"
+596,N21.8,Other lower urinary tract calculus
+643,Q28.3,Other malformations of cerebral vessels
+643,Q28.1,Other malformations of precerebral vessels
+657,A66.7,Other manifestations of yaws
+335,A39.8,Other meningococcal infections
+934,A19.8,Other miliary tuberculosis
+652,Q17.3,Other misshapen ear
+602,N31.8,Other neuromuscular dysfunction of bladder
+496,I61.8,Other nontraumatic intracerebral hemorrhage
+496,I60.8,Other nontraumatic subarachnoid hemorrhage
+593,Q62.3,Other obstructive defects of renal pelvis and ureter
+668,L12.8,Other pemphigoid
+668,L10.8,Other pemphigus
+652,Q85.8,"Other phakomatoses, not elsewhere classified"
+566,F19.1,Other psychoactive substance abuse
+566,F19.2,Other psychoactive substance dependence
+566,F19.9,"Other psychoactive substance use, unspecified"
+649,Q72.8,Other reduction defects of lower limb
+649,Q73.8,Other reduction defects of unspecified limb(s)
+649,Q71.8,Other reduction defects of upper limb
+652,Q04.3,Other reduction deformities of brain
+934,A15.8,Other respiratory tuberculosis
+944,I42.5,Other restrictive cardiomyopathy
+394,A51.4,Other secondary syphilis
+615,D57.8,Other sickle-cell disorders
+668,L11.8,Other specified acantholytic disorders
+668,L13.8,Other specified bullous disorders
+648,Q99.8,Other specified chromosome abnormalities
+652,Q89.8,Other specified congenital malformations
+652,Q04.8,Other specified congenital malformations of brain
+651,Q45.8,Other specified congenital malformations of digestive system
+652,Q17.8,Other specified congenital malformations of ear
+652,Q15.8,Other specified congenital malformations of eye
+652,Q18.8,Other specified congenital malformations of face and neck
+650,Q52.8,Other specified congenital malformations of female genitalia
+643,Q24.8,Other specified congenital malformations of heart
+652,Q84.8,Other specified congenital malformations of integument
+651,Q43.8,Other specified congenital malformations of intestine
+650,Q63.8,Other specified congenital malformations of kidney
+649,Q74.8,Other specified congenital malformations of limb(s)
+652,Q07.8,Other specified congenital malformations of nervous system
+652,Q82.8,Other specified congenital malformations of skin
+652,Q06.8,Other specified congenital malformations of spinal cord
+651,Q40.2,Other specified congenital malformations of stomach
+650,Q64.8,Other specified congenital malformations of urinary system
+649,Q68.8,Other specified congenital musculoskeletal deformities
+590,E13.2,Other specified diabetes mellitus with kidney complications
+602,N36.8,Other specified disorders of urethra
+602,N39.8,Other specified disorders of urinary system
+618,D58.8,Other specified hereditary hemolytic anemias
+612,N76.8,Other specified inflammation of vagina and vulva
+943,C94.8,Other specified leukemias
+649,Q78.8,Other specified osteochondrodysplasias
+399,A63.8,Other specified predominantly sexually transmitted diseases
+321,A07.8,Other specified protozoal intestinal diseases
+595,N15.8,Other specified renal tubulo-interstitial diseases
+648,Q92.8,Other specified trisomies and partial trisomies of autosomes
+602,N39.4,Other specified urinary incontinence
+564,F15.1,Other stimulant abuse
+564,F15.2,Other stimulant dependence
+564,F15.9,"Other stimulant use, unspecified"
+394,A52.7,Other symptomatic late syphilis
+614,D56.8,Other thalassemias
+934,A17.8,Other tuberculosis of nervous system
+595,N34.2,Other urethritis
+336,A87.8,Other viral meningitis
+657,L08.8,Oth local infections of the skin and subcutaneous tissue
+657,I89.8,Oth noninfective disorders of lymphatic vessels and nodes
+612,N83.8,"Oth noninflammatory disord of ovary, fallop and broad ligmt"
+649,Q77.8,Oth osteochndrdys w defct of growth of tublr bones and spine
+648,Q97.8,"Oth sex chromosome abnormalities, female phenotype"
+495,G45.8,Oth transient cerebral ischemic attacks and related synd
+495,G46.8,Oth vascular syndromes of brain in cerebrovascular diseases
+602,N26.2,Page kidney
+707,W45.1,Paper entering through skin
+715,W45.1,Paper entering through skin
+320,A01.1,Paratyphoid fever A
+320,A01.2,Paratyphoid fever B
+320,A01.3,Paratyphoid fever C
+320,A01.4,"Paratyphoid fever, unspecified"
+727,Y07.1,"Parent (adoptive) (biological), perp of maltreat and neglect"
+618,D59.5,Paroxysmal nocturnal hemoglobinuria [Marchiafava-Micheli]
+643,Q26.3,Partial anomalous pulmonary venous connection
+648,Q92.2,Partial trisomy
+693,V36.6,Pasngr in 3-whl mv injured in clsn w nonmtr vehicle in traf
+693,V36.1,Pasngr in 3-whl mv injured in clsn w nonmtr vehicle nontraf
+693,V39.5,Pasngr in 3-whl mv injured in clsn w oth and unsp mv in traf
+693,V39.1,Pasngr in 3-whl mv injured in clsn w oth and unsp mv nontraf
+693,V37.6,Pasngr in 3-whl mv injured in clsn w statnry object in traf
+693,V37.1,Pasngr in 3-whl mv injured in clsn w statnry object nontraf
+693,V38.6,Pasngr in 3-whl mv injured in nonclsn trnsp accident in traf
+693,V38.1,Pasngr in 3-whl mv injured in nonclsn trnsp accident nontraf
+693,V33.6,"Pasngr in 3-whl mv injured pick-up truck, pk-up/van in traf"
+693,V33.1,"Pasngr in 3-whl mv injured pick-up truck, pk-up/van nontraf"
+693,V69.5,Pasngr in hv veh injured in clsn w oth and unsp mv in traf
+693,V69.1,Pasngr in hv veh injured in clsn w oth and unsp mv nontraf
+693,V68.6,Pasngr in hv veh injured in nonclsn trnsp accident in traf
+693,V68.1,Pasngr in hv veh injured in nonclsn trnsp accident nontraf
+693,V59.5,Pasngr in pk-up/van inj in clsn w oth and unsp mv in traf
+693,V59.1,Pasngr in pk-up/van inj in clsn w oth and unsp mv nontraf
+693,V56.6,Pasngr in pk-up/van injured in clsn w nonmtr vehicle in traf
+693,V56.1,Pasngr in pk-up/van injured in clsn w nonmtr vehicle nontraf
+693,V55.6,Pasngr in pk-up/van injured in clsn w rail trn/veh in traf
+693,V55.1,Pasngr in pk-up/van injured in clsn w rail trn/veh nontraf
+693,V57.6,Pasngr in pk-up/van injured in clsn w statnry object in traf
+693,V57.1,Pasngr in pk-up/van injured in clsn w statnry object nontraf
+693,V58.6,Pasngr in pk-up/van injured in nonclsn trnsp acc in traf
+693,V58.1,Pasngr in pk-up/van injured in nonclsn trnsp acc nontraf
+693,V53.6,"Pasngr in pk-up/van injured pick-up truck, pk-up/van in traf"
+693,V53.1,"Pasngr in pk-up/van injured pick-up truck, pk-up/van nontraf"
+693,V78.6,Pasngr on bus injured in nonclsn transport accident in traf
+693,V78.1,Pasngr on bus injured in nonclsn transport accident nontraf
+693,V32.6,Passenger in 3-whl mv injured in clsn w 2/3-whl mv in traf
+693,V32.1,Passenger in 3-whl mv injured in clsn w 2/3-whl mv nontraf
+693,V30.6,Passenger in 3-whl mv injured in clsn w ped/anml in traf
+693,V30.1,Passenger in 3-whl mv injured in clsn w ped/anml nontraf
+693,V31.6,Passenger in 3-whl mv injured in clsn w pedl cyc in traf
+693,V31.1,Passenger in 3-whl mv injured in clsn w pedl cyc nontraf
+693,V35.6,Passenger in 3-whl mv injured in clsn w rail trn/veh in traf
+693,V35.1,Passenger in 3-whl mv injured in clsn w rail trn/veh nontraf
+693,V34.6,Passenger in 3-whl mv injured in collision w hv veh in traf
+693,V34.1,Passenger in 3-whl mv injured in collision w hv veh nontraf
+693,V62.6,Passenger in hv veh injured in clsn w 2/3-whl mv in traf
+693,V62.1,Passenger in hv veh injured in clsn w 2/3-whl mv nontraf
+693,V66.6,Passenger in hv veh injured in clsn w nonmtr vehicle in traf
+693,V66.1,Passenger in hv veh injured in clsn w nonmtr vehicle nontraf
+693,V65.6,Passenger in hv veh injured in clsn w rail trn/veh in traf
+693,V65.1,Passenger in hv veh injured in clsn w rail trn/veh nontraf
+693,V67.6,Passenger in hv veh injured in clsn w statnry object in traf
+693,V67.1,Passenger in hv veh injured in clsn w statnry object nontraf
+693,V64.6,Passenger in hv veh injured in collision w hv veh in traf
+693,V64.1,Passenger in hv veh injured in collision w hv veh nontraf
+693,V60.6,Passenger in hv veh injured in collision w ped/anml in traf
+693,V60.1,Passenger in hv veh injured in collision w ped/anml nontraf
+693,V61.6,Passenger in hv veh injured in collision w pedl cyc in traf
+693,V61.1,Passenger in hv veh injured in collision w pedl cyc nontraf
+693,V63.6,"Passenger in hv veh injured pick-up truck, pk-up/van in traf"
+693,V63.1,"Passenger in hv veh injured pick-up truck, pk-up/van nontraf"
+693,V49.5,Passenger injured in collision w oth and unsp mv in traf
+693,V49.1,Passenger injured in collision w oth and unsp mv nontraf
+693,V52.6,Passenger in pk-up/van injured in clsn w 2/3-whl mv in traf
+693,V52.1,Passenger in pk-up/van injured in clsn w 2/3-whl mv nontraf
+693,V50.6,Passenger in pk-up/van injured in clsn w ped/anml in traf
+693,V50.1,Passenger in pk-up/van injured in clsn w ped/anml nontraf
+693,V51.6,Passenger in pk-up/van injured in clsn w pedl cyc in traf
+693,V51.1,Passenger in pk-up/van injured in clsn w pedl cyc nontraf
+693,V54.6,Passenger in pk-up/van injured in collision w hv veh in traf
+693,V54.1,Passenger in pk-up/van injured in collision w hv veh nontraf
+693,V76.6,Passenger on bus injured in clsn w nonmtr vehicle in traf
+693,V76.1,Passenger on bus injured in clsn w nonmtr vehicle nontraf
+693,V79.5,Passenger on bus injured in clsn w oth and unsp mv in traf
+693,V79.1,Passenger on bus injured in clsn w oth and unsp mv nontraf
+693,V77.6,Passenger on bus injured in clsn w statnry object in traf
+693,V77.1,Passenger on bus injured in clsn w statnry object nontraf
+693,V72.6,Passenger on bus injured in collision w 2/3-whl mv in traf
+693,V72.1,Passenger on bus injured in collision w 2/3-whl mv nontraf
+693,V74.6,Passenger on bus injured in collision w hv veh in traf
+693,V74.1,Passenger on bus injured in collision w hv veh nontraf
+693,V71.6,Passenger on bus injured in collision w pedal cycle in traf
+693,V71.1,Passenger on bus injured in collision w pedal cycle nontraf
+693,V70.6,Passenger on bus injured in collision w ped/anml in traf
+693,V70.1,Passenger on bus injured in collision w ped/anml nontraf
+693,V75.6,Passenger on bus injured in collision w rail trn/veh in traf
+693,V75.1,Passenger on bus injured in collision w rail trn/veh nontraf
+693,V73.6,"Passenger on bus injured pick-up truck, pk-up/van in traf"
+693,V73.1,"Passenger on bus injured pick-up truck, pk-up/van nontraf"
+643,Q25.0,Patent ductus arteriosus
+649,Q67.7,Pectus carinatum
+649,Q67.6,Pectus excavatum
+691,V12.4,Pedal cycle driver injured in collision w 2/3-whl mv in traf
+691,V12.0,Pedal cycle driver injured in collision w 2/3-whl mv nontraf
+691,V14.4,Pedal cycle driver injured in collision w hv veh in traf
+691,V14.0,Pedal cycle driver injured in collision w hv veh nontraf
+691,V10.4,Pedal cycle driver injured in collision w ped/anml in traf
+691,V10.0,Pedal cycle driver injured in collision w ped/anml nontraf
+691,V13.4,"Pedal cycle driver injured pick-up truck, pk-up/van in traf"
+691,V13.0,"Pedal cycle driver injured pick-up truck, pk-up/van nontraf"
+691,V14.5,Pedal cycle passenger injured in collision w hv veh in traf
+691,V14.1,Pedal cycle passenger injured in collision w hv veh nontraf
+691,V19.3,Pedal cyclist (driver) (passenger) injured in unsp nontraf
+691,V19.9,Pedal cyclist (driver) (passenger) injured in unsp traf
+690,V02.1,Pedestrian injured in collision w 2/3-whl mv in traf
+690,V02.0,Pedestrian injured in collision w 2/3-whl mv nontraf
+690,V02.9,"Pedestrian injured in collision w 2/3-whl mv, unsp"
+690,V04.1,Pedestrian injured in collision w hv veh in traffic accident
+690,V04.0,Pedestrian injured in collision w hv veh nontraf
+690,V04.9,"Pedestrian injured in collision w hv veh, unsp"
+690,V06.1,Pedestrian injured in collision w nonmtr vehicle in traf
+690,V06.0,Pedestrian injured in collision w nonmtr vehicle nontraf
+690,V06.9,"Pedestrian injured in collision w oth nonmotor vehicle, unsp"
+690,V01.1,Pedestrian injured in collision w pedal cycle in traf
+690,V01.0,Pedestrian injured in collision w pedal cycle nontraf
+690,V01.9,"Pedestrian injured in collision w pedal cycle, unsp"
+690,V09.2,Pedestrian injured in traf involving oth and unsp mv
+690,V09.1,Pedestrian injured in unspecified nontraffic accident
+690,V09.3,Pedestrian injured in unspecified traffic accident
+690,V09.9,Pedestrian injured in unspecified transport accident
+690,V09.0,Pedestrian injured nontraf involving oth and unsp mv
+690,V03.9,"Pedestrian injured pick-up truck, pick-up truck or van, unsp"
+690,V03.1,"Pedestrian injured pick-up truck, pk-up/van in traf"
+690,V03.0,"Pedestrian injured pick-up truck, pk-up/van nontraf"
+691,V16.4,Pedl cyc driver injured in clsn w nonmtr vehicle in traf
+691,V16.0,Pedl cyc driver injured in clsn w nonmtr vehicle nontraf
+691,V19.4,Pedl cyc driver injured in clsn w oth and unsp mv in traf
+691,V19.0,Pedl cyc driver injured in clsn w oth and unsp mv nontraf
+691,V17.4,Pedl cyc driver injured in clsn w statnry object in traf
+691,V17.0,Pedl cyc driver injured in clsn w statnry object nontraf
+691,V11.4,Pedl cyc driver injured in collision w oth pedl cyc in traf
+691,V11.0,Pedl cyc driver injured in collision w oth pedl cyc nontraf
+691,V15.4,Pedl cyc driver injured in collision w rail trn/veh in traf
+691,V15.0,Pedl cyc driver injured in collision w rail trn/veh nontraf
+691,V18.4,Pedl cyc driver injured in nonclsn trnsp accident in traf
+691,V18.0,Pedl cyc driver injured in nonclsn trnsp accident nontraf
+691,V19.8,Pedl cyclst (driver) injured in oth transport accidents
+691,V18.5,Pedl cyc pasngr injured in nonclsn trnsp accident in traf
+691,V18.1,Pedl cyc pasngr injured in nonclsn trnsp accident nontraf
+691,V16.5,Pedl cyc passenger injured in clsn w nonmtr vehicle in traf
+691,V16.1,Pedl cyc passenger injured in clsn w nonmtr vehicle nontraf
+691,V19.5,Pedl cyc passenger injured in clsn w oth and unsp mv in traf
+691,V19.1,Pedl cyc passenger injured in clsn w oth and unsp mv nontraf
+691,V11.5,Pedl cyc passenger injured in clsn w oth pedl cyc in traf
+691,V11.1,Pedl cyc passenger injured in clsn w oth pedl cyc nontraf
+691,V15.5,Pedl cyc passenger injured in clsn w rail trn/veh in traf
+691,V15.1,Pedl cyc passenger injured in clsn w rail trn/veh nontraf
+691,V17.5,Pedl cyc passenger injured in clsn w statnry object in traf
+691,V17.1,Pedl cyc passenger injured in clsn w statnry object nontraf
+691,V12.5,Pedl cyc passenger injured in collision w 2/3-whl mv in traf
+691,V12.1,Pedl cyc passenger injured in collision w 2/3-whl mv nontraf
+691,V10.5,Pedl cyc passenger injured in collision w ped/anml in traf
+691,V10.1,Pedl cyc passenger injured in collision w ped/anml nontraf
+691,V13.5,"Pedl cyc passenger injured pick-up truck, pk-up/van in traf"
+691,V13.1,"Pedl cyc passenger injured pick-up truck, pk-up/van nontraf"
+668,L12.9,"Pemphigoid, unspecified"
+668,L10.4,Pemphigus erythematosus
+668,L10.2,Pemphigus foliaceous
+668,L10.9,"Pemphigus, unspecified"
+668,L10.1,Pemphigus vegetans
+668,L10.0,Pemphigus vulgaris
+651,Q43.7,Persistent cloaca
+643,Q26.1,Persistent left superior vena cava
+693,V87.2,Person injured in collision betw car and pk-up/van (traffic)
+693,V87.3,Person injured in collision between car and bus (traffic)
+694,V82.4,Person injured while boarding or alighting from streetcar
+693,V56.7,Person outsd pk-up/van inj in clsn w nonmtr vehicle in traf
+693,V56.2,Person outsd pk-up/van inj in clsn w nonmtr vehicle nontraf
+693,V57.7,Person outsd pk-up/van inj in clsn w statnry object in traf
+693,V57.2,Person outsd pk-up/van inj in clsn w statnry object nontraf
+693,V53.7,"Person outsd pk-up/van inj pick-up truck, pk-up/van in traf"
+693,V53.2,"Person outsd pk-up/van inj pick-up truck, pk-up/van nontraf"
+693,V36.7,Person outside 3-whl mv inj in clsn w nonmtr vehicle in traf
+693,V36.2,Person outside 3-whl mv inj in clsn w nonmtr vehicle nontraf
+693,V35.7,Person outside 3-whl mv inj in clsn w rail trn/veh in traf
+693,V35.2,Person outside 3-whl mv inj in clsn w rail trn/veh nontraf
+693,V37.7,Person outside 3-whl mv inj in clsn w statnry object in traf
+693,V37.2,Person outside 3-whl mv inj in clsn w statnry object nontraf
+693,V33.7,"Person outside 3-whl mv inj pick-up truck, pk-up/van in traf"
+693,V33.2,"Person outside 3-whl mv inj pick-up truck, pk-up/van nontraf"
+693,V32.7,Person outside 3-whl mv injured in clsn w 2/3-whl mv in traf
+693,V32.2,Person outside 3-whl mv injured in clsn w 2/3-whl mv nontraf
+693,V34.7,Person outside 3-whl mv injured in clsn w hv veh in traf
+693,V34.2,Person outside 3-whl mv injured in clsn w hv veh nontraf
+693,V30.7,Person outside 3-whl mv injured in clsn w ped/anml in traf
+693,V30.2,Person outside 3-whl mv injured in clsn w ped/anml nontraf
+693,V31.7,Person outside 3-whl mv injured in clsn w pedl cyc in traf
+693,V31.2,Person outside 3-whl mv injured in clsn w pedl cyc nontraf
+693,V38.7,Person outside 3-whl mv injured in nonclsn trnsp acc in traf
+693,V38.2,Person outside 3-whl mv injured in nonclsn trnsp acc nontraf
+693,V76.7,Person outside bus injured in clsn w nonmtr vehicle in traf
+693,V76.2,Person outside bus injured in clsn w nonmtr vehicle nontraf
+693,V75.7,Person outside bus injured in clsn w rail trn/veh in traf
+693,V75.2,Person outside bus injured in clsn w rail trn/veh nontraf
+693,V77.7,Person outside bus injured in clsn w statnry object in traf
+693,V77.2,Person outside bus injured in clsn w statnry object nontraf
+693,V72.7,Person outside bus injured in collision w 2/3-whl mv in traf
+693,V72.2,Person outside bus injured in collision w 2/3-whl mv nontraf
+693,V74.7,Person outside bus injured in collision w hv veh in traf
+693,V74.2,Person outside bus injured in collision w hv veh nontraf
+693,V70.7,Person outside bus injured in collision w ped/anml in traf
+693,V70.2,Person outside bus injured in collision w ped/anml nontraf
+693,V71.7,Person outside bus injured in collision w pedl cyc in traf
+693,V71.2,Person outside bus injured in collision w pedl cyc nontraf
+693,V78.7,Person outside bus injured in nonclsn trnsp accident in traf
+693,V78.2,Person outside bus injured in nonclsn trnsp accident nontraf
+693,V73.7,"Person outside bus injured pick-up truck, pk-up/van in traf"
+693,V73.2,"Person outside bus injured pick-up truck, pk-up/van nontraf"
+693,V46.7,Person outside car injured in clsn w nonmtr vehicle in traf
+693,V46.2,Person outside car injured in clsn w nonmtr vehicle nontraf
+693,V45.7,Person outside car injured in clsn w rail trn/veh in traf
+693,V45.2,Person outside car injured in clsn w rail trn/veh nontraf
+693,V47.7,Person outside car injured in clsn w statnry object in traf
+693,V47.2,Person outside car injured in clsn w statnry object nontraf
+693,V42.7,Person outside car injured in collision w 2/3-whl mv in traf
+693,V42.2,Person outside car injured in collision w 2/3-whl mv nontraf
+693,V44.7,Person outside car injured in collision w hv veh in traf
+693,V44.2,Person outside car injured in collision w hv veh nontraf
+693,V40.7,Person outside car injured in collision w ped/anml in traf
+693,V40.2,Person outside car injured in collision w ped/anml nontraf
+693,V41.7,Person outside car injured in collision w pedl cyc in traf
+693,V41.2,Person outside car injured in collision w pedl cyc nontraf
+693,V48.7,Person outside car injured in nonclsn trnsp accident in traf
+693,V48.2,Person outside car injured in nonclsn trnsp accident nontraf
+693,V43.7,"Person outside car injured pick-up truck, pk-up/van in traf"
+693,V43.2,"Person outside car injured pick-up truck, pk-up/van nontraf"
+693,V66.7,Person outside hv veh inj in clsn w nonmtr vehicle in traf
+693,V66.2,Person outside hv veh inj in clsn w nonmtr vehicle nontraf
+693,V67.7,Person outside hv veh inj in clsn w statnry object in traf
+693,V67.2,Person outside hv veh inj in clsn w statnry object nontraf
+693,V63.7,"Person outside hv veh inj pick-up truck, pk-up/van in traf"
+693,V63.2,"Person outside hv veh inj pick-up truck, pk-up/van nontraf"
+693,V62.7,Person outside hv veh injured in clsn w 2/3-whl mv in traf
+693,V62.2,Person outside hv veh injured in clsn w 2/3-whl mv nontraf
+693,V60.7,Person outside hv veh injured in clsn w ped/anml in traf
+693,V60.2,Person outside hv veh injured in clsn w ped/anml nontraf
+693,V61.7,Person outside hv veh injured in clsn w pedl cyc in traf
+693,V61.2,Person outside hv veh injured in clsn w pedl cyc nontraf
+693,V65.7,Person outside hv veh injured in clsn w rail trn/veh in traf
+693,V65.2,Person outside hv veh injured in clsn w rail trn/veh nontraf
+693,V64.7,Person outside hv veh injured in collision w hv veh in traf
+693,V64.2,Person outside hv veh injured in collision w hv veh nontraf
+693,V68.7,Person outside hv veh injured in nonclsn trnsp acc in traf
+693,V68.2,Person outside hv veh injured in nonclsn trnsp acc nontraf
+693,V52.7,Person outside pk-up/van inj in clsn w 2/3-whl mv in traf
+693,V52.2,Person outside pk-up/van inj in clsn w 2/3-whl mv nontraf
+693,V55.7,Person outside pk-up/van inj in clsn w rail trn/veh in traf
+693,V55.2,Person outside pk-up/van inj in clsn w rail trn/veh nontraf
+693,V58.7,Person outside pk-up/van inj in nonclsn trnsp acc in traf
+693,V58.2,Person outside pk-up/van inj in nonclsn trnsp acc nontraf
+693,V54.7,Person outside pk-up/van injured in clsn w hv veh in traf
+693,V54.2,Person outside pk-up/van injured in clsn w hv veh nontraf
+693,V50.7,Person outside pk-up/van injured in clsn w ped/anml in traf
+693,V50.2,Person outside pk-up/van injured in clsn w ped/anml nontraf
+693,V51.7,Person outside pk-up/van injured in clsn w pedl cyc in traf
+693,V51.2,Person outside pk-up/van injured in clsn w pedl cyc nontraf
+652,Q85.9,"Phakomatosis, unspecified"
+649,Q73.1,"Phocomelia, unspecified limb(s)"
+657,L05.0,Pilonidal cyst and sinus with abscess
+657,L05.9,Pilonidal cyst and sinus without abscess
+657,A67.9,"Pinta, unspecified"
+649,Q67.3,Plagiocephaly
+512,J92.0,Pleural plaque with presence of asbestos
+333,G00.1,Pneumococcal meningitis
+511,J62.8,Pneumoconiosis due to other dust containing silica
+514,J63.6,Pneumoconiosis due to other specified inorganic dusts
+511,J62.0,Pneumoconiosis due to talc dust
+593,Q61.2,"Polycystic kidney, adult type"
+593,Q61.1,"Polycystic kidney, infantile type"
+593,Q61.3,"Polycystic kidney, unspecified"
+605,E28.2,Polycystic ovarian syndrome
+649,Q69.9,"Polydactyly, unspecified"
+649,Q78.1,Polyostotic fibrous dysplasia
+649,Q70.4,"Polysyndactyly, unspecified"
+643,Q26.6,Portal vein-hepatic artery fistula
+495,G46.2,Posterior cerebral artery syndrome
+650,Q60.6,Potter's syndrome
+652,Q18.1,Preauricular sinus and cyst
+665,L89.5,Pressure ulcer of ankle
+665,L89.1,Pressure ulcer of back
+665,L89.3,Pressure ulcer of buttock
+665,L89.4,"Pressure ulcer of contiguous site of back, buttock and hip"
+665,L89.0,Pressure ulcer of elbow
+665,L89.6,Pressure ulcer of heel
+665,L89.2,Pressure ulcer of hip
+665,L89.8,Pressure ulcer of other site
+665,L89.9,Pressure ulcer of unspecified site
+394,A51.1,Primary anal syphilis
+394,A51.0,Primary genital syphilis
+657,A67.0,Primary lesions of pinta
+934,A15.7,Primary respiratory tuberculosis
+394,A51.2,Primary syphilis of other sites
+649,Q78.3,Progressive diaphyseal dysplasia
+495,I67.3,Progressive vascular leukoencephalopathy
+612,N83.4,Prolapse and hernia of ovary and fallopian tube
+943,C91.3,Prolymphocytic leukemia of B-cell type
+943,C91.6,Prolymphocytic leukemia of T-cell type
+652,Q17.5,Prominent ear
+602,N41.3,Prostatocystitis
+321,A07.9,"Protozoal intestinal disease, unspecified"
+693,V36.4,Prsn brd/alit a 3-whl mv injured in clsn w nonmtr vehicle
+693,V37.4,Prsn brd/alit a 3-whl mv injured in clsn w statnry object
+693,V32.4,Prsn brd/alit a 3-whl mv injured in collision w 2/3-whl mv
+693,V34.4,Prsn brd/alit a 3-whl mv injured in collision w hv veh
+693,V31.4,Prsn brd/alit a 3-whl mv injured in collision w pedal cycle
+693,V30.4,Prsn brd/alit a 3-whl mv injured in collision w ped/anml
+693,V35.4,Prsn brd/alit a 3-whl mv injured in collision w rail trn/veh
+693,V38.4,Prsn brd/alit a 3-whl mv injured in nonclsn trnsp accident
+693,V33.4,"Prsn brd/alit a 3-whl mv injured pick-up truck, pk-up/van"
+693,V42.4,Prsn brd/alit a car injured in collision w 2/3-whl mv
+693,V44.4,Prsn brd/alit a car injured in collision w hv veh
+693,V46.4,Prsn brd/alit a car injured in collision w nonmtr vehicle
+693,V41.4,Prsn brd/alit a car injured in collision w pedal cycle
+693,V40.4,Prsn brd/alit a car injured in collision w ped/anml
+693,V45.4,Prsn brd/alit a car injured in collision w rail trn/veh
+693,V47.4,Prsn brd/alit a car injured in collision w statnry object
+693,V48.4,Prsn brd/alit a car injured in nonclsn transport accident
+693,V43.4,"Prsn brd/alit a car injured pick-up truck, pk-up/van"
+692,V22.3,Prsn brd/alit a motorcycle injured in collision w 2/3-whl mv
+692,V24.3,Prsn brd/alit a motorcycle injured in collision w hv veh
+692,V20.3,Prsn brd/alit a motorcycle injured in collision w ped/anml
+692,V23.3,"Prsn brd/alit a motorcycle injured pick-up truck, pk-up/van"
+691,V14.3,Prsn brd/alit a pedal cycle injured in collision w hv veh
+691,V10.3,Prsn brd/alit a pedal cycle injured in collision w ped/anml
+691,V13.3,"Prsn brd/alit a pedal cycle injured pick-up truck, pk-up/van"
+693,V72.4,Prsn brd/alit from bus injured in collision w 2/3-whl mv
+693,V74.4,Prsn brd/alit from bus injured in collision w hv veh
+693,V76.4,Prsn brd/alit from bus injured in collision w nonmtr vehicle
+693,V71.4,Prsn brd/alit from bus injured in collision w pedal cycle
+693,V70.4,Prsn brd/alit from bus injured in collision w ped/anml
+693,V75.4,Prsn brd/alit from bus injured in collision w rail trn/veh
+693,V77.4,Prsn brd/alit from bus injured in collision w statnry object
+693,V78.4,Prsn brd/alit from bus injured in nonclsn transport accident
+693,V73.4,"Prsn brd/alit from bus injured pick-up truck, pk-up/van"
+693,V64.4,Prsn brd/alit hv veh injured in clsn w hv veh wh brd/alit
+693,V61.4,Prsn brd/alit hv veh injured in clsn w pedl cyc wh brd/alit
+693,V62.4,Prsn brd/alit hv veh injured in collision w 2/3-whl mv
+693,V66.4,Prsn brd/alit hv veh injured in collision w nonmtr vehicle
+693,V60.4,Prsn brd/alit hv veh injured in collision w ped/anml
+693,V65.4,Prsn brd/alit hv veh injured in collision w rail trn/veh
+693,V67.4,Prsn brd/alit hv veh injured in collision w statnry object
+693,V68.4,Prsn brd/alit hv veh injured in nonclsn transport accident
+693,V63.4,"Prsn brd/alit hv veh injured pick-up truck, pk-up/van"
+692,V26.3,Prsn brd/alit mtrcy injured in collision w nonmtr vehicle
+692,V21.3,Prsn brd/alit mtrcy injured in collision w pedal cycle
+692,V25.3,Prsn brd/alit mtrcy injured in collision w rail trn/veh
+692,V27.3,Prsn brd/alit mtrcy injured in collision w statnry object
+692,V28.3,Prsn brd/alit mtrcy injured in nonclsn transport accident
+691,V16.3,Prsn brd/alit pedl cyc inj in clsn w nonmtr vehicle nontraf
+691,V12.3,Prsn brd/alit pedl cyc injured in collision w 2/3-whl mv
+691,V11.3,Prsn brd/alit pedl cyc injured in collision w oth pedl cyc
+691,V15.3,Prsn brd/alit pedl cyc injured in collision w rail trn/veh
+691,V17.3,Prsn brd/alit pedl cyc injured in collision w statnry object
+691,V18.3,Prsn brd/alit pedl cyc injured in nonclsn transport accident
+693,V56.4,Prsn brd/alit pk-up/van injured in clsn w nonmtr vehicle
+693,V57.4,Prsn brd/alit pk-up/van injured in clsn w statnry object
+693,V52.4,Prsn brd/alit pk-up/van injured in collision w 2/3-whl mv
+693,V54.4,Prsn brd/alit pk-up/van injured in collision w hv veh
+693,V51.4,Prsn brd/alit pk-up/van injured in collision w pedal cycle
+693,V50.4,Prsn brd/alit pk-up/van injured in collision w ped/anml
+693,V55.4,Prsn brd/alit pk-up/van injured in collision w rail trn/veh
+693,V58.4,Prsn brd/alit pk-up/van injured in nonclsn trnsp accident
+693,V53.4,"Prsn brd/alit pk-up/van injured pick-up truck, pk-up/van"
+651,Q79.4,Prune belly syndrome
+649,Q79.4,Prune belly syndrome
+650,Q56.3,"Pseudohermaphroditism, unspecified"
+643,Q24.3,Pulmonary infundibular stenosis
+643,Q22.0,Pulmonary valve atresia
+495,G46.5,Pure motor lacunar syndrome
+495,G46.6,Pure sensory lacunar syndrome
+657,L08.0,Pyoderma
+657,L98.0,Pyogenic granuloma
+608,N81.6,Rectocele
+593,N02.3,Recur and perst hematur w diffus mesangial prolif glomrlneph
+593,N02.1,Recur and perst hematur w focal and seg glomerular lesions
+593,N02.4,Recur & perst hematur w diffus endocaplry prolif glomrlneph
+593,N02.6,Recurrent and persistent hematuria w dense deposit disease
+593,N02.0,Recurrent and persistent hematuria w minor glomerular abnlt
+593,N02.8,Recurrent and persistent hematuria w oth morphologic changes
+593,N02.9,Recurrent and perst hematuria w unsp morphologic changes
+593,N02.7,Recurrent and perst hematur w diffuse crescentic glomrlneph
+593,N02.2,Recurrent and perst hematur w diffuse membranous glomrlneph
+593,N02.5,Recurrent and perst hematur w diffuse mesangiocap glomrlneph
+602,N31.1,"Reflex neuropathic bladder, not elsewhere classified"
+650,Q60.1,"Renal agenesis, bilateral"
+650,Q60.0,"Renal agenesis, unilateral"
+650,Q60.2,"Renal agenesis, unspecified"
+595,N15.1,Renal and perinephric abscess
+593,Q61.4,Renal dysplasia
+650,Q60.4,"Renal hypoplasia, bilateral"
+650,Q60.3,"Renal hypoplasia, unilateral"
+650,Q60.5,"Renal hypoplasia, unspecified"
+602,N25.0,Renal osteodystrophy
+602,N26.9,"Renal sclerosis, unspecified"
+595,N15.9,"Renal tubulo-interstitial disease, unspecified"
+934,A15.9,Respiratory tuberculosis unspecified
+642,Q05.3,Sacral spina bifida with hydrocephalus
+642,Q05.8,Sacral spina bifida without hydrocephalus
+668,D86.3,Sarcoidosis of skin
+394,A51.3,Secondary syphilis of skin and mucous membranes
+566,F13.1,"Sedative, hypnotic or anxiolytic-related abuse"
+566,F13.2,"Sedative, hypnotic or anxiolytic-related dependence"
+566,F13.9,"Sedative, hypnotic or anxiolytic-related use, unspecified"
+723,X81.0,Self-harm by jumping or lying in front of motor vehicle
+723,X81.8,Self-harm by jumping or lying in front of moving object
+723,X81.1,Self-harm by jumping or lying in front of (subway) train
+652,Q04.4,Septo-optic dysplasia of brain
+934,B90.0,Sequelae of central nervous system tuberculosis
+495,I69.3,Sequelae of cerebral infarction
+934,B90.1,Sequelae of genitourinary tuberculosis
+496,I69.1,Sequelae of nontraumatic intracerebral hemorrhage
+496,I69.0,Sequelae of nontraumatic subarachnoid hemorrhage
+496,I69.2,Sequelae of other nontraumatic intracranial hemorrhage
+934,B90.9,Sequelae of respiratory and unspecified tuberculosis
+934,B90.2,Sequelae of tuberculosis of bones and joints
+934,B90.8,Sequelae of tuberculosis of other organs
+652,Q33.2,Sequestration of lung
+648,Q97.9,"Sex chromosome abnormality, female phenotype, unspecified"
+395,A56.8,Sexually transmitted chlamydial infection of other sites
+649,Q77.2,Short rib syndrome
+615,D57.1,Sickle-cell disease without crisis
+615,D57.2,Sickle-cell/Hb-C disease
+615,D57.4,Sickle-cell thalassemia
+514,J63.4,Siderosis
+652,Q18.0,"Sinus, fistula and cyst of branchial cleft"
+652,Q89.3,Situs inversus
+602,N27.1,"Small kidney, bilateral"
+602,N27.0,"Small kidney, unilateral"
+602,N27.9,"Small kidney, unspecified"
+652,Q12.4,Spherophakia
+649,Q76.0,Spina bifida occulta
+642,Q05.9,"Spina bifida, unspecified"
+649,Q72.7,Split foot
+649,Q77.7,Spondyloepiphyseal dysplasia
+727,Y07.0,"Spouse or partner, perpetrator of maltreatment and neglect"
+514,J63.5,Stannosis
+336,G00.3,Staphylococcal meningitis
+643,Q25.6,Stenosis of pulmonary artery
+668,L51.1,Stevens-Johnson syndrome
+668,L51.3,Stevens-Johnson synd-tox epdrml necrolysis overlap syndrome
+336,G00.2,Streptococcal meningitis
+602,N39.3,Stress incontinence (female) (male)
+707,W21.4,Striking against diving board
+707,W22.1,Striking against or struck by automobile airbag
+707,W22.8,Striking against or struck by other objects
+707,W21.8,Striking against or struck by other sports equipment
+707,W21.9,Striking against or struck by unspecified sports equipment
+707,W22.0,Striking against stationary object
+707,W21.1,"Struck by bat, racquet or club"
+711,W54.1,Struck by dog
+707,W20.0,Struck by falling object in cave-in
+707,W21.0,Struck by hit or thrown ball
+707,W21.2,Struck by hockey stick or puck
+707,W20.1,Struck by object due to collapse of building
+707,W21.3,Struck by sports foot wear
+612,N76.1,Subacute and chronic vaginitis
+612,N76.3,Subacute and chronic vulvitis
+668,L13.1,Subcorneal pustular dermatitis
+604,D25.0,Submucous leiomyoma of uterus
+604,D25.2,Subserosal leiomyoma of uterus
+643,Q25.3,Supravalvular aortic stenosis
+394,A52.1,Symptomatic neurosyphilis
+649,Q70.9,"Syndactyly, unspecified"
+394,A53.9,"Syphilis, unspecified"
+643,Q21.3,Tetralogy of Fallot
+614,D56.3,Thalassemia minor
+614,D56.9,"Thalassemia, unspecified"
+649,Q77.1,Thanatophoric short stature
+642,Q05.1,Thoracic spina bifida with hydrocephalus
+642,Q05.6,Thoracic spina bifida without hydrocephalus
+612,N83.5,"Torsion of ovary, ovarian pedicle and fallopian tube"
+602,N44.0,Torsion of testis
+643,Q26.2,Total anomalous pulmonary venous connection
+668,L51.2,Toxic epidermal necrolysis [Lyell]
+668,L11.1,Transient acantholytic dermatosis [Grover]
+618,D60.1,Transient acquired pure red cell aplasia
+495,G45.9,"Transient cerebral ischemic attack, unspecified"
+495,G45.4,Transient global amnesia
+595,N30.3,Trigonitis
+648,Q92.7,Triploidy and polyploidy
+648,Q91.5,"Trisomy 13, mosaicism (mitotic nondisjunction)"
+648,Q91.4,"Trisomy 13, nonmosaicism (meiotic nondisjunction)"
+648,Q91.6,"Trisomy 13, translocation"
+648,Q91.7,"Trisomy 13, unspecified"
+648,Q91.1,"Trisomy 18, mosaicism (mitotic nondisjunction)"
+648,Q91.0,"Trisomy 18, nonmosaicism (meiotic nondisjunction)"
+648,Q91.2,"Trisomy 18, translocation"
+648,Q91.3,"Trisomy 18, unspecified"
+645,Q90.1,"Trisomy 21, mosaicism (mitotic nondisjunction)"
+645,Q90.0,"Trisomy 21, nonmosaicism (meiotic nondisjunction)"
+645,Q90.2,"Trisomy 21, translocation"
+648,Q92.9,"Trisomy and partial trisomy of autosomes, unspecified"
+934,A18.7,Tuberculosis of adrenal glands
+934,A18.0,Tuberculosis of bones and joints
+934,A18.5,Tuberculosis of eye
+934,A18.1,Tuberculosis of genitourinary system
+934,A18.6,Tuberculosis of (inner) (middle) ear
+934,A18.3,"Tuberculosis of intestines, peritoneum and mesenteric glands"
+934,A15.4,Tuberculosis of intrathoracic lymph nodes
+934,A15.5,"Tuberculosis of larynx, trachea and bronchus"
+934,A15.0,Tuberculosis of lung
+934,A17.9,"Tuberculosis of nervous system, unspecified"
+934,A18.8,Tuberculosis of other specified organs
+934,A18.4,Tuberculosis of skin and subcutaneous tissue
+934,A17.0,Tuberculous meningitis
+934,A18.2,Tuberculous peripheral lymphadenopathy
+934,A15.6,Tuberculous pleurisy
+652,Q85.1,Tuberous sclerosis
+590,E10.2,Type 1 diabetes mellitus with kidney complications
+590,E11.2,Type 2 diabetes mellitus with kidney complications
+319,A01.0,Typhoid fever
+612,N76.5,Ulceration of vagina
+612,N76.6,Ulceration of vulva
+612,N77.0,Ulceration of vulva in diseases classified elsewhere
+650,Q53.2,"Undescended testicle, bilateral"
+650,Q53.1,"Undescended testicle, unilateral"
+650,Q53.9,"Undescended testicle, unspecified"
+650,Q51.4,Unicornate uterus
+602,N31.0,"Uninhibited neuropathic bladder, not elsewhere classified"
+693,V79.6,Unsp bus occupant injured in clsn w oth and unsp mv in traf
+693,V79.2,Unsp bus occupant injured in clsn w oth and unsp mv nontraf
+693,V46.9,Unsp car occupant injured in clsn w nonmtr vehicle in traf
+693,V46.3,Unsp car occupant injured in clsn w nonmtr vehicle nontraf
+693,V49.6,Unsp car occupant injured in clsn w oth and unsp mv in traf
+693,V49.2,Unsp car occupant injured in clsn w oth and unsp mv nontraf
+693,V45.9,Unsp car occupant injured in clsn w rail trn/veh in traf
+693,V45.3,Unsp car occupant injured in clsn w rail trn/veh nontraf
+693,V47.9,Unsp car occupant injured in clsn w statnry object in traf
+693,V47.3,Unsp car occupant injured in clsn w statnry object nontraf
+693,V42.9,Unsp car occupant injured in collision w 2/3-whl mv in traf
+693,V42.3,Unsp car occupant injured in collision w 2/3-whl mv nontraf
+693,V44.9,Unsp car occupant injured in collision w hv veh in traf
+693,V44.3,Unsp car occupant injured in collision w hv veh nontraf
+693,V41.9,Unsp car occupant injured in collision w pedal cycle in traf
+693,V41.3,Unsp car occupant injured in collision w pedal cycle nontraf
+693,V40.9,Unsp car occupant injured in collision w ped/anml in traf
+693,V40.3,Unsp car occupant injured in collision w ped/anml nontraf
+693,V48.9,Unsp car occupant injured in nonclsn trnsp accident in traf
+693,V48.3,Unsp car occupant injured in nonclsn trnsp accident nontraf
+693,V43.9,"Unsp car occupant injured pick-up truck, pk-up/van in traf"
+693,V43.3,"Unsp car occupant injured pick-up truck, pk-up/van nontraf"
+644,Q37.8,Unspecified cleft palate with bilateral cleft lip
+644,Q37.9,Unspecified cleft palate with unilateral cleft lip
+649,Q74.9,Unspecified congenital malformation of limb(s)
+592,N05.6,Unspecified nephritic syndrome with dense deposit disease
+727,Y07.9,Unspecified perpetrator of maltreatment and neglect
+649,Q72.9,Unspecified reduction defect of lower limb
+649,Q71.9,Unspecified reduction defect of upper limb
+642,Q05.4,Unspecified spina bifida with hydrocephalus
+402,B19.1,Unspecified viral hepatitis B
+403,B19.2,Unspecified viral hepatitis C
+692,V24.9,Unsp motorcycle rider injured in collision w hv veh in traf
+692,V24.2,Unsp motorcycle rider injured in collision w hv veh nontraf
+692,V26.9,Unsp mtrcy rider injured in clsn w nonmtr vehicle in traf
+692,V26.2,Unsp mtrcy rider injured in clsn w nonmtr vehicle nontraf
+692,V29.6,Unsp mtrcy rider injured in clsn w oth and unsp mv in traf
+692,V29.2,Unsp mtrcy rider injured in clsn w oth and unsp mv nontraf
+692,V27.9,Unsp mtrcy rider injured in clsn w statnry object in traf
+692,V27.2,Unsp mtrcy rider injured in clsn w statnry object nontraf
+692,V22.9,Unsp mtrcy rider injured in collision w 2/3-whl mv in traf
+692,V22.2,Unsp mtrcy rider injured in collision w 2/3-whl mv nontraf
+692,V20.9,Unsp mtrcy rider injured in collision w ped/anml in traf
+692,V20.2,Unsp mtrcy rider injured in collision w ped/anml nontraf
+692,V21.9,Unsp mtrcy rider injured in collision w pedl cyc in traf
+692,V21.2,Unsp mtrcy rider injured in collision w pedl cyc nontraf
+692,V25.9,Unsp mtrcy rider injured in collision w rail trn/veh in traf
+692,V25.2,Unsp mtrcy rider injured in collision w rail trn/veh nontraf
+692,V28.9,Unsp mtrcy rider injured in nonclsn trnsp accident in traf
+692,V28.2,Unsp mtrcy rider injured in nonclsn trnsp accident nontraf
+692,V23.9,"Unsp mtrcy rider injured pick-up truck, pk-up/van in traf"
+692,V23.2,"Unsp mtrcy rider injured pick-up truck, pk-up/van nontraf"
+592,N05.7,Unsp nephritic syndrome w diffuse crescentic glomrlneph
+592,N05.2,Unsp nephritic syndrome w diffuse membranous glomrlneph
+592,N05.5,Unsp nephritic syndrome w diffuse mesangiocap glomrlneph
+592,N05.0,Unsp nephritic syndrome with minor glomerular abnormality
+592,N05.8,Unsp nephritic syndrome with other morphologic changes
+592,N05.9,Unsp nephritic syndrome with unspecified morphologic changes
+592,N05.4,Unsp neph syndrome w diffuse endocaplry prolif glomrlneph
+592,N05.3,Unsp neph syndrome w diffuse mesangial prolif glomrlneph
+592,N05.1,Unsp neph syndrome w focal and segmental glomerular lesions
+691,V12.9,Unsp pedal cyclist injured in collision w 2/3-whl mv in traf
+691,V12.2,Unsp pedal cyclist injured in collision w 2/3-whl mv nontraf
+691,V14.9,Unsp pedal cyclist injured in collision w hv veh in traf
+691,V14.2,Unsp pedal cyclist injured in collision w hv veh nontraf
+691,V10.9,Unsp pedal cyclist injured in collision w ped/anml in traf
+691,V10.2,Unsp pedal cyclist injured in collision w ped/anml nontraf
+691,V13.9,"Unsp pedal cyclist injured pick-up truck, pk-up/van in traf"
+691,V13.2,"Unsp pedal cyclist injured pick-up truck, pk-up/van nontraf"
+691,V16.9,Unsp pedl cyclst injured in clsn w nonmtr vehicle in traf
+691,V16.2,Unsp pedl cyclst injured in clsn w nonmtr vehicle nontraf
+691,V19.6,Unsp pedl cyclst injured in clsn w oth and unsp mv in traf
+691,V19.2,Unsp pedl cyclst injured in clsn w oth and unsp mv nontraf
+691,V17.9,Unsp pedl cyclst injured in clsn w statnry object in traf
+691,V17.2,Unsp pedl cyclst injured in clsn w statnry object nontraf
+691,V11.9,Unsp pedl cyclst injured in collision w oth pedl cyc in traf
+691,V11.2,Unsp pedl cyclst injured in collision w oth pedl cyc nontraf
+691,V15.9,Unsp pedl cyclst injured in collision w rail trn/veh in traf
+691,V15.2,Unsp pedl cyclst injured in collision w rail trn/veh nontraf
+691,V18.9,Unsp pedl cyclst injured in nonclsn trnsp accident in traf
+691,V18.2,Unsp pedl cyclst injured in nonclsn trnsp accident nontraf
+595,N34.0,Urethral abscess
+602,N36.2,Urethral caruncle
+602,N36.9,"Urethral disorder, unspecified"
+602,N36.1,Urethral diverticulum
+602,N36.5,Urethral false passage
+602,N36.0,Urethral fistula
+602,N36.4,Urethral functional and muscular disorders
+595,N34.3,"Urethral syndrome, unspecified"
+608,N81.0,Urethrocele
+596,N20.9,"Urinary calculus, unspecified"
+595,N39.0,"Urinary tract infection, site not specified"
+602,N39.0,"Urinary tract infection, site not specified"
+608,N81.4,"Uterovaginal prolapse, unspecified"
+608,N81.5,Vaginal enterocele
+612,N77.1,"Vaginitis, vulvitis and vulvovaginitis in dis classd elswhr"
+643,Q21.0,Ventricular septal defect
+495,G45.0,Vertebro-basilar artery syndrome
+942,B33.2,Viral carditis
+336,A87.9,"Viral meningitis, unspecified"
+348,B55.0,Visceral leishmaniasis
+335,A39.1,Waterhouse-Friderichsen syndrome
+649,Q70.1,Webbed fingers
+649,Q70.3,Webbed toes
+652,Q18.3,Webbing of neck
+652,Q31.0,Web of larynx
+648,Q93.1,"Whole chromosome monosomy, mosaic (mitotic nondisjunction)"
+648,Q93.0,"Whole chromosome monosomy,nonmosaic (meiotic nondisjunction)"
+648,Q92.1,"Whole chromosome trisomy, mosaicism (mitotic nondisjunction)"
+648,Q92.0,"Whole chromosome trisomy, nonmosaic (meiotic nondisjunction)"
+652,Q82.1,Xeroderma pigmentosum
+652,Q80.1,X-linked ichthyosis
+657,A66.9,"Yaws, unspecified"

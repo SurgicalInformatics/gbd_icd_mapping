@@ -39,7 +39,7 @@ level4 = alldata %>%
 
 # testing that ranges are one letter only
 # mutate(icd10_letter_both = str_extract_all(icd10, "[A-Z]")) %>% 
-expand = level3 %>% 
+expand = level4 %>% 
   mutate(icd10 = str_replace(icd10, "X85-Y08.9", "X85-X99, Y00-Y08.9")) %>% # split a two-letter range
   select(cause_id, icd10) %>% 
   na.omit() %>% 
@@ -96,19 +96,6 @@ gather_range %>%
   select(cause_id, icd10 = icd10_expanded) %>% 
   left_join(icd10_lookup) %>% 
   arrange(icd10_name, icd10) %>% 
-  write_csv("gbd_icd10_lookup_level3_long.csv")
-
-for_checking = gather_range %>% 
-  group_by(icd10, cause_id) %>% 
-  summarise(expanded = paste0(icd10_expanded, collapse = ",")) %>% 
-  group_by(cause_id) %>% 
-  summarise(expanded = paste0(expanded, collapse = ",")) %>% 
-  ungroup() %>% 
-  full_join(level3) %>% 
-  select(cause_id, cause_name, icd10_lookup_provided = icd10, icd10_ranges_expanded = expanded)
-
-write_csv(for_checking, "gbd_icd10_lookup_level3_for_checking.csv")
-
-
+  write_csv("gbd_icd10_lookup_level4_long.csv")
 
 
