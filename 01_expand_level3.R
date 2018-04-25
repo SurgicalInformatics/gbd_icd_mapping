@@ -1,5 +1,7 @@
 library(tidyverse)
 
+
+# TODO: do not remove X60
 icd10_lookup = read_csv("icd10_lookup.csv")
 
 mapping_raw = read_csv("data/IHME_GBD_2016_ICD_CAUSE_MAP_CAUSES_OF_DEATH_Y2017M09D14.csv", skip = 1) %>% 
@@ -49,6 +51,7 @@ expand = level3 %>%
   select(-group) %>% 
   na.omit() %>% 
   mutate(icd10 = ifelse(icd10 == "C47-C4A", "C47-C48", icd10)) %>% # typo in the lookup, 4A -> 48
+  bind_rows(data_frame(cause_id = 488, icd10 = "C49")) %>% #add in C49 (present in level2 but missing in level3)
   mutate(icd10_letter1 = str_extract(icd10, "[A-Z]")) %>% 
   mutate(icd_range = str_replace(icd10, "[A-Z]", "")) %>% 
   mutate(icd10_letter2 = str_extract(icd_range, "[A-Z]")) %>% 
@@ -86,7 +89,8 @@ gather_range = expand_range %>%
   mutate(value_formatted = format(value %>% as.numeric(), nsmall = 1, trim = TRUE) %>% str_pad(4, side = "left", pad = "0")) %>% 
   mutate(icd10_expanded = paste0(icd10_letter1, value_formatted)) %>% 
   ungroup() %>% 
-  filter(icd10_expanded %in% icd10_lookup$icd10)
+  filter(icd10_expanded %in% icd10_lookup$icd10) %>% 
+  distinct(cause_id, icd10_expanded, .keep_all = TRUE)
 
 gather_range %>% 
   select(cause_id, icd10 = icd10_expanded) %>% 

@@ -64,7 +64,8 @@ gather_range = expand_range %>%
   mutate(value_formatted = format(value %>% as.numeric(), nsmall = 1, trim = TRUE) %>% str_pad(4, side = "left", pad = "0")) %>% 
   mutate(icd10_expanded = paste0(icd10_letter1, value_formatted)) %>% 
   ungroup() %>% 
-  filter(icd10_expanded %in% icd10_lookup$icd10)
+  filter(icd10_expanded %in% icd10_lookup$icd10) %>% 
+  distinct(cause_id, icd10_expanded)
 
 gather_range %>% 
   select(cause_id, icd10 = icd10_expanded) %>% 

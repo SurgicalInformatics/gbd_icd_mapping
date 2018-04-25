@@ -240,7 +240,6 @@ cause_id,icd10,icd10_name
 619,E25.9,"Adrenogenital disorder, unspecified"
 619,E27.5,Adrenomedullary hyperfunction
 527,K31.1,Adult hypertrophic pyloric stenosis
-527,K31.1,Adult hypertrophic pyloric stenosis
 627,M06.1,Adult-onset Still's disease
 639,M42.1,Adult osteochondrosis of spine
 487,C91.5,Adult T-cell lymphoma/leukemia (HTLV-1-associated)
@@ -315,7 +314,6 @@ cause_id,icd10,icd10_name
 619,N14.0,Analgesic nephropathy
 488,K62.0,Anal polyp
 541,K62.0,Anal polyp
-541,K62.2,Anal prolapse
 541,K62.2,Anal prolapse
 541,K59.4,Anal spasm
 367,O70.4,"Anal sphincter tear comp del, not assoc w third degree lac"
@@ -587,7 +585,6 @@ cause_id,icd10,icd10_name
 488,D15.7,Benign neoplasm of other specified intrathoracic organs
 468,D29.8,Benign neoplasm of other specified male genital organs
 488,D36.7,Benign neoplasm of other specified sites
-488,D36.7,Benign neoplasm of other specified sites
 488,D30.8,Benign neoplasm of other specified urinary organs
 488,D33.7,Benign neoplasm of oth parts of central nervous system
 456,D13.6,Benign neoplasm of pancreas
@@ -598,7 +595,6 @@ cause_id,icd10,icd10_name
 488,D35.4,Benign neoplasm of pineal gland
 488,D35.2,Benign neoplasm of pituitary gland
 438,D29.1,Benign neoplasm of prostate
-488,D36.1,Benign neoplasm of prph nerves and autonomic nervous sys
 488,D36.1,Benign neoplasm of prph nerves and autonomic nervous sys
 441,D12.7,Benign neoplasm of rectosigmoid junction
 441,D12.8,Benign neoplasm of rectum
@@ -696,7 +692,6 @@ cause_id,icd10,icd10_name
 669,H01.0,Blepharitis
 669,H02.3,Blepharochalasis
 669,H10.5,Blepharoconjunctivitis
-557,G24.5,Blepharospasm
 557,G24.5,Blepharospasm
 371,O02.0,Blighted ovum and nonhydatidiform mole
 541,K90.2,"Blind loop syndrome, not elsewhere classified"
@@ -916,7 +911,6 @@ cause_id,icd10,icd10_name
 393,A56.0,Chlamydial infection of lower genitourinary tract
 393,A56.1,Chlamydial infection of pelviperitoneum and oth GU organs
 393,A56.4,Chlamydial infection of pharynx
-408,A74.9,"Chlamydial infection, unspecified"
 408,A74.9,"Chlamydial infection, unspecified"
 322,J16.0,Chlamydial pneumonia
 641,Q30.0,Choanal atresia
@@ -1197,7 +1191,6 @@ cause_id,icd10,icd10_name
 385,P94.2,Congenital hypotonia
 641,Q80.9,"Congenital ichthyosis, unspecified"
 408,P37.9,"Congenital infectious or parasitic disease, unspecified"
-408,P37.9,"Congenital infectious or parasitic disease, unspecified"
 641,Q23.1,Congenital insufficiency of aortic valve
 388,E00.2,"Congenital iodine-deficiency syndrome, mixed type"
 388,E00.1,"Congenital iodine-deficiency syndrome, myxedematous type"
@@ -1448,7 +1441,6 @@ cause_id,icd10,icd10_name
 695,V91.1,Crushed betw watercraft and oth wtrcrft/obj due to collision
 619,D89.1,Cryoglobulinemia
 302,A07.2,Cryptosporidiosis
-302,A07.2,Cryptosporidiosis
 669,H43.2,Crystalline deposits in vitreous body
 619,E24.9,"Cushing's syndrome, unspecified"
 653,L02.3,"Cutaneous abscess, furuncle and carbuncle of buttock"
@@ -1468,7 +1460,6 @@ cause_id,icd10,icd10_name
 408,A32.0,Cutaneous listeriosis
 381,P28.2,Cyanotic attacks of newborn
 619,D70.4,Cyclic neutropenia
-302,A07.4,Cyclosporiasis
 302,A07.4,Cyclosporiasis
 585,F34.0,Cyclothymic disorder
 520,J34.1,Cyst and mucocele of nose and nasal sinus
@@ -1583,7 +1574,6 @@ cause_id,icd10,icd10_name
 669,H74.2,Discontinuity and dislocation of ear ossicles
 641,Q20.5,Discordant atrioventricular connection
 641,Q20.3,Discordant ventriculoarterial connection
-541,K62.9,"Disease of anus and rectum, unspecified"
 541,K62.9,"Disease of anus and rectum, unspecified"
 529,K38.9,"Disease of appendix, unspecified"
 603,N75.9,"Disease of Bartholin's gland, unspecified"
@@ -1854,11 +1844,9 @@ cause_id,icd10,icd10_name
 619,E07.1,Dyshormogenetic goiter
 541,K22.4,Dyskinesia of esophagus
 641,Q86.2,Dysmorphism due to warfarin
-641,Q86.2,Dysmorphism due to warfarin
 585,F52.6,Dyspareunia not due to a substance or known physiol cond
 435,N87.9,"Dysplasia of cervix uteri, unspecified"
 585,F34.1,Dysthymic disorder
-557,G24.9,"Dystonia, unspecified"
 557,G24.9,"Dystonia, unspecified"
 393,A50.1,"Early congenital syphilis, latent"
 393,A50.0,"Early congenital syphilis, symptomatic"
@@ -2140,7 +2128,6 @@ cause_id,icd10,icd10_name
 560,Q86.0,Fetal alcohol syndrome (dysmorphic)
 641,Q86.0,Fetal alcohol syndrome (dysmorphic)
 641,Q86.1,Fetal hydantoin syndrome
-641,Q86.1,Fetal hydantoin syndrome
 379,O77.1,Fetal stress in labor or delivery due to drug administration
 585,F65.0,Fetishism
 429,N60.2,Fibroadenosis of breast
@@ -2164,7 +2151,6 @@ cause_id,icd10,icd10_name
 534,K83.3,Fistula of bile duct
 534,K82.3,Fistula of gallbladder
 680,K11.4,Fistula of salivary gland
-527,K31.6,Fistula of stomach and duodenum
 527,K31.6,Fistula of stomach and duodenum
 594,N31.2,"Flaccid neuropathic bladder, not elsewhere classified"
 639,M40.3,Flatback syndrome
@@ -2209,7 +2195,6 @@ cause_id,icd10,icd10_name
 408,B27.0,Gammaherpesviral mononucleosis
 653,A66.5,Gangosa
 527,K31.4,Gastric diverticulum
-527,K31.4,Gastric diverticulum
 527,K25.9,"Gastric ulcer, unsp as acute or chronic, w/o hemor or perf"
 507,I86.4,Gastric varices
 528,K29.7,"Gastritis, unspecified"
@@ -2231,7 +2216,6 @@ cause_id,icd10,icd10_name
 545,G40.3,Generalized idiopathic epilepsy and epileptic syndromes
 408,A21.7,Generalized tularemia
 619,D72.0,Genetic anomalies of leukocytes
-557,G24.1,Genetic torsion dystonia
 557,G24.1,Genetic torsion dystonia
 379,O22.1,Genital varices in pregnancy
 371,O03.5,Genitl trct and pelvic infct fol complete or unsp spon abort
@@ -2299,7 +2283,6 @@ cause_id,icd10,icd10_name
 585,F16.9,"Hallucinogen use, unspecified"
 695,V96.1,Hang-glider accident injuring occupant
 408,B33.4,Hantavirus (cardio)-pulmonary syndrome [HPS] [HCPS]
-408,B33.4,Hantavirus (cardio)-pulmonary syndrome [HPS] [HCPS]
 641,Q80.4,Harlequin fetus
 613,D57.0,Hb-SS disease with crisis
 695,V93.2,Heat exposure on board watercraft
@@ -2321,7 +2304,6 @@ cause_id,icd10,icd10_name
 639,M36.2,Hemophilic arthropathy
 332,G00.0,Hemophilus meningitis
 367,O20.9,"Hemorrhage in early pregnancy, unspecified"
-541,K62.5,Hemorrhage of anus and rectum
 541,K62.5,Hemorrhage of anus and rectum
 619,D68.3,Hemorrhagic disorder due to circulating anticoagulants
 365,A98.5,Hemorrhagic fever with renal syndrome
@@ -2388,7 +2370,6 @@ cause_id,icd10,icd10_name
 641,Q04.2,Holoprosencephaly
 669,H00.0,Hordeolum (externum) (internum) of eyelid
 557,G90.2,Horner's syndrome
-527,K31.2,Hourglass stricture and stenosis of stomach
 527,K31.2,Hourglass stricture and stenosis of stomach
 741,O98.7,Human immunodeficiency virus disease compl preg/chldbrth
 322,J12.3,Human metapneumovirus pneumonia
@@ -2467,7 +2448,6 @@ cause_id,icd10,icd10_name
 669,H44.4,Hypotony of eye
 382,P91.6,Hypoxic ischemic encephalopathy [HIE]
 385,P70.3,Iatrogenic neonatal hypoglycemia
-385,P70.3,Iatrogenic neonatal hypoglycemia
 641,Q80.0,Ichthyosis vulgaris
 535,K85.0,Idiopathic acute pancreatitis
 613,D61.3,Idiopathic aplastic anemia
@@ -2475,8 +2455,6 @@ cause_id,icd10,icd10_name
 632,M10.0,Idiopathic gout
 619,E20.0,Idiopathic hypoparathyroidism
 557,G24.2,Idiopathic nonfamilial dystonia
-557,G24.2,Idiopathic nonfamilial dystonia
-557,G24.4,Idiopathic orofacial dystonia
 557,G24.4,Idiopathic orofacial dystonia
 557,G90.0,Idiopathic peripheral autonomic neuropathy
 530,K56.7,"Ileus, unspecified"
@@ -2528,7 +2506,6 @@ cause_id,icd10,icd10_name
 507,I30.1,Infective pericarditis
 594,N49.1,"Inflam disorders of sperm cord, tunica vaginalis and vas def"
 669,H59.4,Inflammation (infection) of postprocedural bleb
-557,G72.4,"Inflammatory and immune myopathies, not elsewhere classified"
 557,G72.4,"Inflammatory and immune myopathies, not elsewhere classified"
 594,N41.9,"Inflammatory disease of prostate, unspecified"
 594,N49.9,Inflammatory disorder of unspecified male genital organ
@@ -2656,7 +2633,6 @@ cause_id,icd10,icd10_name
 589,N06.1,Isolated protein w focal and segmental glomerular lesions
 641,Q20.6,Isomerism of atrial appendages
 302,A07.3,Isosporiasis
-302,A07.3,Isosporiasis
 704,W49.0,Item causing external constriction
 337,A83.0,Japanese encephalitis
 699,X02.5,Jump from burning building or structure in controlled fire
@@ -2670,7 +2646,6 @@ cause_id,icd10,icd10_name
 639,M41.1,Juvenile and adolescent idiopathic scoliosis
 627,M08.1,Juvenile ankylosing spondylitis
 639,M08.1,Juvenile ankylosing spondylitis
-639,M08.9,"Juvenile arthritis, unspecified"
 639,M08.9,"Juvenile arthritis, unspecified"
 557,M33.0,Juvenile dermatopolymyositis
 487,C93.3,Juvenile myelomonocytic leukemia
@@ -2903,6 +2878,11 @@ cause_id,icd10,icd10_name
 441,C18.9,"Malignant neoplasm of colon, unspecified"
 444,C00.6,"Malignant neoplasm of commissure of lip, unspecified"
 488,C69.0,Malignant neoplasm of conjunctiva
+488,C49.6,"Malignant neoplasm of conn and soft tissue of trunk, unsp"
+488,C49.4,Malignant neoplasm of connective and soft tissue of abdomen
+488,C49.5,Malignant neoplasm of connective and soft tissue of pelvis
+488,C49.3,Malignant neoplasm of connective and soft tissue of thorax
+488,C49.9,"Malignant neoplasm of connective and soft tissue, unsp"
 488,C69.1,Malignant neoplasm of cornea
 435,C54.9,"Malignant neoplasm of corpus uteri, unspecified"
 488,C74.0,Malignant neoplasm of cortex of adrenal gland
@@ -3017,6 +2997,7 @@ cause_id,icd10,icd10_name
 488,C68.8,Malignant neoplasm of overlapping sites of urinary organs
 488,C51.8,Malignant neoplasm of overlapping sites of vulva
 444,C06.8,Malignant neoplasm of ovrlp sites of and unsp parts of mouth
+488,C49.8,Malignant neoplasm of ovrlp sites of conn and soft tissue
 488,C57.8,Malignant neoplasm of ovrlp sites of female genital organs
 488,C63.8,Malignant neoplasm of ovrlp sites of male genital organs
 444,C05.9,"Malignant neoplasm of palate, unspecified"
@@ -3121,6 +3102,9 @@ cause_id,icd10,icd10_name
 488,C47.9,"Malig neoplasm of prph nerves and autonm nervous sys, unsp"
 488,C47.1,"Malig neoplasm of prph nerves of upper limb, inc shoulder"
 450,C09.1,Malig neoplasm of tonsillar pillar (anterior) (posterior)
+488,C49.1,"Malig neoplm of conn and soft tiss of upper limb, inc shldr"
+488,C49.0,"Malig neoplm of conn and soft tissue of head, face and neck"
+488,C49.2,"Malig neoplm of conn and soft tissue of lower limb, inc hip"
 485,C96.9,"Malig neoplm of lymphoid, hematpoetc and rel tissue, unsp"
 488,C38.8,"Malig neoplm of ovrlp sites of heart, mediastinum and pleura"
 488,C47.8,Malig neoplm of ovrlp sites of prph nrv and autonm nrv sys
@@ -3405,9 +3389,7 @@ cause_id,icd10,icd10_name
 557,G25.3,Myoclonus
 557,G70.9,"Myoneural disorder, unspecified"
 557,G72.2,Myopathy due to other toxic agents
-557,G72.2,Myopathy due to other toxic agents
 557,G73.7,Myopathy in diseases classified elsewhere
-557,G72.9,"Myopathy, unspecified"
 557,G72.9,"Myopathy, unspecified"
 669,H52.1,Myopia
 557,G71.1,Myotonic disorders
@@ -3436,7 +3418,6 @@ cause_id,icd10,icd10_name
 382,P24.3,Neonatal aspiration of milk and regurgitated food
 382,P24.9,"Neonatal aspiration, unspecified"
 408,P37.5,Neonatal candidiasis
-408,P37.5,Neonatal candidiasis
 385,P29.1,Neonatal cardiac dysrhythmia
 385,P29.0,Neonatal cardiac failure
 382,P91.4,Neonatal cerebral depression
@@ -3449,7 +3430,6 @@ cause_id,icd10,icd10_name
 587,P70.2,Neonatal diabetes mellitus
 385,P70.2,Neonatal diabetes mellitus
 385,P92.5,Neonatal difficulty in feeding at breast
-408,P37.2,Neonatal (disseminated) listeriosis
 408,P37.2,Neonatal (disseminated) listeriosis
 385,P83.1,Neonatal erythema toxicum
 385,P72.0,"Neonatal goiter, not elsewhere classified"
@@ -3574,7 +3554,6 @@ cause_id,icd10,icd10_name
 382,P01.7,Newborn affected by malpresentation before labor
 385,P01.7,Newborn affected by malpresentation before labor
 385,P01.9,"Newborn affected by maternal complication of pregnancy, unsp"
-385,P01.9,"Newborn affected by maternal complication of pregnancy, unsp"
 385,P00.0,Newborn affected by maternal hypertensive disorders
 385,P00.2,Newborn affected by maternal infec/parastc diseases
 385,P04.9,"Newborn affected by maternal noxious substance, unsp"
@@ -3588,7 +3567,6 @@ cause_id,icd10,icd10_name
 382,P02.5,Newborn affected by oth compression of umbilical cord
 385,P50.8,Newborn affected by other intrauterine (fetal) blood loss
 385,P00.3,Newborn affected by oth maternal circ and resp diseases
-385,P01.8,Newborn affected by oth maternal complications of pregnancy
 385,P01.8,Newborn affected by oth maternal complications of pregnancy
 385,P00.8,Newborn affected by oth maternal conditions
 385,P04.1,Newborn affected by oth maternal medication
@@ -3605,19 +3583,14 @@ cause_id,icd10,icd10_name
 382,P03.4,Newborn (suspected to be) affected by Cesarean delivery
 382,P02.7,Newborn (suspected to be) affected by chorioamnionitis
 385,P01.4,Newborn (suspected to be) affected by ectopic pregnancy
-385,P01.4,Newborn (suspected to be) affected by ectopic pregnancy
 382,P03.2,Newborn (suspected to be) affected by forceps delivery
 381,P01.0,Newborn (suspected to be) affected by incompetent cervix
 385,P01.0,Newborn (suspected to be) affected by incompetent cervix
 385,P01.6,Newborn (suspected to be) affected by maternal death
-385,P01.6,Newborn (suspected to be) affected by maternal death
 385,P00.5,Newborn (suspected to be) affected by maternal injury
 385,P01.5,Newborn (suspected to be) affected by multiple pregnancy
-385,P01.5,Newborn (suspected to be) affected by multiple pregnancy
-385,P01.2,Newborn (suspected to be) affected by oligohydramnios
 385,P01.2,Newborn (suspected to be) affected by oligohydramnios
 382,P02.0,Newborn (suspected to be) affected by placenta previa
-385,P01.3,Newborn (suspected to be) affected by polyhydramnios
 385,P01.3,Newborn (suspected to be) affected by polyhydramnios
 382,P03.5,Newborn (suspected to be) affected by precipitate delivery
 381,P01.1,Newborn (suspected to be) affected by premature ROM
@@ -3738,7 +3711,6 @@ cause_id,icd10,icd10_name
 370,O66.2,Obstructed labor due to unusually large fetus
 370,O66.9,"Obstructed labor, unspecified"
 534,K83.1,Obstruction of bile duct
-527,K31.5,Obstruction of duodenum
 527,K31.5,Obstruction of duodenum
 669,H68.1,Obstruction of Eustachian tube
 534,K82.0,Obstruction of gallbladder
@@ -3939,7 +3911,6 @@ cause_id,icd10,icd10_name
 379,O89.5,Oth comp of spinal and epidural anesth during the puerperium
 379,O29.5,Oth comp of spinal and epidural anesthesia during pregnancy
 385,P96.8,Oth conditions originating in the perinatal period
-385,P96.8,Oth conditions originating in the perinatal period
 381,P25.8,Oth cond rel to interstit emphysema origin in perinat period
 641,Q28.8,Oth congenital malformations of circulatory system
 641,Q50.6,Oth congenital malformations of fallop and broad ligament
@@ -3956,7 +3927,6 @@ cause_id,icd10,icd10_name
 641,Q74.2,"Oth congen malform of lower limb(s), including pelvic girdle"
 641,Q74.0,"Oth congen malform of upper limb(s), inc shoulder girdle"
 641,Q55.4,"Oth congen malform of vas def,epidid, semnl vescl & prostate"
-641,Q86.8,Oth congen malform syndromes due to known exogenous causes
 641,Q86.8,Oth congen malform syndromes due to known exogenous causes
 493,I23.8,Oth current complications following AMI
 557,G37.8,Oth demyelinating diseases of central nervous system
@@ -4040,8 +4010,6 @@ cause_id,icd10,icd10_name
 432,D26.0,Other benign neoplasm of cervix uteri
 603,D26.0,Other benign neoplasm of cervix uteri
 603,D26.1,Other benign neoplasm of corpus uteri
-603,D26.1,Other benign neoplasm of corpus uteri
-603,D26.7,Other benign neoplasm of other parts of uterus
 603,D26.7,Other benign neoplasm of other parts of uterus
 459,D23.1,"Other benign neoplasm of skin of eyelid, including canthus"
 459,D23.0,Other benign neoplasm of skin of lip
@@ -4049,7 +4017,6 @@ cause_id,icd10,icd10_name
 459,D23.4,Other benign neoplasm of skin of scalp and neck
 459,D23.5,Other benign neoplasm of skin of trunk
 459,D23.9,"Other benign neoplasm of skin, unspecified"
-603,D26.9,"Other benign neoplasm of uterus, unspecified"
 603,D26.9,"Other benign neoplasm of uterus, unspecified"
 628,M16.6,Other bilateral secondary osteoarthritis of hip
 628,M17.4,Other bilateral secondary osteoarthritis of knee
@@ -4068,7 +4035,6 @@ cause_id,icd10,icd10_name
 669,H04.6,Other changes of lacrimal passages
 575,F84.3,Other childhood disintegrative disorder
 585,F84.3,Other childhood disintegrative disorder
-408,A74.8,Other chlamydial diseases
 408,A74.8,Other chlamydial diseases
 534,K80.8,Other cholelithiasis
 557,G25.5,Other chorea
@@ -4208,7 +4174,6 @@ cause_id,icd10,icd10_name
 619,D70.2,Other drug-induced agranulocytosis
 619,G21.1,Other drug-induced secondary parkinsonism
 557,G24.8,Other dystonia
-557,G24.8,Other dystonia
 653,A66.2,Other early skin lesions of yaws
 585,F50.8,Other eating disorders
 371,O00.8,Other ectopic pregnancy
@@ -4232,7 +4197,6 @@ cause_id,icd10,icd10_name
 365,B74.8,Other filariases
 354,B74.8,Other filariases
 391,D52.8,Other folate deficiency anemias
-712,W45.8,Other foreign body or object entering through skin
 712,W45.8,Other foreign body or object entering through skin
 493,I24.8,Other forms of acute ischemic heart disease
 507,I30.8,Other forms of acute pericarditis
@@ -4338,7 +4302,6 @@ cause_id,icd10,icd10_name
 382,P24.8,Other neonatal aspiration
 385,P54.3,Other neonatal gastrointestinal hemorrhage
 385,P71.1,Other neonatal hypocalcemia
-385,P70.4,Other neonatal hypoglycemia
 385,P70.4,Other neonatal hypoglycemia
 385,P78.1,Other neonatal peritonitis
 594,N31.8,Other neuromuscular dysfunction of bladder
@@ -4454,7 +4417,6 @@ cause_id,icd10,icd10_name
 379,O75.8,Other specified complications of labor and delivery
 385,P83.8,Other specified conditions of integument specific to newborn
 408,P37.8,Other specified congenital infectious and parasitic diseases
-408,P37.8,Other specified congenital infectious and parasitic diseases
 641,Q89.8,Other specified congenital malformations
 641,Q04.8,Other specified congenital malformations of brain
 641,Q45.8,Other specified congenital malformations of digestive system
@@ -4480,7 +4442,6 @@ cause_id,icd10,icd10_name
 589,E13.2,Other specified diabetes mellitus with kidney complications
 587,E13.9,Other specified diabetes mellitus without complications
 541,K62.8,Other specified diseases of anus and rectum
-541,K62.8,Other specified diseases of anus and rectum
 529,K38.8,Other specified diseases of appendix
 534,K83.8,Other specified diseases of biliary tract
 619,D75.8,Other specified diseases of blood and blood-forming organs
@@ -4492,7 +4453,6 @@ cause_id,icd10,icd10_name
 535,K86.8,Other specified diseases of pancreas
 507,I31.8,Other specified diseases of pericardium
 557,G95.8,Other specified diseases of spinal cord
-527,K31.8,Other specified diseases of stomach and duodenum
 527,K31.8,Other specified diseases of stomach and duodenum
 541,K92.8,Other specified diseases of the digestive system
 520,J39.8,Other specified diseases of upper respiratory tract
@@ -4550,7 +4510,6 @@ cause_id,icd10,icd10_name
 408,B48.8,Other specified mycoses
 557,G70.8,Other specified myoneural disorders
 557,G72.8,Other specified myopathies
-557,G72.8,Other specified myopathies
 639,M31.8,Other specified necrotizing vasculopathies
 385,P54.8,Other specified neonatal hemorrhages
 532,K52.8,Other specified noninfective gastroenteritis and colitis
@@ -4571,7 +4530,6 @@ cause_id,icd10,icd10_name
 302,A07.8,Other specified protozoal intestinal diseases
 368,O86.8,Other specified puerperal infections
 594,N15.8,Other specified renal tubulo-interstitial diseases
-594,N15.8,Other specified renal tubulo-interstitial diseases
 381,P28.8,Other specified respiratory conditions of newborn
 669,H35.8,Other specified retinal disorders
 492,I09.8,Other specified rheumatic heart diseases
@@ -4587,7 +4545,6 @@ cause_id,icd10,icd10_name
 641,Q92.8,Other specified trisomies and partial trisomies of autosomes
 429,D05.8,Other specified type of carcinoma in situ of breast
 485,C85.8,Other specified types of non-Hodgkin lymphoma
-408,B33.8,Other specified viral diseases
 408,B33.8,Other specified viral diseases
 337,A85.8,Other specified viral encephalitis
 365,A98.8,Other specified viral hemorrhagic fevers
@@ -4666,7 +4623,6 @@ cause_id,icd10,icd10_name
 708,Y83.8,"Oth surgical procedures cause abn react/compl, w/o misadvnt"
 557,G13.1,Oth systemic atrophy aff cnsl in neoplastic disease
 494,G45.8,Oth transient cerebral ischemic attacks and related synd
-385,P70.8,Oth transitory disorders of carbohydrate metab of newborn
 385,P70.8,Oth transitory disorders of carbohydrate metab of newborn
 385,P72.2,"Oth transitory neonatal disorders of thyroid function, NEC"
 385,P71.8,Oth transitory neonatal disord of calcium & magnesium metab
@@ -4915,7 +4871,6 @@ cause_id,icd10,icd10_name
 367,O70.9,"Perineal laceration during delivery, unspecified"
 379,O70.9,"Perineal laceration during delivery, unspecified"
 557,G72.3,Periodic paralysis
-557,G72.3,Periodic paralysis
 680,K05.6,"Periodontal disease, unspecified"
 680,K05.4,Periodontosis
 379,O90.3,Peripartum cardiomyopathy
@@ -5082,7 +5037,6 @@ cause_id,icd10,icd10_name
 345,B51.9,Plasmodium vivax malaria without complication
 345,B51.0,Plasmodium vivax malaria with rupture of spleen
 520,J91.8,Pleural effusion in other conditions classified elsewhere
-520,J92.9,Pleural plaque without asbestos
 520,J92.9,Pleural plaque without asbestos
 510,J92.0,Pleural plaque with presence of asbestos
 520,J92.0,Pleural plaque with presence of asbestos
@@ -5354,7 +5308,6 @@ cause_id,icd10,icd10_name
 494,G46.6,Pure sensory lacunar syndrome
 669,H44.0,Purulent endophthalmitis
 527,K31.3,"Pylorospasm, not elsewhere classified"
-527,K31.3,"Pylorospasm, not elsewhere classified"
 653,L08.0,Pyoderma
 639,M00.9,"Pyogenic arthritis, unspecified"
 653,L98.0,Pyogenic granuloma
@@ -5392,7 +5345,6 @@ cause_id,icd10,icd10_name
 488,K62.1,Rectal polyp
 541,K62.1,Rectal polyp
 541,K62.3,Rectal prolapse
-541,K62.3,Rectal prolapse
 603,N81.6,Rectocele
 589,N02.3,Recur and perst hematur w diffus mesangial prolif glomrlneph
 589,N02.1,Recur and perst hematur w focal and seg glomerular lesions
@@ -5420,14 +5372,12 @@ cause_id,icd10,icd10_name
 641,Q60.0,"Renal agenesis, unilateral"
 641,Q60.2,"Renal agenesis, unspecified"
 594,N15.1,Renal and perinephric abscess
-594,N15.1,Renal and perinephric abscess
 589,Q61.4,Renal dysplasia
 641,Q60.4,"Renal hypoplasia, bilateral"
 641,Q60.3,"Renal hypoplasia, unilateral"
 641,Q60.5,"Renal hypoplasia, unspecified"
 594,N25.0,Renal osteodystrophy
 594,N26.9,"Renal sclerosis, unspecified"
-594,N15.9,"Renal tubulo-interstitial disease, unspecified"
 594,N15.9,"Renal tubulo-interstitial disease, unspecified"
 322,B97.5,Reovirus as the cause of diseases classified elsewhere
 541,K64.4,Residual hemorrhoidal skin tags
@@ -5463,7 +5413,6 @@ cause_id,icd10,icd10_name
 541,K68.1,Retroperitoneal abscess
 520,J39.0,Retropharyngeal and parapharyngeal abscess
 408,B33.3,"Retrovirus infections, not elsewhere classified"
-408,B33.3,"Retrovirus infections, not elsewhere classified"
 575,F84.2,Rett's syndrome
 585,F84.2,Rett's syndrome
 619,G93.7,Reye's syndrome
@@ -5473,7 +5422,6 @@ cause_id,icd10,icd10_name
 492,I06.9,"Rheumatic aortic valve disease, unspecified"
 492,I02.0,Rheumatic chorea with heart involvement
 408,I02.0,Rheumatic chorea with heart involvement
-408,I02.9,Rheumatic chorea without heart involvement
 408,I02.9,Rheumatic chorea without heart involvement
 492,I09.1,"Rheumatic diseases of endocardium, valve unspecified"
 492,I08.2,Rheumatic disorders of both aortic and tricuspid valves
@@ -5608,14 +5556,12 @@ cause_id,icd10,icd10_name
 391,E64.0,Sequelae of protein-calorie malnutrition
 297,B90.9,Sequelae of respiratory and unspecified tuberculosis
 391,E64.3,Sequelae of rickets
-391,E64.3,Sequelae of rickets
 297,B90.2,Sequelae of tuberculosis of bones and joints
 297,B90.8,Sequelae of tuberculosis of other organs
 391,E64.9,Sequelae of unspecified nutritional deficiency
 337,B94.1,Sequelae of viral encephalitis
 400,B94.2,Sequelae of viral hepatitis
 391,E64.1,Sequelae of vitamin A deficiency
-391,E64.2,Sequelae of vitamin C deficiency
 391,E64.2,Sequelae of vitamin C deficiency
 641,Q33.2,Sequestration of lung
 669,H33.2,Serous retinal detachment
@@ -5671,7 +5617,6 @@ cause_id,icd10,icd10_name
 695,V95.4,Spacecraft accident injuring occupant
 365,B70.1,Sparganosis
 557,G24.3,Spasmodic torticollis
-557,G24.3,Spasmodic torticollis
 534,K83.4,Spasm of sphincter of Oddi
 571,F40.2,Specific (isolated) phobias
 585,F40.2,Specific (isolated) phobias
@@ -5709,7 +5654,6 @@ cause_id,icd10,icd10_name
 493,I21.2,ST elevation (STEMI) myocardial infarction of other sites
 493,I21.3,ST elevation (STEMI) myocardial infarction of unsp site
 669,H04.5,Stenosis and insufficiency of lacrimal passages
-541,K62.4,Stenosis of anus and rectum
 541,K62.4,Stenosis of anus and rectum
 520,J38.6,Stenosis of larynx
 641,Q25.6,Stenosis of pulmonary artery
@@ -5923,7 +5867,6 @@ cause_id,icd10,icd10_name
 669,H34.0,Transient retinal artery occlusion
 381,P22.1,Transient tachypnea of newborn
 385,P70.9,"Transitory disorder of carbohydrate metab of newborn, unsp"
-385,P70.9,"Transitory disorder of carbohydrate metab of newborn, unsp"
 385,P74.6,Transitory hyperammonemia of newborn
 385,P76.1,Transitory ileus of newborn
 385,P74.9,"Transitory metabolic disturbance of newborn, unspecified"
@@ -6006,7 +5949,6 @@ cause_id,icd10,icd10_name
 532,K51.2,Ulcerative (chronic) proctitis
 532,K51.3,Ulcerative (chronic) rectosigmoiditis
 532,K51.9,"Ulcerative colitis, unspecified"
-541,K62.6,Ulcer of anus and rectum
 541,K62.6,Ulcer of anus and rectum
 541,K22.1,Ulcer of esophagus
 408,A21.0,Ulceroglandular tularemia
@@ -6331,7 +6273,6 @@ cause_id,icd10,icd10_name
 339,A37.0,Whooping cough due to Bordetella pertussis
 339,A37.8,Whooping cough due to other Bordetella species
 339,A37.9,"Whooping cough, unspecified species"
-385,P96.3,Wide cranial sutures of newborn
 385,P96.3,Wide cranial sutures of newborn
 381,P27.0,Wilson-Mikity syndrome
 619,P96.2,Withdrawal symptoms from therapeutic use of drugs in newborn

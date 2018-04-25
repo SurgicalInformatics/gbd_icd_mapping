@@ -1,0 +1,151 @@
+disease,icd10,group1,group2,decision (1 or 2)
+Balantidiasis,A07.0,Intestinal infectious diseases (318),Diarrheal diseases (302),1
+Giardiasis [lambliasis],A07.1,Intestinal infectious diseases (318),Diarrheal diseases (302),1
+Other specified protozoal intestinal diseases,A07.8,Intestinal infectious diseases (318),Diarrheal diseases (302),1
+"Protozoal intestinal disease, unspecified",A07.9,Intestinal infectious diseases (318),Diarrheal diseases (302),1
+Epidemic myalgia,B33.0,Other neglected tropical diseases (365),Other infectious diseases (408),1
+Ross River disease,B33.1,Other neglected tropical diseases (365),Other infectious diseases (408),1
+Viral carditis,B33.2,Cardiomyopathy and myocarditis (499),Other infectious diseases (408),1
+Loiasis,B74.3,Other neglected tropical diseases (365),Lymphatic filariasis (354),1
+Mansonelliasis,B74.4,Other neglected tropical diseases (365),Lymphatic filariasis (354),1
+Other filariases,B74.8,Other neglected tropical diseases (365),Lymphatic filariasis (354),2
+"Filariasis, unspecified",B74.9,Other neglected tropical diseases (365),Lymphatic filariasis (354),2
+Other benign neoplasm of cervix uteri,D26.0,Cervical cancer (432),Gynecological diseases (603),2
+Sequelae of protein-calorie malnutrition,E64.0,Protein-energy malnutrition (387),Other nutritional deficiencies (391),1
+Disorders of amino-acid transport,E72.0,Guinea worm disease (936),"Endocrine, metabolic, blood, and immune disorders (619)",2
+Disorders of sulfur-bearing amino-acid metabolism,E72.1,Guinea worm disease (936),"Endocrine, metabolic, blood, and immune disorders (619)",2
+Disorders of urea cycle metabolism,E72.2,Guinea worm disease (936),"Endocrine, metabolic, blood, and immune disorders (619)",2
+Disorders of lysine and hydroxylysine metabolism,E72.3,Guinea worm disease (936),"Endocrine, metabolic, blood, and immune disorders (619)",2
+Disorders of ornithine metabolism,E72.4,Guinea worm disease (936),"Endocrine, metabolic, blood, and immune disorders (619)",2
+Disorders of glycine metabolism,E72.5,Guinea worm disease (936),"Endocrine, metabolic, blood, and immune disorders (619)",2
+Other specified disorders of amino-acid metabolism,E72.8,Guinea worm disease (936),"Endocrine, metabolic, blood, and immune disorders (619)",2
+"Disorder of amino-acid metabolism, unspecified",E72.9,Guinea worm disease (936),"Endocrine, metabolic, blood, and immune disorders (619)",2
+Drug induced dystonia,G24.0,"Endocrine, metabolic, blood, and immune disorders (619)",Other neurological disorders (557),2
+Drug-induced myopathy,G72.0,"Endocrine, metabolic, blood, and immune disorders (619)",Other neurological disorders (557),2
+Alcoholic myopathy,G72.1,Alcohol use disorders (560),Other neurological disorders (557),1
+Acute mastoiditis,H70.0,Otitis media (329),Sense organ diseases (669),2
+Chronic mastoiditis,H70.1,Otitis media (329),Sense organ diseases (669),2
+Petrositis,H70.2,Otitis media (329),Sense organ diseases (669),2
+Other mastoiditis and related conditions,H70.8,Otitis media (329),Sense organ diseases (669),2
+Unspecified mastoiditis,H70.9,Otitis media (329),Sense organ diseases (669),2
+Rheumatic chorea with heart involvement,I02.0,Rheumatic heart disease (492),Other infectious diseases (408),1
+Pleural plaque with presence of asbestos,J92.0,Pneumoconiosis (510),Other chronic respiratory diseases (520),2
+Acute dilatation of stomach,K31.0,Peptic ulcer disease (527),Other digestive diseases (541),2
+Polyp of stomach and duodenum,K31.7,Other neoplasms (488),Peptic ulcer disease (527),1
+Anal polyp,K62.0,Other neoplasms (488),Other digestive diseases (541),1
+Rectal polyp,K62.1,Other neoplasms (488),Other digestive diseases (541),1
+Radiation proctitis,K62.7,"Endocrine, metabolic, blood, and immune disorders (619)",Other digestive diseases (541),2
+Toxic liver disease with acute hepatitis,K71.2,Hepatitis (400),Cirrhosis and other chronic liver diseases due to other causes (525),1
+"Toxic liver disease with hepatitis, not elsewhere classified",K71.6,Hepatitis (400),Cirrhosis and other chronic liver diseases due to other causes (525),1
+Phlebitis of portal vein,K75.1,Other cardiovascular and circulatory diseases (507),Cirrhosis and other chronic liver diseases due to other causes (525),2
+"Granulomatous hepatitis, not elsewhere classified",K75.3,Other infectious diseases (408),Cirrhosis and other chronic liver diseases due to other causes (525),2
+Infarction of liver,K76.3,Other infectious diseases (408),Cirrhosis and other chronic liver diseases due to other causes (525),2
+Unspecified juvenile rheumatoid arthritis,M08.0,Rheumatoid arthritis (627),Other musculoskeletal disorders (639),2
+Juvenile ankylosing spondylitis,M08.1,Rheumatoid arthritis (627),Other musculoskeletal disorders (639),2
+Juvenile rheumatoid arthritis with systemic onset,M08.2,Rheumatoid arthritis (627),Other musculoskeletal disorders (639),2
+Juvenile rheumatoid polyarthritis (seronegative),M08.3,Rheumatoid arthritis (627),Other musculoskeletal disorders (639),2
+Pauciarticular juvenile rheumatoid arthritis,M08.4,Rheumatoid arthritis (627),Other musculoskeletal disorders (639),2
+Other juvenile arthritis,M08.8,Rheumatoid arthritis (627),Other musculoskeletal disorders (639),2
+Balkan nephropathy,N15.0,Urinary diseases and male infertility (594),Chronic kidney disease (589),2
+First degree perineal laceration during delivery,O70.0,Maternal hemorrhage (367),Other maternal disorders (379),2
+Second degree perineal laceration during delivery,O70.1,Maternal hemorrhage (367),Other maternal disorders (379),2
+Third degree perineal laceration during delivery,O70.2,Maternal hemorrhage (367),Other maternal disorders (379),2
+Fourth degree perineal laceration during delivery,O70.3,Maternal hemorrhage (367),Other maternal disorders (379),2
+"Anal sphincter tear comp del, not assoc w third degree lac",O70.4,Maternal hemorrhage (367),Other maternal disorders (379),2
+"Perineal laceration during delivery, unspecified",O70.9,Maternal hemorrhage (367),Other maternal disorders (379),2
+Newborn (suspected to be) affected by incompetent cervix,P01.0,Neonatal preterm birth complications (381),Other neonatal disorders (385),1
+Newborn (suspected to be) affected by premature ROM,P01.1,Neonatal preterm birth complications (381),Other neonatal disorders (385),1
+Newborn affected by malpresentation before labor,P01.7,Neonatal encephalopathy due to birth asphyxia and trauma (382),Other neonatal disorders (385),1
+Congenital tuberculosis,P37.0,Tuberculosis (297),Other infectious diseases (408),1
+Congenital toxoplasmosis,P37.1,Other neglected tropical diseases (365),Other infectious diseases (408),2
+Syndrome of infant of mother with gestational diabetes,P70.0,Diabetes mellitus (587),Other neonatal disorders (385),2
+Syndrome of infant of a diabetic mother,P70.1,Diabetes mellitus (587),Other neonatal disorders (385),2
+Neonatal diabetes mellitus,P70.2,Diabetes mellitus (587),Other neonatal disorders (385),2
+Congenital renal failure,P96.0,Congenital birth defects (641),Other neonatal disorders (385),2
+Neonatal w/drawal symp from matern use of drugs of addiction,P96.1,Drug use disorders (561),Other neonatal disorders (385),2
+Withdrawal symptoms from therapeutic use of drugs in newborn,P96.2,"Endocrine, metabolic, blood, and immune disorders (619)",Other neonatal disorders (385),2
+Comp to newborn due to (fetal) intrauterine procedure,P96.5,"Endocrine, metabolic, blood, and immune disorders (619)",Other neonatal disorders (385),2
+Fetal alcohol syndrome (dysmorphic),Q86.0,Alcohol use disorders (560),Congenital birth defects (641),2
+Nail entering through skin,W45.0,Exposure to mechanical forces (704),Foreign body (712),1
+Paper entering through skin,W45.1,Exposure to mechanical forces (704),Foreign body (712),1
+Lid of can entering through skin,W45.2,Exposure to mechanical forces (704),Foreign body (712),1
+Alcohol abuse,F10.1,Alcohol use disorders (560),Other mental and substance use disorders (585),1
+Alcohol dependence,F10.2,Alcohol use disorders (560),Other mental and substance use disorders (585),1
+"Alcohol use, unspecified",F10.9,Alcohol use disorders (560),Other mental and substance use disorders (585),1
+Opioid abuse,F11.1,Drug use disorders (561),Other mental and substance use disorders (585),1
+Opioid dependence,F11.2,Drug use disorders (561),Other mental and substance use disorders (585),1
+"Opioid use, unspecified",F11.9,Drug use disorders (561),Other mental and substance use disorders (585),1
+Cannabis abuse,F12.1,Drug use disorders (561),Other mental and substance use disorders (585),1
+Cannabis dependence,F12.2,Drug use disorders (561),Other mental and substance use disorders (585),1
+"Cannabis use, unspecified",F12.9,Drug use disorders (561),Other mental and substance use disorders (585),1
+"Sedative, hypnotic or anxiolytic-related abuse",F13.1,Drug use disorders (561),Other mental and substance use disorders (585),1
+"Sedative, hypnotic or anxiolytic-related dependence",F13.2,Drug use disorders (561),Other mental and substance use disorders (585),1
+"Sedative, hypnotic or anxiolytic-related use, unspecified",F13.9,Drug use disorders (561),Other mental and substance use disorders (585),1
+Cocaine abuse,F14.1,Drug use disorders (561),Other mental and substance use disorders (585),1
+Cocaine dependence,F14.2,Drug use disorders (561),Other mental and substance use disorders (585),1
+"Cocaine use, unspecified",F14.9,Drug use disorders (561),Other mental and substance use disorders (585),1
+Other stimulant abuse,F15.1,Drug use disorders (561),Other mental and substance use disorders (585),1
+Other stimulant dependence,F15.2,Drug use disorders (561),Other mental and substance use disorders (585),1
+"Other stimulant use, unspecified",F15.9,Drug use disorders (561),Other mental and substance use disorders (585),1
+Hallucinogen abuse,F16.1,Drug use disorders (561),Other mental and substance use disorders (585),1
+Hallucinogen dependence,F16.2,Drug use disorders (561),Other mental and substance use disorders (585),1
+"Hallucinogen use, unspecified",F16.9,Drug use disorders (561),Other mental and substance use disorders (585),1
+Inhalant abuse,F18.1,Drug use disorders (561),Other mental and substance use disorders (585),1
+Inhalant dependence,F18.2,Drug use disorders (561),Other mental and substance use disorders (585),1
+"Inhalant use, unspecified",F18.9,Drug use disorders (561),Other mental and substance use disorders (585),1
+Other psychoactive substance abuse,F19.1,Drug use disorders (561),Other mental and substance use disorders (585),1
+Other psychoactive substance dependence,F19.2,Drug use disorders (561),Other mental and substance use disorders (585),1
+"Other psychoactive substance use, unspecified",F19.9,Drug use disorders (561),Other mental and substance use disorders (585),1
+Paranoid schizophrenia,F20.0,Schizophrenia (559),Other mental and substance use disorders (585),1
+Disorganized schizophrenia,F20.1,Schizophrenia (559),Other mental and substance use disorders (585),1
+Catatonic schizophrenia,F20.2,Schizophrenia (559),Other mental and substance use disorders (585),1
+Undifferentiated schizophrenia,F20.3,Schizophrenia (559),Other mental and substance use disorders (585),1
+Residual schizophrenia,F20.5,Schizophrenia (559),Other mental and substance use disorders (585),1
+Other schizophrenia,F20.8,Schizophrenia (559),Other mental and substance use disorders (585),1
+"Schizophrenia, unspecified",F20.9,Schizophrenia (559),Other mental and substance use disorders (585),1
+"Bipolar disorder, current episode hypomanic",F31.0,Bipolar disorder (570),Other mental and substance use disorders (585),1
+"Bipolar disorder, current episode manic w/o psych features",F31.1,Bipolar disorder (570),Other mental and substance use disorders (585),1
+"Bipolar disord, crnt episode manic severe w psych features",F31.2,Bipolar disorder (570),Other mental and substance use disorders (585),1
+"Bipolar disord, current episode depress, mild or mod severt",F31.3,Bipolar disorder (570),Other mental and substance use disorders (585),1
+"Bipolar disord, crnt epsd depress, sev, w/o psych features",F31.4,Bipolar disorder (570),Other mental and substance use disorders (585),1
+"Bipolar disord, crnt epsd depress, severe, w psych features",F31.5,Bipolar disorder (570),Other mental and substance use disorders (585),1
+"Bipolar disorder, current episode mixed",F31.6,Bipolar disorder (570),Other mental and substance use disorders (585),1
+"Bipolar disorder, currently in remission",F31.7,Bipolar disorder (570),Other mental and substance use disorders (585),1
+Other bipolar disorders,F31.8,Bipolar disorder (570),Other mental and substance use disorders (585),1
+"Bipolar disorder, unspecified",F31.9,Bipolar disorder (570),Other mental and substance use disorders (585),1
+"Major depressive disorder, single episode, mild",F32.0,Depressive disorders (567),Other mental and substance use disorders (585),1
+"Major depressive disorder, single episode, moderate",F32.1,Depressive disorders (567),Other mental and substance use disorders (585),1
+"Major depressv disord, single epsd, sev w/o psych features",F32.2,Depressive disorders (567),Other mental and substance use disorders (585),1
+"Major depressv disord, single epsd, severe w psych features",F32.3,Depressive disorders (567),Other mental and substance use disorders (585),1
+"Major depressv disorder, single episode, in partial remis",F32.4,Depressive disorders (567),Other mental and substance use disorders (585),1
+"Major depressive disorder, single episode, in full remission",F32.5,Depressive disorders (567),Other mental and substance use disorders (585),1
+Other depressive episodes,F32.8,Depressive disorders (567),Other mental and substance use disorders (585),1
+"Major depressive disorder, single episode, unspecified",F32.9,Depressive disorders (567),Other mental and substance use disorders (585),1
+Agoraphobia,F40.0,Anxiety disorders (571),Other mental and substance use disorders (585),1
+Social phobias,F40.1,Anxiety disorders (571),Other mental and substance use disorders (585),1
+Specific (isolated) phobias,F40.2,Anxiety disorders (571),Other mental and substance use disorders (585),1
+Other phobic anxiety disorders,F40.8,Anxiety disorders (571),Other mental and substance use disorders (585),1
+"Phobic anxiety disorder, unspecified",F40.9,Anxiety disorders (571),Other mental and substance use disorders (585),1
+Panic disorder without agoraphobia,F41.0,Anxiety disorders (571),Other mental and substance use disorders (585),1
+Generalized anxiety disorder,F41.1,Anxiety disorders (571),Other mental and substance use disorders (585),1
+Other mixed anxiety disorders,F41.3,Anxiety disorders (571),Other mental and substance use disorders (585),1
+Other specified anxiety disorders,F41.8,Anxiety disorders (571),Other mental and substance use disorders (585),1
+"Anxiety disorder, unspecified",F41.9,Anxiety disorders (571),Other mental and substance use disorders (585),1
+Acute stress reaction,F43.0,Depressive disorders (567),Other mental and substance use disorders (585),1
+Post-traumatic stress disorder (PTSD),F43.1,Depressive disorders (567),Other mental and substance use disorders (585),1
+Adjustment disorders,F43.2,Depressive disorders (567),Other mental and substance use disorders (585),1
+Other reactions to severe stress,F43.8,Depressive disorders (567),Other mental and substance use disorders (585),1
+"Reaction to severe stress, unspecified",F43.9,Depressive disorders (567),Other mental and substance use disorders (585),1
+Anorexia nervosa,F50.0,Eating disorders (572),Other mental and substance use disorders (585),1
+Bulimia nervosa,F50.2,Eating disorders (572),Other mental and substance use disorders (585),1
+Autistic disorder,F84.0,Autistic spectrum disorders (575),Other mental and substance use disorders (585),1
+Rett's syndrome,F84.2,Autistic spectrum disorders (575),Other mental and substance use disorders (585),1
+Other childhood disintegrative disorder,F84.3,Autistic spectrum disorders (575),Other mental and substance use disorders (585),1
+Asperger's syndrome,F84.5,Autistic spectrum disorders (575),Other mental and substance use disorders (585),1
+Other pervasive developmental disorders,F84.8,Autistic spectrum disorders (575),Other mental and substance use disorders (585),1
+"Pervasive developmental disorder, unspecified",F84.9,Autistic spectrum disorders (575),Other mental and substance use disorders (585),1
+"Attn-defct hyperactivity disorder, predom inattentive type",F90.0,Attention-deficit/hyperactivity disorder (578),Other mental and substance use disorders (585),1
+"Attn-defct hyperactivity disorder, predom hyperactive type",F90.1,Attention-deficit/hyperactivity disorder (578),Other mental and substance use disorders (585),1
+"Attention-deficit hyperactivity disorder, combined type",F90.2,Attention-deficit/hyperactivity disorder (578),Other mental and substance use disorders (585),1
+"Attention-deficit hyperactivity disorder, other type",F90.8,Attention-deficit/hyperactivity disorder (578),Other mental and substance use disorders (585),1
+"Attention-deficit hyperactivity disorder, unspecified type",F90.9,Attention-deficit/hyperactivity disorder (578),Other mental and substance use disorders (585),1
