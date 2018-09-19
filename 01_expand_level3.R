@@ -2,7 +2,7 @@ library(tidyverse)
 
 
 
-icd10_lookup = read_csv("icd10_lookup.csv")
+icd10_lookup = read_csv("original_data/icd10_lookup.csv")
 
 mapping_raw = read_csv("original_data/IHME_GBD_2016_ICD_CAUSE_MAP_CAUSES_OF_DEATH_Y2017M09D14.csv", skip = 1) %>% 
   select(cause_name = Cause, icd10 = ICD10)

@@ -1,6 +1,6 @@
 library(tidyverse)
 
-icd10_lookup = read_csv("icd10_lookup.csv")
+icd10_lookup = read_csv("original_data/icd10_lookup.csv")
 
 cause_hierarchy = read_csv("original_data/IHME_GBD_2016_CAUSE_HIERARCHY_Y2017M10D02.csv") %>% 
   select(cause_id, cause_name)
