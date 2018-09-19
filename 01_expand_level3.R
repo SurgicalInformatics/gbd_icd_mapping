@@ -4,16 +4,16 @@ library(tidyverse)
 
 icd10_lookup = read_csv("icd10_lookup.csv")
 
-mapping_raw = read_csv("data/IHME_GBD_2016_ICD_CAUSE_MAP_CAUSES_OF_DEATH_Y2017M09D14.csv", skip = 1) %>% 
+mapping_raw = read_csv("original_data/IHME_GBD_2016_ICD_CAUSE_MAP_CAUSES_OF_DEATH_Y2017M09D14.csv", skip = 1) %>% 
   select(cause_name = Cause, icd10 = ICD10)
 
-mapping_missing = read_csv("data/GBD_map_missing_surginf_17042018.csv", skip = 1) %>% 
+mapping_missing = read_csv("original_data/GBD_map_missing_surginf_17042018.csv", skip = 1) %>% 
   select(cause_name = Cause, icd10 = ICD10)
 
 mapping_raw = bind_rows(mapping_raw, mapping_missing) %>% 
   na.omit()
 
-cause_hierarchy = read_csv("data/IHME_GBD_2016_CAUSE_HIERARCHY_Y2017M10D02.csv") %>% 
+cause_hierarchy = read_csv("original_data/IHME_GBD_2016_CAUSE_HIERARCHY_Y2017M10D02.csv") %>% 
   select(-cause_outline, -sort_order) # the outline looks confusingly/coincidentally similar to ICD but it's not
 
 alldata = mapping_raw %>% 
@@ -92,11 +92,14 @@ gather_range = expand_range %>%
   filter(icd10_expanded %in% icd10_lookup$icd10) %>% 
   distinct(cause_id, icd10_expanded, .keep_all = TRUE)
 
-gather_range %>% 
+gbd_icd10_lookup_level3_long = gather_range %>% 
   select(cause_id, icd10 = icd10_expanded) %>% 
   left_join(icd10_lookup) %>% 
-  arrange(icd10_name, icd10) %>% 
-  write_csv("gbd_icd10_lookup_level3_long.csv")
+  arrange(icd10_name, icd10)
+
+write_csv(gbd_icd10_lookup_level3_long, "interim_checks/gbd_icd10_lookup_level3_long.csv")
+
+
 
 for_checking = gather_range %>% 
   group_by(icd10, cause_id) %>% 
@@ -107,8 +110,8 @@ for_checking = gather_range %>%
   full_join(level3) %>% 
   select(cause_id, cause_name, icd10_lookup_provided = icd10, icd10_ranges_expanded = expanded)
 
-write_csv(for_checking, "gbd_icd10_lookup_level3_for_checking.csv")
+#write_csv(for_checking, "gbd_icd10_lookup_level3_for_checking.csv")
 
 
-
+rm(level2, level3, level4)
 
